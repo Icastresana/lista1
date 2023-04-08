@@ -142,8 +142,10 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
  
  
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gzcQjGn/golf.png" group-title="Otros" tvg-id="M+ GOLF HD", M. Golf 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzcQjGn/golf.png" group-title="Otros" tvg-id="M+ Golf HD", M. Golf 1080 
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsLmdy9/Golf2.png" group-title="Otros" tvg-id="M+ Golf 2 HD", M. Golf 2 1080
+acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7zB3Nf0/Tennis-Cha.jpg" group-title="Otros" tvg-id="I217.33395.zap2it.com"", Tennis Channel
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", +WRC+
