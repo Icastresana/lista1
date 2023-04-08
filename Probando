@@ -217,13 +217,13 @@ acestream://63ab9528b16e536be0da44d6f5aceac357292b95
  
  
  
-#EXTINF:-1 tvg-logo="" group-title="Evento" tvg-id="", Calidad Original Eventos
+#EXTINF:-1 tvg-logo="" group-title="Evento" tvg-id="", Nascar
 acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBwYP0x/Danny.jpg" group-title="Evento" tvg-id="", OFF
 acestream://c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="I213.62079.zap2it.com",MLB TV
 acestream://95b01d1f2f895a5f784d3389fce0565647c0224f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="",DAZN 1
-acestream://8c69914eb2ad331e67a700bcecc347a630465c44
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="",M+ Golf 2 HD
+acestream://d6ed18556fc6d039a9afd2cabc850f6c8b65ccaa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvTMTny/ManuK0s.jpg" group-title="Evento" tvg-id="", Evento
 acestream://b43ffb9f00b3b10313b912ca5d3908e8de6f957e
