@@ -156,6 +156,8 @@ acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
 acestream://63add41b197c2492f2ec7156cdedb427e999370b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQdWHw4/MLBTV.jpg" group-title="Otros" tvg-id="I213.62079.zap2it.com",MLB TV
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="Otros" tvg-id="·Mundotoro",·Mundotoro 
+acestream://fb4b9de0f936142927573c60f19d4a08c4ecae5a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tC1WXNb/gol.png" group-title="Otros" tvg-id="GOL PLAY", GOL TV 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVVVqpw/tdp.png" group-title="Otros" tvg-id="Teledeporte", tdp 1080  (TeleDeporte) 
@@ -221,7 +223,7 @@ acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
  
  
  
-#EXTINF:-1 tvg-logo="" group-title="Evento" tvg-id="", Nascar
+#EXTINF:-1 tvg-logo="" group-title="Evento" tvg-id="", Evento del día (NBA)
 acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBwYP0x/Danny.jpg" group-title="Evento" tvg-id="", OFF
 acestream://c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
