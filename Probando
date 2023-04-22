@@ -155,13 +155,13 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7zB3Nf0/Tennis-Cha.jpg" group-title="Otros" tvg-id="I217.33395.zap2it.com"", Tennis Channel
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", +WRC+
-acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
+acestream://8ef4e74336a0114d6def70de9d15cc4817d2f350
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xy7W8H9/f1tv.png" group-title="Otros" tvg-id="", F1 TV PRO
 acestream://63add41b197c2492f2ec7156cdedb427e999370b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQdWHw4/MLBTV.jpg" group-title="Otros" tvg-id="I213.62079.zap2it.com",MLB TV
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="Otros" tvg-id="·Mundotoro",·Mundotoro 
-acestream://fb4b9de0f936142927573c60f19d4a08c4ecae5a
+acestream://42a41c024c4bf195fd7dbe246da844d37f12de48
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tC1WXNb/gol.png" group-title="Otros" tvg-id="GOL PLAY", GOL TV 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVVVqpw/tdp.png" group-title="Otros" tvg-id="Teledeporte", tdp 1080  (TeleDeporte) 
@@ -231,9 +231,9 @@ acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBwYP0x/Danny.jpg" group-title="Evento" tvg-id="", OFF
 acestream://c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="M+ Golf HD",M+ Golf HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="M+ Golf HD",OFF
 acestream://ebdd1680365b8462505cfa95027965893ce21d98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="M+ Golf 2 HD",M+ Golf 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="M+ Golf 2 HD",OFF
 acestream://d6ed18556fc6d039a9afd2cabc850f6c8b65ccaa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvTMTny/ManuK0s.jpg" group-title="Evento" tvg-id="", Evento
 acestream://b43ffb9f00b3b10313b912ca5d3908e8de6f957e
