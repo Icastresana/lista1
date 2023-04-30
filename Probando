@@ -154,7 +154,8 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 acestream://350e84f85b1b87d4b0659d09b0155de11f886c43
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XtQ1Ct/mundotoro.png" group-title="Toros" tvg-id="Mundotoro TV",Mundotoro Opción 2
 acestream://9bed244d2f4e5b1234bd9f3e1efc845d02fe836f
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XtQ1Ct/mundotoro.png" group-title="Toros" tvg-id="Mundotoro TV",Mundotoro Opción 3
+acestream://bd1e897d3f0ce0847623a162160a35619d9b663e
 
 
 
@@ -167,7 +168,7 @@ acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", +WRC+
 acestream://8ef4e74336a0114d6def70de9d15cc4817d2f350
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xy7W8H9/f1tv.png" group-title="Otros" tvg-id="", F1 TV PRO
-acestream://63add41b197c2492f2ec7156cdedb427e999370b
+acestream://0b0280578d8b145562f4f4584c83261a56404843
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQdWHw4/MLBTV.jpg" group-title="Otros" tvg-id="I213.62079.zap2it.com",MLB TV
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tC1WXNb/gol.png" group-title="Otros" tvg-id="GOL PLAY", GOL TV 1080
@@ -204,7 +205,7 @@ acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryZP0js/Setanta.png" group-title="Europeos" tvg-id="", Setanta Sport 1080
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Europeos" tvg-id="I406.1671.tvguide.co.uk",Sky Sport F1 1080
-acestream://55a762c1e48db88542771a476c65ffc309bd7262
+acestream://31ccc2ce2ca3e968bb37114fe6fae02073937fe8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Europeos" tvg-id="I406.1671.tvguide.co.uk", Sky Sport F1 720
 acestream://28710e9057927317c869b11d669c28a4d77a6ab3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Europeos" tvg-id="I406.1671.tvguide.co.uk", Sky Sport F1 720
@@ -235,8 +236,8 @@ acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
  
  
  
-#EXTINF:-1 tvg-logo="" group-title="Evento" tvg-id="", Evento del día (NBA)
-acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
+#EXTINF:-1 tvg-logo="" group-title="Evento" tvg-id="", Evento del día 
+acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBwYP0x/Danny.jpg" group-title="Evento" tvg-id="", OFF
 acestream://c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="M+ Golf HD",M+ Golf HD
