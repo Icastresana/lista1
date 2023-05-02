@@ -22,8 +22,10 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RzcLXV0/daznliga.png" group-title="Liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tZ0rn2q/daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZ0rn2q/daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2 1080 Multiaudio
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZ0rn2q/daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2 720
+acestream://05241e69091eedbb354f2651d30c83f40d1bb653
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDzT5f3/laligatv.png" group-title="Liga" tvg-id="LaLigaTV Bar HD", LaLiga Tv Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
  
