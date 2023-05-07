@@ -138,6 +138,12 @@ acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 720 
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", F1 1080 pmeister
+acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", F1 Multicámara
+acestream://f22d0eb6eab52150464cae7ad6608fb4abd419f4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", OnBoard Alonso
+acestream://6e45989cd55c26442ee74c6653f315eae81ffbc7
  
  
  
@@ -233,16 +239,3 @@ acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 acestream://63ab9528b16e536be0da44d6f5aceac357292b95
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crYJ1rM/DirectTV.png" group-title="Latam" tvg-id="", Direct Sport Plus 
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
- 
- 
- 
-#EXTINF:-1 tvg-logo="" group-title="Evento" tvg-id="", Evento del día 
-acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wBwYP0x/Danny.jpg" group-title="Evento" tvg-id="", OFF
-acestream://c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="M+ Golf HD",M+ Golf HD
-acestream://ebdd1680365b8462505cfa95027965893ce21d98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVm64yF/alexgdbu.jpg" group-title="Evento" tvg-id="M+ Golf 2 HD",M+ Golf 2 HD
-acestream://d6ed18556fc6d039a9afd2cabc850f6c8b65ccaa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvTMTny/ManuK0s.jpg" group-title="Evento" tvg-id="", Evento
-acestream://b43ffb9f00b3b10313b912ca5d3908e8de6f957e
