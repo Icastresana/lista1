@@ -16,6 +16,14 @@ acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jrx8jXw/laliga2.png" group-title="Liga" tvg-id="M+ LaLigaTV 2 HD", M. LaLiga 2 720
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jrx8jXw/laliga2.png" group-title="Liga" tvg-id="M+ LaLigaTV 3", M. LaLiga 3 1080
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jrx8jXw/laliga2.png" group-title="Liga" tvg-id="M+ LaLigaTV 4", M. LaLiga 4 1080
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jrx8jXw/laliga2.png" group-title="Liga" tvg-id="M+ LaLigaTV 5", M. LaLiga 5 1080
+acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jrx8jXw/laliga2.png" group-title="Liga" tvg-id="M+ LaLigaTV 6", M. LaLiga 6 1080
+acestream://c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RzcLXV0/daznliga.png" group-title="Liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1080 Multiaudio
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RzcLXV0/daznliga.png" group-title="Liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1080 Multiaudio
@@ -26,8 +34,16 @@ acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tZ0rn2q/daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2 720
 acestream://05241e69091eedbb354f2651d30c83f40d1bb653
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZ0rn2q/daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 3", DAZN LaLiga 3 1080
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZ0rn2q/daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 4", DAZN LaLiga 4 1080
+acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZ0rn2q/daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 5", DAZN LaLiga 5 1080
+acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDzT5f3/laligatv.png" group-title="Liga" tvg-id="LaLigaTV Bar HD", LaLiga Tv Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDzT5f3/laligatv.png" group-title="Liga" tvg-id="LaLigaTV Bar HD", LaLiga Tv especial
+acestream://188ad031ae315ee82e25b4a97187105adf4ae6a7
  
  
  
@@ -42,7 +58,7 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NNXCbv/smartbank2.png" group-title="Segunda" tvg-id="LaLiga SmartbankTV M2 HD", LaLiga SmartBank 2 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkY3fpT/smartbank3.png" group-title="Segunda" tvg-id="LaLiga SmartbankTV M3 HD", LaLiga SmartBank 3 1080
-acestream://1104426e14b649eb23fee16698768544285de478
+acestream://59ba45b79152e4599144177b234f6491fc19db53
  
  
  
@@ -74,7 +90,8 @@ acestream://08db089084ddbaceba7c239817407bf99708b9ad
 acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gkW4PY/deportes6.png" group-title="M Deportes" tvg-id="M+ Deportes 6", M. Deportes 6 1080
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
- 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxTVvN1/Deportes7.png" group-title="M Deportes" tvg-id="M+ Deportes 7", M. Deportes 7 1080
+acestream://ea687038106b88a30fbbf7f1c981eaf761aba720
  
  
  
@@ -82,16 +99,10 @@ acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones Multiaudio 1080
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones Multiaudio 1080
-acestream://6fb454a0120acc80f830e4959d7c9c2f97a1bbe9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones Multiaudio 1080
-acestream://ccb4b3d3daafe67db6d50298849e27619f4b9e4c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1080
-acestream://ca65422c1b65887d670f3661ae1290a000bb8ef6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 720 Multiaudio
-acestream://aac2956fde7fe73ef5336ed6fd159a5f44704d6a
+acestream://9a8ad8e7cd59aa673f60906f7fea72c577e7b788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2  1080
@@ -142,6 +153,7 @@ acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", F1 Multicámara
 acestream://d8a7c82cc8b42cd7169b4f3671bbcec0a869f041
+
  
  
  
@@ -237,3 +249,20 @@ acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 acestream://63ab9528b16e536be0da44d6f5aceac357292b95
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crYJ1rM/DirectTV.png" group-title="Latam" tvg-id="", Direct Sport Plus 
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/GHzR8cw/rioira.jpg" group-title="Películas", El río de la ira (2022)
+acestream://24912484479c0e9c4f16f4143c68e485df502dba
+#EXTINF:0 tvg-logo="https://i.ibb.co/6n8gwp3/mentira.jpg" group-title="Películas", El rey de la mentira (2022)
+acestream://44624d7ab1de1884c079820d3be7f8b5d435b63d
+#EXTINF:0 tvg-logo="https://i.ibb.co/d5q7nZ5/libro.jpg" group-title="Películas", El gran libro de oro (2022)
+acestream://3efbcf97c945dcd4b0e3b890fa70a0a12d02c742
+#EXTINF:0 tvg-logo="https://i.ibb.co/p1DYbcP/crater.jpg" group-title="Películas", Crater (2023)
+acestream://3cb701f13e2a1e9ea86a3443c8168d9f024350b8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Y3XHzGy/ghostd.jpg" group-title="Películas", Ghosting (2023)
+acestream://79444aa7bea5bee5b43c5f216ec639f4eb4431a2
+#EXTINF:0 tvg-logo="https://i.ibb.co/ggf9Kdr/despertar.jpg" group-title="Películas", Posesión infernal. El despertar (2023)
+acestream://c920463324e76e4d4b02d04924dcf36beacfa4c6
+#EXTINF:0 tvg-logo="https://i.ibb.co/bK6RMbD/Irati.jpg" group-title="Películas", Irati (2022)
+acestream://1ab2e6f8641333fc0a67d458099610d21ed71d6d
