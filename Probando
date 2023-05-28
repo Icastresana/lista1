@@ -140,7 +140,8 @@ acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", F1 1080 pmeister
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", F1 Multicámara
+acestream://d8a7c82cc8b42cd7169b4f3671bbcec0a869f041
  
  
  
