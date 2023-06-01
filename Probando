@@ -168,12 +168,8 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
  
  
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0XtQ1Ct/mundotoro.png" group-title="Toros" tvg-id="Mundotoro TV",Mundotoro Opción 1
-acestream://9761db7eddf50a1ed35e0c5684c00b5c18b6a5d6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0XtQ1Ct/mundotoro.png" group-title="Toros" tvg-id="Mundotoro TV",Mundotoro Opción 2
-acestream://ff5b6d8e44588aaf3bf8b4ff1631e369018f2c75
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0XtQ1Ct/mundotoro.png" group-title="Toros" tvg-id="Mundotoro TV",Mundotoro Opción 3
-acestream://4e5adb4d300b9bfbfbabffcce014540d2078bc89
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XtQ1Ct/mundotoro.png" group-title="Toros" tvg-id="Mundotoro TV", Mundotoro 
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
 
 
  
@@ -181,8 +177,8 @@ acestream://4e5adb4d300b9bfbfbabffcce014540d2078bc89
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7zB3Nf0/Tennis-Cha.jpg" group-title="Otros" tvg-id="I217.33395.zap2it.com"", Tennis Channel
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", +WRC+
-acestream://8ef4e74336a0114d6def70de9d15cc4817d2f350
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", +WRC+Rallye Cerdeña 1 a 4 Junio
+acestream://0fc2ae7a8980c2f935a4208edb8489ff8bc85f0b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xy7W8H9/f1tv.png" group-title="Otros" tvg-id="", F1 TV PRO
 acestream://0b0280578d8b145562f4f4584c83261a56404843
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQdWHw4/MLBTV.jpg" group-title="Otros" tvg-id="I213.62079.zap2it.com",MLB TV
@@ -266,3 +262,5 @@ acestream://79444aa7bea5bee5b43c5f216ec639f4eb4431a2
 acestream://c920463324e76e4d4b02d04924dcf36beacfa4c6
 #EXTINF:0 tvg-logo="https://i.ibb.co/bK6RMbD/Irati.jpg" group-title="Películas", Irati (2022)
 acestream://1ab2e6f8641333fc0a67d458099610d21ed71d6d
+#EXTINF:0 tvg-logo="https://i.ibb.co/7VxWvdL/Lewan.jpg" group-title="Películas", Lewandowski. Lo desconocido (2023)
+acestream://a14e391476e69dea9ea4db143df3f33c6e9de0c1
