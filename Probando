@@ -178,7 +178,9 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7zB3Nf0/Tennis-Cha.jpg" group-title="Otros" tvg-id="I217.33395.zap2it.com"", Tennis Channel
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", +WRC+Rallye Cerdeña 1 a 4 Junio
-acestream://0fc2ae7a8980c2f935a4208edb8489ff8bc85f0b
+acestream://e2a6e73fd8a4decb9c9e587df94917fbefb310fd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", +WRC+Rallye Cerdeña 1 a 4 Junio Opción 2
+acestream://78876242efee8bcb2b1aefc4b500958bfc973ee2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xy7W8H9/f1tv.png" group-title="Otros" tvg-id="", F1 TV PRO
 acestream://0b0280578d8b145562f4f4584c83261a56404843
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQdWHw4/MLBTV.jpg" group-title="Otros" tvg-id="I213.62079.zap2it.com",MLB TV
@@ -264,3 +266,7 @@ acestream://c920463324e76e4d4b02d04924dcf36beacfa4c6
 acestream://1ab2e6f8641333fc0a67d458099610d21ed71d6d
 #EXTINF:0 tvg-logo="https://i.ibb.co/7VxWvdL/Lewan.jpg" group-title="Películas", Lewandowski. Lo desconocido (2023)
 acestream://a14e391476e69dea9ea4db143df3f33c6e9de0c1
+#EXTINF:0 tvg-logo="https://i.ibb.co/VDtwyhf/mario.jpg" group-title="Películas", Super Mario Bros. La película (2023)
+acestream://38179a39063494fac5112edf26e317430d5b51bb
+#EXTINF:0 tvg-logo="https://i.ibb.co/ySpYrC1/Best.jpg" group-title="Películas", The Best Man (2023)
+acestream://db3af17ccf214542672c1fe1da3ab4cb00ebc251
