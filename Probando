@@ -32,9 +32,9 @@ acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
  
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fkpqH3G/smartbank1.png" group-title="Segunda" tvg-id="LaLiga SmartbankTV HD", LaLiga SmartBank 1080 MultiAudio
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fkpqH3G/smartbank1.png" group-title="Segunda" tvg-id="LaLiga SmartbankTV HD", LaLiga SmartBank 720
-acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NNXCbv/smartbank2.png" group-title="Segunda" tvg-id="LaLiga SmartbankTV M2 HD", LaLiga SmartBank 2 1080
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NNXCbv/smartbank2.png" group-title="Segunda" tvg-id="LaLiga SmartbankTV M2 HD", LaLiga SmartBank 2 720
@@ -131,6 +131,8 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Canada Multicamara
 acestream://dca8b79aadd3763786c255746b7712faa7db55e6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMttFGm/F1TV.png" group-title="F1" tvg-id="F1 TV", F1TV 1080 50fps 
+acestream://bb2976a6e2296ffa562c91d761db5460f325bd1a
  
  
  
@@ -222,3 +224,7 @@ acestream://a14e391476e69dea9ea4db143df3f33c6e9de0c1
 acestream://38179a39063494fac5112edf26e317430d5b51bb
 #EXTINF:0 tvg-logo="https://i.ibb.co/ySpYrC1/Best.jpg" group-title="Películas", The Best Man (2023)
 acestream://db3af17ccf214542672c1fe1da3ab4cb00ebc251
+#EXTINF:0 tvg-logo="https://i.ibb.co/WyqtMzS/John-Wick4.jpg" group-title="Películas", John Wick 4 (2023)
+acestream://61c4abd2a1fd66abf8c73b04150a7da1fa40ace7
+#EXTINF:0 tvg-logo="https://i.ibb.co/5FQjdzv/medellin.jpg" group-title="Películas", Medellin (2023)
+acestream://ac8d6c25d0f8522552eb1af4ad534dc36abca81e
