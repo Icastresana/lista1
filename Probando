@@ -154,7 +154,9 @@ acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gzcQjGn/golf.png" group-title="Otros" tvg-id="M+ Golf HD", M. Golf 1080 
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7njNRx4/Wrc.png" group-title="Otros" tvg-id="", Rally safari kenia 1080
-acestream://5cd5c9f5b7526e22e70059d0320537e850ff2391
+acestream://9f9262d9d57a227bb86e02ac9d3221de5d4d6e4c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZd84Mc/ufc.png" group-title="Otros" tvg-id="", UFC
+acestream://d4aa975dd59ae7f4e68ceadee8b77d65e9fc1360
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfq9dHk/la1.png" group-title="Otros" tvg-id="La 1 HD", LA 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfq9dHk/la1.png" group-title="Otros" tvg-id="La 1 HD", LA 1 1080
