@@ -129,10 +129,10 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 720 
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Canada Multicamara
-acestream://dca8b79aadd3763786c255746b7712faa7db55e6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMttFGm/F1TV.png" group-title="F1" tvg-id="F1 TV", F1TV 1080 50fps 
-acestream://bb2976a6e2296ffa562c91d761db5460f325bd1a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nYdkk9/nf1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Austria Multicamara
+acestream://a88c674c825fd00a936f424f58cd9004f52eb59b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMttFGm/F1TV.png" group-title="F1" tvg-id="F1 TV", DAZN F! 4K
+acestream://22f3a30c5dfc3c09eee85688cd27daba4944aaab
  
  
  
