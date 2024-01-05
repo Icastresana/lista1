@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
     <channel id="Canal 1">
-        <display-name lang="es">Canal 1</display-name>
     </channel>
     <channel id="Canal 2">
-        <display-name lang="es">Canal 2</display-name>
     </channel>
     <programme start="20240105080000 +0100" stop="20240105230000 +0100" channel="Canal 1">
         <title lang="es">20:30 Basket LEB oro</title>
