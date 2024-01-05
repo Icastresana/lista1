@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <epg>
-    <channel id="Canal 1" tvg-id="Canal 1">
-        <programme start="2024-01-05 08:00:00" stop="2024-01-05 23:00:00">
-            <title>20 :30 Basket LEB oro</title>
-            <description>Tau Castello - Basquet Girona</description>
-        </programme>  
-    </channel>
-    <channel id="Canal 2" tvg-id="Canal 2">
-        <programme start="2024-01-05 08:00:00" stop="2024-01-05 23:00:00">
-            <title>Nada</title>
-            <description>Sin programacion</description>
-        </programme>
-    </channel>
+    <channel id="Canal 1" tvg-id="Canal 1"></channel>
+    <channel id="Canal 2" tvg-id="Canal 2"></channel>
+    <programme start="2024-01-05 08:00:00" stop="2024-01-05 23:00:00" channel="Canal 1">
+        <title>20 :30 Basket LEB oro</title>
+        <description>Tau Castello - Basquet Girona</description>
+    </programme>  
+    <programme start="2024-01-05 08:00:00" stop="2024-01-05 23:00:00" channel="Canal 2">
+        <title>Nada</title>
+        <description>Sin programacion</description>
+    </programme>
 </epg>
