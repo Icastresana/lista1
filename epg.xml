@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <channel id="Canal 1">
-    </channel>
-    <channel id="Canal 2">
-    </channel>
+    <channel id="Canal 1"/>
+    <channel id="Canal 2"/>
     <programme start="20240105080000 +0100" stop="20240105230000 +0100" channel="Canal 1">
         <title lang="es">20:30 Basket LEB oro</title>
         <desc lang="es">Tau Castello - Basquet Girona</desc>
