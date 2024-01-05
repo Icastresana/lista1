@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channel id="Canal 1" tvg-id="Canal 1"></channel>
-<channel id="Canal 2" tvg-id="Canal 2"></channel>
-<programme start="20240105080000" stop="20240105230000" channel="Canal 1">
-    <title>20 :30 Basket LEB oro</title>
-    <description>Tau Castello - Basquet Girona</description>
-</programme>  
-<programme start="20240105080000" stop="20240105230000" channel="Canal 2">
-    <title>Nada</title>
-    <description>Sin programacion</description>
-</programme>
+<tv>
+    <channel id="Canal 1" tvg-id="Canal 1"></channel>
+    <channel id="Canal 2" tvg-id="Canal 2"></channel>
+    <programme start="20240105080000" stop="20240105230000" channel="Canal 1">
+        <title>20:30 Basket LEB oro</title>
+        <description>Tau Castello - Basquet Girona</description>
+    </programme>  
+    <programme start="20240105080000" stop="20240105230000" channel="Canal 2">
+        <title>Nada</title>
+        <description>Sin programacion</description>
+    </programme>
+</tv>
+
 
