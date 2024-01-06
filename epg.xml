@@ -2,11 +2,11 @@
 <tv>
     <channel id="Canal 1"/>
     <channel id="Canal 2"/>
-    <programme start="20240105080000 +0100" stop="20240105230000 +0100" channel="Canal 1">
-        <title lang="es">20:30 Basket LEB oro Tau Castello - Basquet Girona</title>
-        <desc lang="es">Tau Castello - Basquet Girona</desc>
+    <programme start="20240106080000 +0100" stop="20240106230000 +0100" channel="Canal 1">
+        <title lang="es">19:00 LEB ORO: Valladolid- Fuenlabrada</title>
+        <desc lang="es"></desc>
     </programme>  
-    <programme start="20240105080000 +0100" stop="20240105230000 +0100" channel="Canal 2">
+    <programme start="20240106080000 +0100" stop="20240106230000 +0100" channel="Canal 2">
         <title lang="es">Nada</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
