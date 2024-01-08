@@ -2,11 +2,11 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240107080000 +010000" stop="20240107230000 +010000" channel="Canal 1">
-        <title lang="es">12:00 LEB ORO: Melilla - Gipuzkoa Basket</title>
+    <programme start="20240108080000 +010000" stop="20240108230000 +010000" channel="Canal 1">
+        <title lang="es">Nada</title>
         <desc lang="es">Nada</desc>
     </programme>  
-    <programme start="20240107080000 +0100" stop="20240107230000 +0100" channel="Canal 2">
+    <programme start="20240108080000 +0100" stop="20240108230000 +0100" channel="Canal 2">
         <title lang="es">Nada</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
