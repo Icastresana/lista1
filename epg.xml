@@ -2,12 +2,12 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240108080000 +010000" stop="20240108230000 +010000" channel="Canal 1">
-        <title lang="es">Nada</title>
+    <programme start="20240113080000 +010000" stop="20240113230000 +010000" channel="Canal 1">
+        <title lang="es">16:00 Córdoba - Intercity 18:00 Castellón - Algeciras 20:00 Castilla  - Ibiza</title>
         <desc lang="es">Nada</desc>
     </programme>  
-    <programme start="20240108080000 +0100" stop="20240108230000 +0100" channel="Canal 2">
-        <title lang="es">Nada</title>
+    <programme start="20240113080000 +0100" stop="20240113230000 +0100" channel="Canal 2">
+        <title lang="es">16:00 Sestao River - Teruel 18:00 Arenteiro - Barcelona Atletic 20:00 Unionistas - Rayo Majadahonda</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
 </tv>
