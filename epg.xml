@@ -2,12 +2,12 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240113080000 +010000" stop="20240113230000 +010000" channel="Canal 1">
-        <title lang="es">16:00 Córdoba - Intercity 18:00 Castellón - Algeciras 20:00 Castilla  - Ibiza</title>
+    <programme start="20240114080000 +010000" stop="20240114230000 +010000" channel="Canal 1">
+        <title lang="es">12:00 Ceuta - Málaga 16:00 Alcoyano - Antequera 18:00 Cult.Leonesa - Deportivo 20:00 At.Madrid B - Linares</title>
         <desc lang="es">Nada</desc>
     </programme>  
-    <programme start="20240113080000 +0100" stop="20240113230000 +0100" channel="Canal 2">
-        <title lang="es">16:00 Sestao River - Teruel 18:00 Arenteiro - Barcelona Atletic 20:00 Unionistas - Rayo Majadahonda</title>
+    <programme start="20240114080000 +0100" stop="20240114230000 +0100" channel="Canal 2">
+        <title lang="es">12:00 Melilla - Murcia 16:00 Logroñes - Ponferradina 18:00 Mérida - Rec. Granada 20:00 R.Sociedad B - Osasuna Prom.</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
 </tv>
