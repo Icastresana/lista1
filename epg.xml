@@ -3,7 +3,7 @@
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
     <programme start="20240203080000 +010000" stop="20240203230000 +010000" channel="Canal 1">
-        <title lang="es"></title>
+        <title lang="es">16:00 Atlético "B" - Castellón 20:00 Linares - Córdoba</title>
         <desc lang="es">Nada</desc>
     </programme>
     <programme start="20240204080000 +010000" stop="20240204230000 +010000" channel="Canal 1">
@@ -11,7 +11,7 @@
         <desc lang="es">Nada</desc>
     </programme>
     <programme start="20240203080000 +0100" stop="20240203230000 +0100" channel="Canal 2">
-        <title lang="es"></title>
+        <title lang="es">16:00 Algeciras - Alcoyano</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
     <programme start="20240204080000 +0100" stop="20240204230000 +0100" channel="Canal 2">
