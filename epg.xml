@@ -2,16 +2,16 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240323080000 +010000" stop="20240323230000 +010000" channel="Canal 1">
-        <title lang="es">16:00 Córdoba - SanFernando 18:00 Algeciras - Málaga</title>
+    <programme start="20240518080000 +010000" stop="20240518230000 +010000" channel="Canal 1">
+        <title lang="es">19:00 Ibiza - Córdoba</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="2024032480000 +010000" stop="20240324230000 +010000" channel="Canal 1">
-        <title lang="es">12:00 Recreativo Huelva - Mérida 20:00 Osasuna - Cultural Leonesa</title>
-        <desc lang="es">Nada</desc>
-    </programme>
-    <programme start="20240323080000 +0100" stop="20240323230000 +0100" channel="Canal 2">
+    <programme start="2024051980000 +010000" stop="20240519230000 +010000" channel="Canal 1">
         <title lang="es"></title>
+        <desc lang="es">Nada</desc>
+    </programme>
+    <programme start="20240518080000 +0100" stop="20240518230000 +0100" channel="Canal 2">
+        <title lang="es">19:00 Rec.Granada - Rec.Huelva</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
     <programme start="20240324080000 +0100" stop="20240324230000 +0100" channel="Canal 2">
