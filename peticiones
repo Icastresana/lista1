@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG"
 
 
-#EXTINF:-1 tvg-logo="" group-title="boxeo" tvg-id="", Fury - Usik
-acestream://fcdd3f9e4c4e3a9463af1f69064bdcfcd446afd9
+
 
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 1", Canal 1
 acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef
@@ -26,6 +25,14 @@ acestream://f031f5728b32f6089dda28edebe990cf198108d8
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 720
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
+#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 3 HD", M. LaLiga 3
+acestream://de52318ab15c921d8d5c036c5f33562382b5ae71
+#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 4 HD", M. LaLiga 4
+acestream://5c2ee247211b205f64ef1cf90ef5c45408657326
+#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 5 HD", M. LaLiga 5
+acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d
+#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 6 HD", M. LaLiga 6
+acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21 
 
 
 
@@ -42,6 +49,12 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3 HD", DAZN LaLiga 3
+acestream://3d0b2395098452617097896abb38956965b8a396
+#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4 HD", DAZN LaLiga 4
+acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689
+#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 HD", DAZN LaLiga 5
+acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 
 
 
