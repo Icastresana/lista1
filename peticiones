@@ -27,11 +27,11 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 3 HD", M. LaLiga 3
 acestream://de52318ab15c921d8d5c036c5f33562382b5ae71
-#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 4 HD", M. LaLiga 4
+#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 4", M. LaLiga 4
 acestream://5c2ee247211b205f64ef1cf90ef5c45408657326
-#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 5 HD", M. LaLiga 5
+#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 5", M. LaLiga 5
 acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d
-#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 6 HD", M. LaLiga 6
+#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 6", M. LaLiga 6
 acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21 
 
 
@@ -49,11 +49,11 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3 HD", DAZN LaLiga 3
+#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3", DAZN LaLiga 3
 acestream://3d0b2395098452617097896abb38956965b8a396
-#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4 HD", DAZN LaLiga 4
+#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4", DAZN LaLiga 4
 acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689
-#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 HD", DAZN LaLiga 5
+#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5", DAZN LaLiga 5
 acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 
 
