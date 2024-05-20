@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG"
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG"
 
 
 
@@ -7,6 +6,7 @@
 acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 2", Canal 2
 acestream://6af6ef2a1e14b58801a1176f88ea5e323fb0ac20
+
 
 
 
@@ -23,13 +23,13 @@ acestream://f031f5728b32f6089dda28edebe990cf198108d8
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 720
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 3 HD", M. LaLiga 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 3 HD", M. LaLiga 3
 acestream://de52318ab15c921d8d5c036c5f33562382b5ae71
-#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 4", M. LaLiga 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dGWY2Fp/liga4.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 4", M. LaLiga 4
 acestream://5c2ee247211b205f64ef1cf90ef5c45408657326
-#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 5", M. LaLiga 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XC2XKKx/liga5.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 5", M. LaLiga 5
 acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d
-#EXTINF:-1 tvg-logo="" group-title="M LaLiga" tvg-id="M+ LaLiga TV 6", M. LaLiga 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gRnQN3N/liga6.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 6", M. LaLiga 6
 acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21 
 
 
@@ -47,13 +47,18 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3", DAZN LaLiga 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qpMTXFw/daznliga3.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3", DAZN LaLiga 3
 acestream://3d0b2395098452617097896abb38956965b8a396
-#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4", DAZN LaLiga 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJDC35p/daznliga4.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4", DAZN LaLiga 4
 acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689
-#EXTINF:-1 tvg-logo="" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5", DAZN LaLiga 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJTjVfJ/daznliga5.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5", DAZN LaLiga 5
 acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 
+
+
+ 
+ 
+ 
  
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1 1080 MultiAudio
@@ -65,7 +70,7 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2", LaLiga Hypermotion 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 3", LaLiga Hypermotion 3 1080
-acestream://b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
+acestream://424c89c7c0f251051269b578f40d13d192cf2c2d
  
  
  
@@ -170,6 +175,7 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Dcfczd/F1TV.jpg" group-title="F1" tvg-id="F1 TV", F1 TV
 acestream://8c92cfef8dd37e2dd2d3b8985b81cc7708e24d3c
+
  
  
   
@@ -204,13 +210,13 @@ acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLm78RK/LigaF.png" group-title="Liga F" tvg-id="DAZN LaLiga Femenina 1", DAZN Liga F 1
+#EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  1
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLm78RK/LigaF.png" group-title="Liga F" tvg-id="DAZN LaLiga Femenina 2", DAZN Liga F 2
+#EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  2
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLm78RK/LigaF.png" group-title="Liga F" tvg-id="DAZN LaLiga Femenina 3", DAZN Liga F 3
+#EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  3
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLm78RK/LigaF.png" group-title="Liga F" tvg-id="DAZN LaLiga Femenina 4", DAZN Liga F 4
+#EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  4
 acestream://e454681a152a86da504e63694f17f90d0586867d
 
 
@@ -321,27 +327,27 @@ acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="Inglaterra" tvg-id="Sky Sports Main Event", Sky Sport Main Event
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="Inglaterra" tvg-id="SkySportsMainEvent.uk", Sky Sport Main Event
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="Inglaterra" tvg-id="Sky Sports Premier League", Sky Sport Premier League
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="Inglaterra" tvg-id="SkySportsPremierLeague.uk", Sky Sport Premier League
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png" group-title="Inglaterra" tvg-id="Sky Sports Football", Sky Sport Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png" group-title="Inglaterra" tvg-id="SkySportsFootball.uk", Sky Sport Football
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fx1tbCQ/Skyarena.png" group-title="Inglaterra" tvg-id="Sky Sports Arena", Sky Sport Arena
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fx1tbCQ/Skyarena.png" group-title="Inglaterra" tvg-id="SkySportsArena.uk", Sky Sport Arena
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3B7YKK/Sky-Cricket.png" group-title="Inglaterra" tvg-id="Sky Sports Cricket", Sky Sport Cricket
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3B7YKK/Sky-Cricket.png" group-title="Inglaterra" tvg-id="SkySportsCricket.uk", Sky Sport Cricket
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png" group-title="Inglaterra" tvg-id="TNT Sports 1 HD", TNT Sport 1 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png" group-title="Inglaterra" tvg-id="TNTSports1.uk", TNT Sport 1 1080
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png" group-title="Inglaterra" tvg-id="TNT Sports 2 HD", TNT Sport 2 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png" group-title="Inglaterra" tvg-id="TNTSports2.uk", TNT Sport 2 1080
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M9VGB7X/TNT3.png" group-title="Inglaterra" tvg-id="TNT Sports 3 HD", TNT Sport 3 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9VGB7X/TNT3.png" group-title="Inglaterra" tvg-id="TNTSports3.uk", TNT Sport 3 1080
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xjXMsJw/TNT4.png" group-title="Inglaterra" tvg-id="TNT Sports 4 HD", TNT Sport 4 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xjXMsJw/TNT4.png" group-title="Inglaterra" tvg-id="TNTSports4.uk", TNT Sport 4 1080
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" group-title="Inglaterra" tvg-id="Viaplay Sports 1", Premier Sports 1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" group-title="Inglaterra" tvg-id="ViaplaySports1.uk", Premier Sports 1 
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbMRYqK/Premier2.png" group-title="Inglaterra" tvg-id="Viaplay Sports 2 HD", Premier Sports 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbMRYqK/Premier2.png" group-title="Inglaterra" tvg-id="ViaplaySports2.uk", Premier Sports 2 
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 
@@ -536,6 +542,6 @@ acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-logo="" group-title="USA" tvg-id="beIN Sports (Spanish)", Bein Sports Xtra Ñ
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n09HkMh/tenis.png" group-title="USA" tvg-id="Tennis Channel", Tennis Channel
-acestream://c997934cd2f5aedb5e4d393899b53bbb59369310
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7x3fT2T/nba.png" group-title="USA" tvg-id="NBA TV", NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
