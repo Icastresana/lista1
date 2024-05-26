@@ -48,11 +48,11 @@ acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpMTXFw/daznliga3.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3", DAZN LaLiga 3
-acestream://3d0b2395098452617097896abb38956965b8a396
+#acestream://3d0b2395098452617097896abb38956965b8a396
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJDC35p/daznliga4.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4", DAZN LaLiga 4
-acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689
+#acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJTjVfJ/daznliga5.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5", DAZN LaLiga 5
-acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
+#acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 
 
 
@@ -70,8 +70,28 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2", LaLiga Hypermotion 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 3", LaLiga Hypermotion 3 1080
-acestream://424c89c7c0f251051269b578f40d13d192cf2c2d
- 
+acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KqGDjxS/hypermotion4.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 4", LaLiga Hypermotion 4
+acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjgsTwd/hypermotion5.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 5", LaLiga Hypermotion 5
+acestream://7a6f7c3acc3689c40f2300432723c55d41222af0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6tFkcjZ/hypermotion6.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 6", LaLiga Hypermotion 6
+acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P9CYNGq/hypermotion7.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 7", LaLiga Hypermotion 7
+acestream://b7e43c2c3887864193578eb57079955c50070f69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TML1SZg/hypermotion8.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 8", LaLiga Hypermotion 8
+acestream://11c89343be863cf2a69b3973747c629d9e79d7b8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C27k5Qq/hypermotion9.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 9", LaLiga Hypermotion 9
+acestream://0fd11e74d20919c25d2c5d96ba6f7fc7532394c1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6Ys3f4/hypermotion10.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 10", LaLiga Hypermotion 10
+acestream://629222201d6e36cc0f4ab6244362de32bed783b2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJcVJM9/Hypermotion11.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 11", LaLiga Hypermotion 11
+acestream://d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2NLv68r/Hypermotion12.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 12", LaLiga Hypermotion 12
+acestream://7b975804279b0aa421496538ad21397cc06ddfb8
+
+
+
  
  
  
