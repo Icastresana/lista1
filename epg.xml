@@ -2,8 +2,8 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240518080000 +010000" stop="20240518230000 +010000" channel="Canal 1">
-        <title lang="es">19:00 Ibiza - Córdoba</title>
+    <programme start="20240530080000 +010000" stop="20240530230000 +010000" channel="Canal 1">
+        <title lang="es">18:30 Previa 19:00 Toros Las Ventas</title>
         <desc lang="es">Nada</desc>
     </programme>
     <programme start="2024051980000 +010000" stop="20240519230000 +010000" channel="Canal 1">
