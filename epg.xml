@@ -6,12 +6,16 @@
         <title lang="es">18:30 Previa 19:00 Toros Las Ventas</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="2024051980000 +010000" stop="20240519230000 +010000" channel="Canal 1">
-        <title lang="es"></title>
+    <programme start="20240601080000 +010000" stop="20240601230000 +010000" channel="Canal 1">
+        <title lang="es">18:30 Celta Fortuna - Málaga</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="20240518080000 +0100" stop="20240518230000 +0100" channel="Canal 2">
-        <title lang="es">19:00 Rec.Granada - Rec.Huelva</title>
+    <programme start="20240602080000 +010000" stop="20240602230000 +010000" channel="Canal 1">
+        <title lang="es">17:00 Ponfe - Córdoba 21:00 Castellón - Deportivo</title>
+        <desc lang="es">Nada</desc>
+    </programme>
+    <programme start="20240602080000 +0100" stop="20240602230000 +0100" channel="Canal 2">
+        <title lang="es">19:15 Ibiza - Barca Atlétic 21:15 Ceuta - Nástic</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
     <programme start="20240324080000 +0100" stop="20240324230000 +0100" channel="Canal 2">
