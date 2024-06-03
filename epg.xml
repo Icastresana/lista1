@@ -2,24 +2,20 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240531080000 +010000" stop="20240531230000 +010000" channel="Canal 1">
-        <title lang="es">18:30 Previa 19:00 Toros Las Ventas</title>
+    <programme start="20240608080000 +010000" stop="20240608230000 +010000" channel="Canal 1">
+        <title lang="es">19:30 Málaga - Celta Fortuna</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="20240601080000 +010000" stop="20240601230000 +010000" channel="Canal 1">
-        <title lang="es">18:30 Celta Fortuna - Málaga</title>
+    <programme start="20240609080000 +010000" stop="20240609230000 +010000" channel="Canal 1">
+        <title lang="es">20:00 Córdoba - Ponfe</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="20240602080000 +010000" stop="20240602230000 +010000" channel="Canal 1">
-        <title lang="es">17:00 Ponfe - Córdoba 21:00 Castellón - Deportivo</title>
-        <desc lang="es">Nada</desc>
-    </programme>
-    <programme start="20240602080000 +0100" stop="20240602230000 +0100" channel="Canal 2">
-        <title lang="es">19:15 Ibiza - Barca Atlétic 21:15 Ceuta - Nástic</title>
+    <programme start="20240608080000 +0100" stop="20240608230000 +0100" channel="Canal 2">
+        <title lang="es">19:30 Barca Atlétic - Ibiza</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
-    <programme start="20240324080000 +0100" stop="20240324230000 +0100" channel="Canal 2">
-        <title lang="es">12:00 Intercity - Antequera</title>
+    <programme start="20240609080000 +0100" stop="20240609230000 +0100" channel="Canal 2">
+        <title lang="es">19:45 Nástic - Ceuta</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
 </tv>
