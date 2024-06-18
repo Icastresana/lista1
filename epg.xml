@@ -2,12 +2,12 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240615080000 +010000" stop="20240615230000 +010000" channel="Canal 1">
-        <title lang="es">20:30 Málaga - Nástic</title>
+    <programme start="20240622080000 +010000" stop="20240622230000 +010000" channel="Canal 1">
+        <title lang="es">20:30 Nástic - Málaga</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="20240616080000 +010000" stop="20240616230000 +010000" channel="Canal 1">
-        <title lang="es">20:00 BarcaAtlétic - Córdoba</title>
+    <programme start="20240623080000 +010000" stop="20240623230000 +010000" channel="Canal 1">
+        <title lang="es">20:00 Córdoba - BarcaAtlétic</title>
         <desc lang="es">Nada</desc>
     </programme>
     <programme start="20240608080000 +0100" stop="20240608230000 +0100" channel="Canal 2">
