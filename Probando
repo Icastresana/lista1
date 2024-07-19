@@ -8,29 +8,19 @@ acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef
 acestream://6af6ef2a1e14b58801a1176f88ea5e323fb0ac20
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BjvBnzf/la1.png" group-title="Eurocopa" tvg-id="La 1 HD", La 1 UHD
-acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BjvBnzf/la1.png" group-title="Eurocopa" tvg-id="La 1 HD", La 1 1080
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n3JD6NQ/la2.png" group-title="Eurocopa" tvg-id="La 2", La 2 1080
-acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k9NKG28/america.png" group-title="Copa America" tvg-id="M+ Copa América HD", Copa América 1 1080
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PrGz0Hf/Champions-Tour.png" group-title="Champions Tour" tvg-id="M+ Champions Tour HD", Champions Tour 1 1080
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k9NKG28/america.png" group-title="Copa America" tvg-id="M+ Copa América HD", Copa América 1  720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PrGz0Hf/Champions-Tour.png" group-title="Champions Tour" tvg-id="M+ Champions Tour HD", Champions Tour 1  720
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c1Z0GQz/america2.png" group-title="Copa America" tvg-id="M+ Copa América 2 HD", Copa América 2 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JR3Ryjf/Champions-Tour2.png" group-title="Champions Tour" tvg-id="M+ Champions Tour 2 HD", Champions Tour 2 1080
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c1Z0GQz/america2.png" group-title="Copa America" tvg-id="M+ Copa América 2 HD", Copa América 2 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JR3Ryjf/Champions-Tour2.png" group-title="Champions Tour" tvg-id="M+ Champions Tour 2 HD", Champions Tour 2 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Copa America" tvg-id="Movistar Plus+ HD", M+ Plus+
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Copa America" tvg-id="M+ Vamos HD", Vamos 1080
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Copa America" tvg-id="M+ Vamos HD", Vamos 720
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+
 
 
 
