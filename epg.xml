@@ -2,16 +2,16 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240817080000 +010000" stop="20240817230000 +010000" channel="Canal 1">
-        <title lang="es">19:00 Osasuna-Leganés 21:30 Valencia-Barcelona</title>
+    <programme start="20240825080000 +010000" stop="20240825230000 +010000" channel="Canal 1">
+        <title lang="es">20:00 Mérida - Recreativo</title>
         <desc lang="es">Nada</desc>
     </programme>
     <programme start="20240623080000 +010000" stop="20240623230000 +010000" channel="Canal 1">
         <title lang="es">20:00 Córdoba - BarcaAtlétic</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="20240817080000 +0100" stop="20240817230000 +0100" channel="Canal 2">
-        <title lang="es">17:00 Ferrol- Málaga 19:00 Deportivo-Oviedo</title>
+    <programme start="20240825080000 +0100" stop="20240825230000 +0100" channel="Canal 2">
+        <title lang="es">20:00 Sevilla At. - Murcia</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
     <programme start="20240609080000 +0100" stop="20240609230000 +0100" channel="Canal 2">
