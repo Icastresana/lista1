@@ -2,16 +2,16 @@
 <tv>
     <channel id="Canal 1"></channel>
     <channel id="Canal 2"></channel>
-    <programme start="20240825080000 +010000" stop="20240825230000 +010000" channel="Canal 1">
-        <title lang="es">20:00 Mérida - Recreativo</title>
+    <programme start="20240831080000 +010000" stop="20240831230000 +010000" channel="Canal 1">
+        <title lang="es">19:00 Alcorcón-Hercules 21:00  Recreativo-Alcoyano</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="20240623080000 +010000" stop="20240623230000 +010000" channel="Canal 1">
-        <title lang="es">20:00 Córdoba - BarcaAtlétic</title>
+    <programme start="20240901080000 +010000" stop="20240901230000 +010000" channel="Canal 1">
+        <title lang="es">20:00 Sanluqueño-Mérida</title>
         <desc lang="es">Nada</desc>
     </programme>
-    <programme start="20240825080000 +0100" stop="20240825230000 +0100" channel="Canal 2">
-        <title lang="es">20:00 Sevilla At. - Murcia</title>
+    <programme start="20240901080000 +0100" stop="20240901230000 +0100" channel="Canal 2">
+        <title lang="es">19:00 Murcia-Yeclano</title>
         <desc lang="es">Sin programacion</desc>
     </programme>
     <programme start="20240609080000 +0100" stop="20240609230000 +0100" channel="Canal 2">
