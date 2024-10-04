@@ -56,7 +56,7 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpMTXFw/daznliga3.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3", DAZN LaLiga 3
 #acestream://3d0b2395098452617097896abb38956965b8a396
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJDC35p/daznliga4.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4", DAZN LaLiga 4
-#acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689
+#acestream://6e97745e481ee0be3b48720d4bfead7da2f08689
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJTjVfJ/daznliga5.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5", DAZN LaLiga 5
 #acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 
@@ -160,19 +160,17 @@ acestream://64a9353032efa2acb093d0bb86481f20f482d47e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sbYJhj/camp07.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 7", M.L. Campeones 7 1080
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbjbDJ7/camp08.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 8", M.L. Campeones 8 1080
-acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbjbDJ7/camp08.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 8", M.L. Campeones 8 1080
 acestream://4f4ecd36ebc8c2346c27c50b4874c07186aa1b2e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b3xGtFF/camp09.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 9", M.L. Campeones 9 SD
-acestream://7244379f8f6382d40afec871fb8e4219a803840b
+acestream://c23d645568a7f7afb59bd6d15c5801cf6953c62d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t3Y34RT/camp10.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 10", M.L. Campeones 10 SD
-acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+acestream://f6d0da06fa72655211550090936c7f4e7fa4c90b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VjxK0SB/camp11.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 11", M.L. Campeones 11 SD
-acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
+acestream://6d0aeefb27e25b971f93d318c35bdffa764b951a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MqjV32/camp12.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 12", M.L. Campeones 12 SD
-acestream://bb50397b3f49167eed95264005fae851baa7e3ee
+acestream://9ac16bb97ffd97130776f8a4ce4a9d4d2cc948e0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDDWGKF/camp13.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 13", M.L. Campeones 13 SD
-acestream://60296c246e3596f334903fefd48cfaa724a5053b
+acestream://14643a7f24fce2c26bded1d7727302d9a554c85f
  
  
  
