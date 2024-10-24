@@ -6,8 +6,6 @@
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 2", Canal 2.0
 acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Prueba", Prueba
-acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 
 
@@ -77,7 +75,7 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2", LaLiga Hypermotion 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 3", LaLiga Hypermotion 3 1080
-acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e
+acestream://20196007a6697a1f11589fd4c8bab6713c265e64
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KqGDjxS/hypermotion4.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 4", LaLiga Hypermotion 4
 #acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XjgsTwd/hypermotion5.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 5", LaLiga Hypermotion 5
