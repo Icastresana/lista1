@@ -222,16 +222,17 @@ acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1KGvn6/Golf2.png" group-title="Otros" tvg-id="M+ Golf 2 HD", M. Golf 2 1080
 acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ LaLiga TV 3 HD", Copa 1080
-#acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ LaLiga TV 3 HD", Copa 1080 plus
-#acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ LaLiga TV 3 HD", Copa 1080 Multiaudio
-#acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ LaLiga TV 3 HD", Copa 1080
-#acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ LaLiga TV 3 HD", Copa 720
-#acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ Copa del Rey", Copa 1080
+acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ Copa del Rey", Copa 720
+acestream://b545ed0de344cfb830721fb961fddb208d39d19a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ Copa del Rey", Copa 1080 plus
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ Copa del Rey", Copa 1080 Multiaudio
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Otros" tvg-id="M+ Copa del Rey", Copa 1080
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+
 
 
 
@@ -389,6 +390,12 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3B7YKK/Sky-Cricket.png" group-title="Inglaterra" tvg-id="UK | Sky Sport Cricket", Sky Sport Cricket
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 4k
+acestream://0aa775518c7d318a50f5495f50cf503bfdf78012
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 1080
+acestream://3cee3d2cf062c4cd970b5a1e697a9d586dd2d7c1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 1080
+acestream://980472ca73cd87833d8b347f85ff011c07411485
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 1", TNT Sport 1 1080
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 2", TNT Sport 2 1080
