@@ -1,12 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:00 Billie Jean King Cup - 1/4 de Final Australia - Eslovaquia
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 11:00 Moto3 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 11:00 Moto3 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 11:00 Moto3 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 11:00 Moto3 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Deportivo Abanca - Espanyol Femenino
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Billie Jean King Cup - 1/4 de Final Australia - Eslovaquia
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 12:00 Liga Guerreras - Liga Regular Rocasa Gran Canaria - BM Granollers
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 12:15 Moto2 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 12:15 Moto2 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 12:15 Moto2 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 12:15 Moto2 - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 ACB - Liga Regular Real Madrid Baloncesto - Força Lleida
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 ACB - Liga Regular Real Madrid Baloncesto - Força Lleida
@@ -19,8 +35,18 @@ acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:30 Liga Femenina -  Real Betis Féminas - Levante Femenino
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 14:00 MotoGP - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 14:00 MotoGP - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 14:00 MotoGP - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 14:00 MotoGP - G.P. de la Solidaridad (Circuito de Barcelona) Carrera
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Billie Jean King Cup - 1/4 de Final Australia - Eslovaquia
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 15:00 Kuwait Open -  Final Femenina Premier Padel Tour
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  Sevilla FC Femenino - At. Madrid Femenino
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Real Oviedo - CD Tenerife
@@ -43,6 +69,10 @@ acestream://070f82d6443a52962d6a2ed9954c979b29404932
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Billie Jean King Cup - 1/4 de Final Canadá - Gran Bretaña
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 Bermuda Championship -  Jornada 4
+acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Kuwait Open -  Final Masculina Premier Padel Tour
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Real Sociedad Femenino - Athletic Femenino
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Real Sociedad Femenino - Athletic Femenino
@@ -75,12 +105,6 @@ acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 19:00 Asobal -  BM Torrelavega - BM Cangas
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 19:00 Asobal -  BM Torrelavega - BM Cangas
-acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 19:00 Asobal -  BM Torrelavega - BM Cangas
-acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 19:00 Asobal -  BM Torrelavega - BM Cangas
-acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 19:00 NFL - Liga Regular New Orleans Saints - Cleveland Browns
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 19:00 NFL - Liga Regular New Orleans Saints - Cleveland Browns
@@ -115,6 +139,10 @@ acestream://070f82d6443a52962d6a2ed9954c979b29404932
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 19:00 NFL - Liga Regular Tennessee Titans - Minnesota Vikings
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 20:00 MotoGP - G.P. de la Solidaridad (Circuito de Barcelona) Gala FIM MotoGP Awards Temporada 2024
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKpncpk/bike.png", 20:00 MotoGP - G.P. de la Solidaridad (Circuito de Barcelona) Gala FIM MotoGP Awards Temporada 2024
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  Real Zaragoza - Málaga
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  Real Zaragoza - Málaga
@@ -131,34 +159,6 @@ acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Minnesota Timberwolves - Phoenix Suns
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 22:05 NFL - Liga Regular Denver Broncos - Atlanta Falcons
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 22:05 NFL - Liga Regular Denver Broncos - Atlanta Falcons
