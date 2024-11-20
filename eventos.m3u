@@ -23,7 +23,7 @@ acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Davis Cup Finals - 1/4 de Final Alemania - Canadá
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Billie Jean King Cup - Final Eslovaquia - Italia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Billie Jean King Cup - Final Eslovaquia - Italia
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 18:00 Salta Open -  1/8 de final A1 Padel
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
@@ -33,6 +33,8 @@ acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - Fase de grupos Twente Femenino - Real Madrid Femenino
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Billie Jean King Cup - Final Eslovaquia - Italia
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Segunda -  Eldense - Huesca
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Segunda -  Eldense - Huesca
@@ -43,6 +45,8 @@ acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Virtus Bologna - Fenerbahce Istanbul
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Billie Jean King Cup - Final Eslovaquia - Italia
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 21:00 OK Liga Femenina -  Club Patín Fraga - CH Palau
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Cleveland Cavaliers - New Orleans Pelicans
