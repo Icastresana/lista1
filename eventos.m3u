@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 San Juan Open -  1ª Ronda A1 Padel
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 Euroliga - Liga Regular Anadolu Efes Istanbul - FC Bayern Basketball
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:00 Primera -  Mallorca - FC Barcelona
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:00 Primera -  Mallorca - FC Barcelona
