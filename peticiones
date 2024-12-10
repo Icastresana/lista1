@@ -457,6 +457,8 @@ acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="Ziggo Sport 3.nl", Ziggo Sport 3
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
+#EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="Ziggo Sport 4.nl", Ziggo Sport 4
+acestream://36dfc36084b2138d3451c4700b462ac1094d693d
 #EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="Ziggo Sport 6.nl", Ziggo Sport 6	
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 
