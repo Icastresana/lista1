@@ -17,8 +17,6 @@ acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 acestream://3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Fase Liga Juventus Academy - Man City Academy
 acestream://0b348cc1ae499e810729661878764a0fab88ab69
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 15:30 EHF Europeo Femenino - Main Round Eslovenia - Alemania
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Fase Liga B. Dortmund Academy - FC Barcelona Academy
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Fase Liga B. Dortmund Academy - FC Barcelona Academy
@@ -117,3 +115,5 @@ acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 acestream://3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:00 LIV Golf -  Jornada 1
 acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:00 Campeonato del Mundo -  Budapest 2024 (Piscina corta) Sesión Matinal
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
