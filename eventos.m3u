@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 11:00 Master Final -  3er Puesto Femenino Premier Padel Tour
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 11:00 Liga Iberdrola Femenina -  Simon Verde Magnolia Cocos - CRAT A Coruña
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 ACB - Liga Regular Básquet Coruña - Joventut Badalona
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 ACB - Liga Regular Baskonia - Unicaja Málaga
@@ -151,10 +153,6 @@ acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 19:00 NFL - Liga Regular Carolina Panthers - Arizona Cardinals
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 19:00 NFL - Liga Regular Buffalo Bills - New England Patriots
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 19:00 NFL - Liga Regular Buffalo Bills - New England Patriots
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Rayo Vallecano
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Rayo Vallecano
@@ -190,6 +188,10 @@ acestream://3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 22:25 NFL - Liga Regular Miami Dolphins - San Francisco 49ers
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 22:25 NFL - Liga Regular Miami Dolphins - San Francisco 49ers
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 22:25 NFL - Liga Regular Buffalo Bills - New England Patriots
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 22:25 NFL - Liga Regular Buffalo Bills - New England Patriots
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Sacramento Kings - Indiana Pacers
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
