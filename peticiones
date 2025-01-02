@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.open-epg.com/files/turkeypremium1.xml, https://www.open-epg.com/files/poland.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/romania.xml, https://www.open-epg.com/files/italypremium.xml, https://iptvx.one/EPG"
 
 
 
@@ -211,8 +211,7 @@ acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 
  
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m9zPrNc/Euro4k.png" group-title="Eurosport" tvg-id="EUROSPORT 4K", EuroSport 4K
-#acestream://c525471499b936decc037ea86e0f8125ebf78c28 
+ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Eurosport" tvg-id="EUROSPORT 1 HD", EuroSport 1 1080
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="Eurosport" tvg-id="EUROSPORT 2", EuroSport 2 1080
@@ -240,6 +239,10 @@ acestream://4a714c436cb67d53cf197f9038239fddab2d8b20
 acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGLvySp/tdp.png" group-title="Otros" tvg-id="Teledeporte", TDP 1080
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWdYdyc/t5.png" group-title="Otros" tvg-id="Telecinco HD", Telecinco 1080
+acestream://66a7e4727bccce8ccc04e54861b06b62d89452fa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWdYdyc/t5.png" group-title="Otros" tvg-id="Telecinco HD", Telecinco 1080
+acestream://47e6dd48dd7c9705d07b13139b80e44683fd5eb1
 
 
 
@@ -397,12 +400,6 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3B7YKK/Sky-Cricket.png" group-title="Inglaterra" tvg-id="UK | Sky Sport Cricket", Sky Sport Cricket
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 4k
-acestream://0aa775518c7d318a50f5495f50cf503bfdf78012
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 1080
-acestream://3cee3d2cf062c4cd970b5a1e697a9d586dd2d7c1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 1080
-acestream://980472ca73cd87833d8b347f85ff011c07411485
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 1", TNT Sport 1 1080
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 2", TNT Sport 2 1080
