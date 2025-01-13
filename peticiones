@@ -8,23 +8,6 @@ acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="Supercopa" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="Supercopa" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Supercopa" tvg-id="Movistar Plus+ HD", M+ Plus+
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Supercopa" tvg-id="M+ Copa del Rey", Copa Especial
-acestream://938a1f2260df6cbc4a3fc2bacea323ab3ecf1788
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Supercopa" tvg-id="M+ Copa del Rey", Copa 1080
-acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwxbWnT/coparey.png" group-title="Supercopa" tvg-id="M+ Copa del Rey", Copa 720
-acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
