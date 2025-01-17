@@ -1,99 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:10 Open Australia - 2ª Ronda (Kia Arena) L. Tien - D. Medvedev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Open Australia - 3ª Ronda (Margaret Court Arena) J. Draper - A. Vukic
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:10 Open Australia - 2ª Ronda (Kia Arena) L. Tien - D. Medvedev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Open Australia - 3ª Ronda (Margaret Court Arena) J. Draper - A. Vukic
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:25 Open Australia - 2ª Ronda (Kia Arena) R. Zarazúa - J. Paolini
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Open Australia - 3ª Ronda (Margaret Court Arena) O. Danilovic - J. Pegula
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:25 Open Australia - 2ª Ronda (Kia Arena) R. Zarazúa - J. Paolini
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Open Australia - 3ª Ronda (Margaret Court Arena) O. Danilovic - J. Pegula
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 IHF Mundial - Fase de grupos España - Chile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Copa de la Reina -  Sorteo 1/4 Final
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Real Sociedad - Rayo Vallecano
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Real Sociedad - Rayo Vallecano
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Real Sociedad - Rayo Vallecano
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Real Sociedad - Rayo Vallecano
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Athletic Club - Osasuna
-acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Athletic Club - Osasuna
-acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Athletic Club - Osasuna
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/8 de final Athletic Club - Osasuna
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga - Liga Regular ASVEL Lyon-Villeurbanne - ALBA Berlin
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Ipswich Town - Brighton
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Ipswich Town - Brighton
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular AX Olimpia Milano - BC Partizan Beograd
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - Maccabi Tel Aviv BC
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - Maccabi Tel Aviv BC
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 Euroliga - Liga Regular Real Madrid Baloncesto - Olympiacos Piraeus
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 Euroliga - Liga Regular Real Madrid Baloncesto - Olympiacos Piraeus
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Premier -  Manchester Utd. - Southampton
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 IHF Mundial - Fase de grupos Baréin - Egipto
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:45 Euroliga - Liga Regular Fenerbahce Istanbul - Zalgiris Kaunas
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Liga Femenina -  Deportivo Abanca - Levante Femenino
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Liga Femenina -  Deportivo Abanca - Levante Femenino
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Premier -  Manchester Utd. - Southampton
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Liga Femenina -  Deportivo Abanca - Levante Femenino
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 21:00 Rally Dakar -  Etapa 11 Shubaytah › Shubaytah (506 km - SS: 280 km)
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 21:00 Rally Dakar -  Etapa 11 Shubaytah › Shubaytah (506 km - SS: 280 km)
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:30 Copa - 1/8 de final Real Madrid - Celta
-acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:30 Copa - 1/8 de final Real Madrid - Celta
-acestream://4a714c436cb67d53cf197f9038239fddab2d8b20
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Detroit Pistons - Indiana Pacers
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga - Liga Regular Crvena Zvezda MTS Belgrade - AS Monaco Basket
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  FC Cartagena - Real Oviedo
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  FC Cartagena - Real Oviedo
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  FC Cartagena - Real Oviedo
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  FC Cartagena - Real Oviedo
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Baskonia - Panathinaikos BC
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Baskonia - Panathinaikos BC
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular FC Bayern Basketball - Virtus Bologna
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Gipuzkoa Basket - Movistar Estudiantes
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 Euroliga - Liga Regular Barça Basket - Anadolu Efes Istanbul
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Detroit Pistons - Indiana Pacers
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 Euroliga - Liga Regular Barça Basket - Anadolu Efes Istanbul
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Open Australia - 3ª Ronda (John Cain Arena) A. Pavlyuchenkova - L. Siegemund
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Open Australia - 3ª Ronda (John Cain Arena) A. Sabalenka - C. Tauson
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Open Australia - 3ª Ronda (John Cain Arena) A. Sabalenka - C. Tauson
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Espanyol - Real Valladolid
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Espanyol - Real Valladolid
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Espanyol - Real Valladolid
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Espanyol - Real Valladolid
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Espanyol - Real Valladolid
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Espanyol - Real Valladolid
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 21:00 Rally Dakar -  Etapa 12 Shubaytah › Shubaytah (205 km - SS: 134 km)
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 21:00 Rally Dakar -  Etapa 12 Shubaytah › Shubaytah (205 km - SS: 134 km)
+acestream://98784fa0714190de289f42eb5b84e405df7e685a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:05 Open Australia -  3ª Ronda Grand Slam
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Open Australia - 3ª Ronda (John Cain Arena) D. Shnaider - D. Vekic
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Open Australia - 3ª Ronda (John Cain Arena) D. Shnaider - D. Vekic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:05 Open Australia -  3ª Ronda Grand Slam
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Open Australia - 3ª Ronda (John Cain Arena) P. Badosa - M. Kostyuk
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:00 Open Australia - 3ª Ronda (John Cain Arena) R. Carballés - T. Paul
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:30 Open Australia - 3ª Ronda (John Cain Arena) J. Fearnley - A. Zverev
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 04:00 Open Australia - 3ª Ronda (John Cain Arena) N. Borges - C. Alcaraz
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 04:00 Open Australia - 3ª Ronda (John Cain Arena) N. Borges - C. Alcaraz
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 04:00 Open Australia - 3ª Ronda (John Cain Arena) J. Mensik - A. Davidovich
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 05:00 Dubai Desert Classic -  Jornada 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:30 NBA - Liga Regular Dallas Mavericks - Oklahoma C. Thunder
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:30 NBA - Liga Regular Dallas Mavericks - Oklahoma C. Thunder
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 08:00 Dubai Desert Classic -  Jornada 3
 acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 07:00 Open Australia - 3ª Ronda (John Cain Arena) N. Osaka - B. Bencic
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:30 Open Australia - 3ª Ronda (John Cain Arena) U. Humbert - A. Fils
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 08:30 Dubai Desert Classic -  Jornada 2
-acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 08:30 Dubai Desert Classic -  Jornada 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 08:00 Dubai Desert Classic -  Jornada 3
 acestream://f41f1096862767289620be5bd85727f946a434db
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 09:00 Open Australia - 3ª Ronda (John Cain Arena) N. Djokovic - T. Machac
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 09:00 Open Australia - 3ª Ronda (John Cain Arena) N. Djokovic - T. Machac
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 09:00 Open Australia - 3ª Ronda (John Cain Arena) C. Gauff - L. Fernández
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 09:00 Open Australia - 3ª Ronda (John Cain Arena) C. Gauff - L. Fernández
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
