@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Open Australia - 3ª Ronda (Margaret Court Arena) J. Draper - A. Vukic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:55 Open Australia - 3ª Ronda (Margaret Court Arena) J. Draper - A. Vukic
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Open Australia - 3ª Ronda (Margaret Court Arena) J. Draper - A. Vukic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:55 Open Australia - 3ª Ronda (Margaret Court Arena) J. Draper - A. Vukic
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Open Australia - 3ª Ronda (Margaret Court Arena) O. Danilovic - J. Pegula
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Open Australia - 3ª Ronda (Margaret Court Arena) O. Danilovic - J. Pegula
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Copa de la Reina -  Sorteo 1/4 Final
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Open Australia - 3ª Ronda (Margaret Court Arena) O. Danilovic - J. Pegula
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Open Australia - 3ª Ronda (Margaret Court Arena) O. Danilovic - J. Pegula
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 IHF Mundial - Fase de grupos Baréin - Egipto
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:45 Euroliga - Liga Regular Fenerbahce Istanbul - Zalgiris Kaunas
