@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Open Australia - 1/4 de Final N. Djokovic - C. Alcaraz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:20 Open Australia - 1/4 de Final N. Djokovic - C. Alcaraz
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:30 Europa League - Fase Liga Galatasaray - Dynamo Kyiv
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
@@ -63,15 +63,15 @@ acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
 acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Crvena Zvezda - PSV Eindhoven
 acestream://b7f47db93dced60f54e8f89e2366ed061b534049
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Open Australia - 1/4 de Final M. Keys - E. Svitolina
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Open Australia - 1/4 de Final E. Navarro - I. Swiatek
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Open Australia - 1/4 de Final J. Sinner - A. De Miñaur
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Open Australia - 1/4 de Final B. Shelton - L. Sonego
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Miami Heat - Portland Trail Blazers
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Miami Heat - Portland Trail Blazers
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Open Australia - 1/4 de Final M. Keys - E. Svitolina
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:00 Open Australia - 1/4 de Final E. Navarro - I. Swiatek
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 04:30 Open Australia - 1/4 de Final B. Shelton - L. Sonego
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 09:30 Open Australia - 1/4 de Final J. Sinner - A. De Miñaur
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
