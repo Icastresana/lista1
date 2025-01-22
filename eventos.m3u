@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:20 Open Australia - 1/4 de Final J. Sinner - A. De Miñaur
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:30 Europa League - Fase Liga Besiktas - Athletic Club
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:30 Europa League - Fase Liga Besiktas - Athletic Club
@@ -77,7 +79,7 @@ acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Dallas Mavericks - Minnesota Timberwolves
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 09:00 Open Australia - Semifinal femenina A. Sabalenka - P. Badosa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 09:30 Open Australia - Semifinal femenina A. Sabalenka - P. Badosa
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:30 Ras al Khaimah Championship -  Jornada 1
 acestream://f41f1096862767289620be5bd85727f946a434db
