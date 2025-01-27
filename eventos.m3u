@@ -1,125 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 ACB - Liga Regular Casademont Zaragoza - MoraBanc Andorra
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 ACB - Liga Regular Casademont Zaragoza - MoraBanc Andorra
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 13:00 ACB - Liga Regular Dreamland Gran Canaria - La Laguna Tenerife
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 13:00 ACB - Liga Regular Dreamland Gran Canaria - La Laguna Tenerife
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 13:00 Liga Femenina - Liga Regular Celta Baloncesto - Movistar Estudiantes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:00 Trofeo Andratx -  Carrera Femenina Binissalem › Port d'Andratx (107,5 km)
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Rayo Vallecano - Girona
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:00 Trofeo Andratx -  Carrera Femenina Binissalem › Port d'Andratx (107,5 km)
+acestream://98784fa0714190de289f42eb5b84e405df7e685a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Cádiz CF - Mirandés
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Cádiz CF - Mirandés
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Alavés - Celta
 acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Rayo Vallecano - Girona
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Alavés - Celta
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Rayo Vallecano - Girona
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Alavés - Celta
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Rayo Vallecano - Girona
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Alavés - Celta
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Rayo Vallecano - Girona
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Alavés - Celta
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Rayo Vallecano - Girona
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Alavés - Celta
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Granada CF - Sporting Gijón
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Granada CF - Sporting Gijón
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Granada CF - Sporting Gijón
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Tottenham - Leicester City
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Tottenham - Leicester City
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Crystal Palace - Brentford
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Crystal Palace - Brentford
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Sociedad - Getafe
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Sociedad - Getafe
-acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Sociedad - Getafe
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Sociedad - Getafe
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Real Oviedo - CD Castellón
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Real Oviedo - CD Castellón
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Albacete - UD Almería
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Albacete - UD Almería
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:00 ACB - Liga Regular Força Lleida - Baskonia
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:00 ACB - Liga Regular Real Madrid Baloncesto - Básquet Coruña
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Aston Villa - West Ham
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Aston Villa - West Ham
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Espanyol Femenino - Sevilla FC Femenino
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Espanyol Femenino - Sevilla FC Femenino
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Espanyol Femenino - Sevilla FC Femenino
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 IHF Mundial - Main Round España - Brasil
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Athletic Club - Leganés
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Athletic Club - Leganés
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Athletic Club - Leganés
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Athletic Club - Leganés
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Athletic Club - Leganés
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Athletic Club - Leganés
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  Málaga - Real Zaragoza
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  Málaga - Real Zaragoza
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 ACB - Liga Regular UCAM Murcia CB - Barça Basket
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 ACB - Liga Regular UCAM Murcia CB - Barça Basket
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Boston Celtics - Houston Rockets
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 ACB - Liga Regular UCAM Murcia CB - Barça Basket
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Premier -  Fulham - Manchester Utd.
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Premier -  Fulham - Manchester Utd.
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Valencia CF
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 21:00 NFL - Conference Championships Philadelphia Eagles - Washington Commanders
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 21:05 Top 14 -  RC Toulon - La Rochelle
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Portland Trail Blazers - Oklahoma C. Thunder
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Portland Trail Blazers - Oklahoma C. Thunder
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 00:30 NFL - Conference Championships Kansas City Chiefs - Buffalo Bills
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 00:30 NFL - Conference Championships Kansas City Chiefs - Buffalo Bills
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 00:30 NFL - Conference Championships Kansas City Chiefs - Buffalo Bills
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Boston Celtics - Houston Rockets
 acestream://3a74d9869b13e763476800740c6625e715a39879
