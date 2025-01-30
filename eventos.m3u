@@ -17,8 +17,12 @@ acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:30 Hexagon Cup -  Torneo de Exhibición
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Copa Davis - Fase de Clasificación Noruega - Argentina
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Euroliga - Liga Regular Zalgiris Kaunas - FC Bayern Basketball
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Copa Davis - Fase de Clasificación Noruega - Argentina
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:05 Euroliga - Liga Regular Maccabi Tel Aviv BC - ALBA Berlin
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular AX Olimpia Milano - Panathinaikos BC
