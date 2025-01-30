@@ -1,105 +1,155 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 12:30 AlUla Tour -  Etapa 2 AlUla Old Town › Bir Jaydah Mountain Wirkah (157,7 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 12:30 AlUla Tour -  Etapa 3 Hegra › Tayma Fort (180,6 km)
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 13:00 Trofeo Calvia -  Sorteo Murcia 2025
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Hexagon Cup -  Torneo de Exhibición
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Hexagon Cup -  Torneo de Exhibición
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:30 Trofeo Calvia -  UCI Europe Tour Palmanova › Palmanova (150,1 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:30 Trofeo Felanitx -  UCI Europe Tour Ses Salines › Colònia de Sant Jordi (184,5 km)
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:30 Trofeo Calvia -  UCI Europe Tour Palmanova › Palmanova (150,1 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:30 Trofeo Felanitx -  UCI Europe Tour Ses Salines › Colònia de Sant Jordi (184,5 km)
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:30 IHF Mundial - 1/4 de Final Portugal - Alemania
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:30 LPGA Tournament of Champions -  Jornada 1
+acestream://f41f1096862767289620be5bd85727f946a434db
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:30 Hexagon Cup -  Torneo de Exhibición
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:30 Hexagon Cup -  Torneo de Exhibición
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:30 Hexagon Cup -  Torneo de Exhibición
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  CD Tenerife - Deportivo
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  CD Tenerife - Deportivo
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Juventus - Benfica
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Bayer Leverkusen - Sparta Praha
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Bayer Leverkusen - Sparta Praha
-acestream://2d7c4cfb3987b652a779afc894cca2fccbbacf21
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Inter Milan - AS Monaco
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Inter Milan - AS Monaco
-acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Girona - Arsenal
-acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Girona - Arsenal
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Manchester City - Club Brugge
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Manchester City - Club Brugge
-acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Barcelona - Atalanta
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Euroliga - Liga Regular Zalgiris Kaunas - FC Bayern Basketball
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:05 Euroliga - Liga Regular Maccabi Tel Aviv BC - ALBA Berlin
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular AX Olimpia Milano - Panathinaikos BC
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular AX Olimpia Milano - Panathinaikos BC
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Baskonia - Barça Basket
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Baskonia - Barça Basket
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - ASVEL Lyon-Villeurbanne
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Real Sociedad - PAOK FC
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Barcelona - Atalanta
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Real Sociedad - PAOK FC
 acestream://775abd8697715c48a357906d40734ccd2a10513c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Barcelona - Atalanta
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Real Sociedad - PAOK FC
 acestream://8edb264520569b2280c5e86b2dc734e120032903
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Barcelona - Atalanta
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Barcelona - Atalanta
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Barcelona - Atalanta
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga PSV Eindhoven - Liverpool
-acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga PSV Eindhoven - Liverpool
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Aston Villa - Celtic FC
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Aston Villa - Celtic FC
-acestream://c056f9e180cd7d40963129a17ff54f4ee8259353
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Bayern - Slovan Bratislava
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga FC Bayern - Slovan Bratislava
-acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Borussia Dortmund - Shakhtar Donetsk
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Stuttgart - PSG
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Stuttgart - PSG
-acestream://b7f47db93dced60f54e8f89e2366ed061b534049
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Sporting CP - Bologna
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Lille - Feyenoord
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Stade Brestois - Real Madrid
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Stade Brestois - Real Madrid
-acestream://c070cdb701fc46bb79d17568d99fc64620443d63
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Stade Brestois - Real Madrid
-acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Stade Brestois - Real Madrid
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Sturm Graz - RB Leipzig
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga GNK Dinamo Zagreb - AC Milan
-acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga GNK Dinamo Zagreb - AC Milan
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Red Bull Salzburg - At. Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Real Sociedad - PAOK FC
 acestream://3618edda333dad5374ac2c801f5f14483934b97d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Red Bull Salzburg - At. Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Real Sociedad - PAOK FC
 acestream://0b348cc1ae499e810729661878764a0fab88ab69
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Red Bull Salzburg - At. Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Real Sociedad - PAOK FC
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Real Sociedad - PAOK FC
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Twente - Besiktas
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Twente - Besiktas
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Tottenham - Elfsborg
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Tottenham - Elfsborg
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Tottenham - Elfsborg
+acestream://b7f47db93dced60f54e8f89e2366ed061b534049
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga AS Roma - Eintracht Frankfurt
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga AS Roma - Eintracht Frankfurt
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga AS Roma - Eintracht Frankfurt
+acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Athletic Club - Viktoria Plzen
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Athletic Club - Viktoria Plzen
+acestream://c070cdb701fc46bb79d17568d99fc64620443d63
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Athletic Club - Viktoria Plzen
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Athletic Club - Viktoria Plzen
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Athletic Club - Viktoria Plzen
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Ajax - Galatasaray
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Ajax - Galatasaray
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Ajax - Galatasaray
 acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Fase Liga Young Boys - Crvena Zvezda
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 Eurocup - Liga Regular Dreamland Gran Canaria - Besiktas JK Istanbul
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Anderlecht - Hoffenheim
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Anderlecht - Hoffenheim
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Anderlecht - Hoffenheim
+acestream://2d7c4cfb3987b652a779afc894cca2fccbbacf21
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Rangers FC - Saint-Gilloise
+acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Rangers FC - Saint-Gilloise
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Rangers FC - Saint-Gilloise
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga SC Braga - Lazio
+acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga SC Braga - Lazio
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga SC Braga - Lazio
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Dynamo Kyiv - RFS Riga
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Dynamo Kyiv - RFS Riga
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga O. Lyonnais - PFC Ludogorets
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga O. Lyonnais - PFC Ludogorets
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Olympiacos - Qarabag FK
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Olympiacos - Qarabag FK
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Olympiacos - Qarabag FK
+acestream://c056f9e180cd7d40963129a17ff54f4ee8259353
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga FCSB - Manchester Utd.
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga FCSB - Manchester Utd.
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga FCSB - Manchester Utd.
+acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Nice - Bodø/Glimt
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Nice - Bodø/Glimt
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Maccabi Tel Aviv FC - FC Porto
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Maccabi Tel Aviv FC - FC Porto
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Maccabi Tel Aviv FC - FC Porto
+acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga FC Midtjylland - Fenerbahçe
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga FC Midtjylland - Fenerbahçe
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga FC Midtjylland - Fenerbahçe
+acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Ferencvaros - AZ Alkmaar
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Ferencvaros - AZ Alkmaar
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Slavia Praha - Malmö FF
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Fase Liga Slavia Praha - Malmö FF
+acestream://0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 21:00 IHF Mundial - Semifinales Francia - Croacia
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Cleveland Cavaliers - Atlanta Hawks
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 Eurocup - Liga Regular Dreamland Gran Canaria - Besiktas JK Istanbul
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Cleveland Cavaliers - Atlanta Hawks
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Philadelphia 76ers - Sacramento Kings
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 03:30 NBA - Liga Regular Memphis Grizzlies - Houston Rockets
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Philadelphia 76ers - Sacramento Kings
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 03:30 NBA - Liga Regular Memphis Grizzlies - Houston Rockets
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:00 International Series India -  Jornada 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:00 International Series India -  Jornada 2
 acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:30 Bahrain Championship -  Jornada 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:30 Bahrain Championship -  Jornada 2
 acestream://f41f1096862767289620be5bd85727f946a434db
