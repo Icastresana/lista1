@@ -1,5 +1,35 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Torneo de Rotterdam - 1ª Ronda A. Fils - C. Lestienne
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 12:00 Africa Amateur Championship -  Jornada 1
+acestream://1251847ebf3d3c4be89bb900da80f60bb2edbd62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 Torneo de Rotterdam - 1ª Ronda A. Vavassori - F. Auger-Aliassime
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Rotterdam - 1ª Ronda M. Berrettini - T. Griekspoor
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:05 Vuelta Comunidad Valenciana -  Etapa 1 Orihuela › Orihuela (34 km)
+acestream://5f3658bd6f85f2d883afdbceaf9671c837f7c61c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Euroliga - Liga Regular AS Monaco Basket - Baskonia
+acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Torneo de Rotterdam - 1ª Ronda M. Bellucci - D. Medvedev
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Barça Basket - Maccabi Tel Aviv BC
+acestream://5317e5c61bba23fb731598367bf293156440318f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Barça Basket - Maccabi Tel Aviv BC
+acestream://9692132869cf08fd8768d1240669eff8bb1129f7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Coppa Italia - 1/4 de Final AC Milan - AS Roma
+acestream://28e2f4bd236cbfc00503b975e8a51cfa95542bea
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+acestream://23f02ba817225232479d04bc11a13e886d7f799b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+acestream://be5e5d5840ca1c9e0dd91b53aef9b6b23c142088
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
 acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+acestream://704d3d43e6aa360eb552501eb020793cab93175d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Torneo de Rotterdam - 1ª Ronda J. Lehecka - H. Hurkacz
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Detroit Pistons - Cleveland Cavaliers
+acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
