@@ -1,43 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Torneo de Rotterdam - 1ª Ronda A. Fils - C. Lestienne
-acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 12:00 Africa Amateur Championship -  Jornada 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 10:00 Qatar Masters -  Jornada 1
 acestream://1251847ebf3d3c4be89bb900da80f60bb2edbd62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 Torneo de Rotterdam - 1ª Ronda A. Vavassori - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Torneo de Rotterdam - 2ª Ronda J. Mensik - A. De Miñaur
 acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Rotterdam - 1ª Ronda M. Berrettini - T. Griekspoor
-acestream://5317e5c61bba23fb731598367bf293156440318f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Rotterdam - 1ª Ronda M. Berrettini - T. Griekspoor
-acestream://9692132869cf08fd8768d1240669eff8bb1129f7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Rotterdam - 1ª Ronda M. Berrettini - T. Griekspoor
-acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:05 Vuelta Comunidad Valenciana -  Etapa 1 Orihuela › Orihuela (34 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:50 Torneo de Dallas -  Etapa 1 Dubai Police Officer's Club › Dubai Harbour (149 km)
 acestream://5f3658bd6f85f2d883afdbceaf9671c837f7c61c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Euroliga - Liga Regular AS Monaco Basket - Baskonia
-acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Torneo de Rotterdam - 1ª Ronda M. Bellucci - D. Medvedev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 12:00 Africa Amateur Championship -  Jornada 2
+acestream://8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 Torneo de Rotterdam - 2ª Ronda A. Rublev - F. Marozsan
 acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Barça Basket - Maccabi Tel Aviv BC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Rotterdam - 2ª Ronda S. Tsitsipas - T. Griekspoor
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:05 Vuelta Comunidad Valenciana -  Etapa 2 La Nucía › Benifato (166 km)
+acestream://5f3658bd6f85f2d883afdbceaf9671c837f7c61c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:13 LIV Golf -  Jornada 1
+acestream://1251847ebf3d3c4be89bb900da80f60bb2edbd62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 LPGA Founders Cup -  Jornada 1
+acestream://8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 LPGA Founders Cup -  Jornada 1
+acestream://a258f0572ae1432ae8d52162e586b116010679dc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 Euroliga - Liga Regular Fenerbahce Istanbul - Real Madrid Baloncesto
 acestream://5317e5c61bba23fb731598367bf293156440318f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Barça Basket - Maccabi Tel Aviv BC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 Euroliga - Liga Regular Fenerbahce Istanbul - Real Madrid Baloncesto
 acestream://9692132869cf08fd8768d1240669eff8bb1129f7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Coppa Italia - 1/4 de Final AC Milan - AS Roma
-acestream://28e2f4bd236cbfc00503b975e8a51cfa95542bea
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/4 de Final Real Sociedad - Osasuna
 acestream://23f02ba817225232479d04bc11a13e886d7f799b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/4 de Final Real Sociedad - Osasuna
 acestream://be5e5d5840ca1c9e0dd91b53aef9b6b23c142088
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/4 de Final Real Sociedad - Osasuna
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/4 de Final Real Sociedad - Osasuna
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa - 1/4 de Final Leganés - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Copa - 1/4 de Final Real Sociedad - Osasuna
 acestream://704d3d43e6aa360eb552501eb020793cab93175d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Torneo de Rotterdam - 1ª Ronda J. Lehecka - H. Hurkacz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Torneo de Rotterdam - 2ª Ronda C. Alcaraz - A. Vavassori
 acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Detroit Pistons - Cleveland Cavaliers
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:15 Euroliga - Liga Regular Panathinaikos BC - Anadolu Efes Istanbul
 acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:00 Torneo de Dallas - 1ª Ronda T. Fritz - A. Rinderknech
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Torneo de Rotterdam - 2ª Ronda P. Martínez - H. Rune
 acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:30 Torneo de Dallas - 1ª Ronda M. Kecmanovic - D. Shapovalov
-acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:30 Copa - 1/4 de Final Valencia CF - FC Barcelona
+acestream://7b47fd387480989002b93db1fe9a28f5f7b94576
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Boston Celtics - Dallas Mavericks
+acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
