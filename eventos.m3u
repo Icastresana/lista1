@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 10:00 Qatar Masters -  Jornada 2
 acestream://1251847ebf3d3c4be89bb900da80f60bb2edbd62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:50 Torneo de Dallas -  Etapa 2 Al Dhafra Fort › Al Mirfa (111 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:50 Torneo de Dallas - 1/4 de Final Etapa 2 Al Dhafra Fort › Al Mirfa (111 km)
 acestream://5c1e4bc4d62bfbb2e6cc0abf98db29358aec2479
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 12:00 Africa Amateur Championship -  Jornada 3
 acestream://8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
@@ -33,10 +33,6 @@ acestream://989dbe43fbf4def5d2e577ca8cea35ba9793b16d
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Albacete - Real Zaragoza
 acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Albacete - Real Zaragoza
-acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Albacete - Real Zaragoza
-acestream://9692132869cf08fd8768d1240669eff8bb1129f7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Barça Basket - Olympiacos Piraeus
 acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Rayo Vallecano - Real Valladolid
@@ -65,5 +61,9 @@ acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
 acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Washington Wizards - Cleveland Cavaliers
 acestream://9692132869cf08fd8768d1240669eff8bb1129f7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:00 Torneo de Dallas - 1/4 de Final T. Paul - R. Opelka
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:30 Torneo de Dallas - 1/4 de Final D. Shapovalov - T. Machac
+acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:00 Africa Amateur Championship -  Jornada 4
 acestream://8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
