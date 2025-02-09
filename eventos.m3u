@@ -11,10 +11,6 @@ acestream://7f1bfe707b05074dcbc63f49692a637fff88801d
 acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Espanyol Femenino - FC Barcelona Femenino
 acestream://e871097e11dc05086e945bd715e854be3c3c4082
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Torneo de Rotterdam - Final C. Alcaraz - A. De Miñaur
-acestream://a54aed5e91e4a99a3582551db44fd472e1addda6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Torneo de Rotterdam - Final C. Alcaraz - A. De Miñaur
-acestream://911b6c35f4802fd358b78b328528af4650eca020
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 12:00 Vuelta Comunidad Valenciana -  Etapa 4 Abu Dhabi Fatima Bint Mubarak Ladies Academy › Abu Dhabi Breakwater (128 km)
 acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 ACB - Liga Regular Força Lleida - Real Madrid Baloncesto
@@ -57,6 +53,12 @@ acestream://121f719ebb94193c6086ef92865cf9b197750980
 acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Elche - CD Tenerife
 acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Rotterdam - Final C. Alcaraz - A. De Miñaur
+acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Rotterdam - Final C. Alcaraz - A. De Miñaur
+acestream://a54aed5e91e4a99a3582551db44fd472e1addda6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Rotterdam - Final C. Alcaraz - A. De Miñaur
+acestream://911b6c35f4802fd358b78b328528af4650eca020
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  Real Betis Féminas - Athletic Femenino
 acestream://0908f5dd264ded10b638636cb7479409cfee0813
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  Real Betis Féminas - Athletic Femenino
