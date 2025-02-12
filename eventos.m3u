@@ -1,43 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs Stuttgart Academy - Liverpool Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 Copa -  Sorteo Semifinales
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 Copa -  Sorteo Semifinales
+acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 Copa -  Sorteo Semifinales
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
 acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs Stuttgart Academy - Liverpool Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
+acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
 acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Betis Academy - Bayern Academy
-acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Betis Academy - Bayern Academy
-acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Betis Academy - Bayern Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs Sporting CP Academy - AS Monaco Academy
+acestream://d1632b993ac2f980f601e1026b3966654a93beee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs Sporting CP Academy - AS Monaco Academy
 acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Inter Milan Academy - Lille Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Midtjylland Academy - Man City Academy
 acestream://e42984ac6529407462f92201af95c01db8988368
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions - Play-Off Stade Brestois - PSG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Madrid Academy - B. Dortmund Academy
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Madrid Academy - B. Dortmund Academy
+acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Madrid Academy - B. Dortmund Academy
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
+acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
+acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
+acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
+acestream://d1632b993ac2f980f601e1026b3966654a93beee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
 acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  BM Granollers - GOG Gudme
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Trabzonspor Academy - Juventus Academy
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions - Play-Off Club Brugge - Atalanta
+acestream://d1632b993ac2f980f601e1026b3966654a93beee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions - Play-Off Club Brugge - Atalanta
+acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF Champions League - Fase de grupos Aalborg Handbold - Barça BM
 acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:45 EHF European League -  Bidasoa Irún - Benfica HB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
+acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
 acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:45 EHF European League -  Bidasoa Irún - Benfica HB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
 acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Juventus - PSV Eindhoven
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
+acestream://cc910aee690f70190b04920d61e39da5a6d0a057
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Coppa Italia - 1/4 de Final Movistar Estudiantes - UEMC RV Baloncesto
+acestream://a54aed5e91e4a99a3582551db44fd472e1addda6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Feyenoord - AC Milan
+acestream://d1632b993ac2f980f601e1026b3966654a93beee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Feyenoord - AC Milan
 acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Juventus - PSV Eindhoven
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Feyenoord - AC Milan
 acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Manchester City - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
 acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Manchester City - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
+acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
 acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Manchester City - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
 acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Manchester City - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Manchester City - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Manchester City - Real Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
 acestream://954b2cb573313690f2a6d6a2e70102fb49ace952
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Sporting CP - Borussia Dortmund
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off AS Monaco - Benfica
 acestream://e42984ac6529407462f92201af95c01db8988368
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Sporting CP - Borussia Dortmund
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off AS Monaco - Benfica
 acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Indiana Pacers - New York Knicks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Boston Celtics - San Antonio Spurs
+acestream://dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 03:00 NBA - Liga Regular Utah Jazz - Los Angeles Lakers
 acestream://dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
