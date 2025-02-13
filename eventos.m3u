@@ -3,6 +3,10 @@
 acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 11:30 Aramco Team Series -  Jornada 1
 acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 12:54 Riyadh Open -  Eslalon gigante F - 2ª manga
+acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 12:54 Riyadh Open -  Eslalon gigante F - 2ª manga
+acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
 acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
@@ -11,13 +15,9 @@ acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
 acestream://43931a2672086891ce4f6d6b4128e005e8038959
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
 acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  Eslalon gigante F - 2ª manga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:45 Abierto de Gales -  Tercera ronda
 acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  Eslalon gigante F - 2ª manga
-acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:20 Abierto de Gales -  Tercera ronda
-acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:20 Abierto de Gales -  Tercera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:45 Abierto de Gales -  Tercera ronda
 acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 15:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
 acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
@@ -33,7 +33,7 @@ acestream://f317a4fef0b96caabaaad25cadb5f45303544767
 acestream://43931a2672086891ce4f6d6b4128e005e8038959
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
 acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 18:20 Europeo de ciclismo en pista -  Día 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 18:15 Europeo de ciclismo en pista -  Día 2
 acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 Copa - 1/4 de Final Unicaja Málaga - Joventut Badalona
 acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
@@ -91,9 +91,9 @@ acestream://2c5a883ed564be5ff3692705c25556613c395b11
 acestream://43931a2672086891ce4f6d6b4128e005e8038959
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 19:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
 acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:00 Abierto de Gales -  Tercera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:21 Abierto de Gales -  Tercera ronda
 acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:00 Abierto de Gales -  Tercera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:21 Abierto de Gales -  Tercera ronda
 acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs AZ Alkmaar - Galatasaray
 acestream://e42984ac6529407462f92201af95c01db8988368
