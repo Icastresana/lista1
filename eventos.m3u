@@ -1,91 +1,155 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 Copa -  Sorteo Semifinales
-acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 Copa -  Sorteo Semifinales
-acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 Copa -  Sorteo Semifinales
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 11:30 Aramco Team Series -  Jornada 1
+acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 11:30 Aramco Team Series -  Jornada 1
+acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
 acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
-acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
-acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
-acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Barcelona Academy - Dinamo Zagreb Academy
-acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs Sporting CP Academy - AS Monaco Academy
-acestream://d1632b993ac2f980f601e1026b3966654a93beee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs Sporting CP Academy - AS Monaco Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
+acestream://43931a2672086891ce4f6d6b4128e005e8038959
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
+acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  Eslalon gigante F - 2ª manga
+acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Riyadh Open -  Eslalon gigante F - 2ª manga
+acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:20 Abierto de Gales -  Tercera ronda
+acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:20 Abierto de Gales -  Tercera ronda
+acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 15:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 15:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 15:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
+acestream://43931a2672086891ce4f6d6b4128e005e8038959
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 15:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
+acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
+acestream://f317a4fef0b96caabaaad25cadb5f45303544767
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
+acestream://43931a2672086891ce4f6d6b4128e005e8038959
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Riyadh Open -  1/4 de final femenino Premier Padel Tour
+acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 18:20 Europeo de ciclismo en pista -  Día 2
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 Copa - 1/4 de Final Unicaja Málaga - Joventut Badalona
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 Copa - 1/4 de Final Unicaja Málaga - Joventut Badalona
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 Copa - 1/4 de Final Unicaja Málaga - Joventut Badalona
+acestream://ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs Fenerbahçe - Anderlecht
 acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Youth League - Play-offs FC Midtjylland Academy - Man City Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs Fenerbahçe - Anderlecht
+acestream://8e4ab34c7fe491831734bc677b7bf91555653eb3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs Fenerbahçe - Anderlecht
 acestream://e42984ac6529407462f92201af95c01db8988368
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Madrid Academy - B. Dortmund Academy
-acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Madrid Academy - B. Dortmund Academy
-acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Real Madrid Academy - B. Dortmund Academy
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
-acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
-acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
-acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs FC Midtjylland - Real Sociedad
+acestream://682579275d24fa95964f99f3778bdd22c211c6b9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs FC Midtjylland - Real Sociedad
 acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
-acestream://d1632b993ac2f980f601e1026b3966654a93beee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Olympiacos Academy - Girona Academy
-acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - Play-offs Trabzonspor Academy - Juventus Academy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs FC Midtjylland - Real Sociedad
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs FC Midtjylland - Real Sociedad
+acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs FC Midtjylland - Real Sociedad
 acestream://e42984ac6529407462f92201af95c01db8988368
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions - Play-Off Club Brugge - Atalanta
-acestream://d1632b993ac2f980f601e1026b3966654a93beee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions - Play-Off Club Brugge - Atalanta
-acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF Champions League - Fase de grupos Aalborg Handbold - Barça BM
-acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
-acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
-acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
-acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
-acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Premier -  Everton - Liverpool
-acestream://cc910aee690f70190b04920d61e39da5a6d0a057
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Coppa Italia - 1/4 de Final Movistar Estudiantes - UEMC RV Baloncesto
-acestream://a54aed5e91e4a99a3582551db44fd472e1addda6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Feyenoord - AC Milan
-acestream://d1632b993ac2f980f601e1026b3966654a93beee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Feyenoord - AC Milan
-acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Feyenoord - AC Milan
-acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
-acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
-acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
-acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
-acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
-acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs FC Midtjylland - Real Sociedad
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs FC Midtjylland - Real Sociedad
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Celtic FC - FC Bayern
-acestream://954b2cb573313690f2a6d6a2e70102fb49ace952
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off AS Monaco - Benfica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs Ferencvaros - Viktoria Plzen
 acestream://e42984ac6529407462f92201af95c01db8988368
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off AS Monaco - Benfica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs Ferencvaros - Viktoria Plzen
+acestream://cc910aee690f70190b04920d61e39da5a6d0a057
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs Saint-Gilloise - Ajax
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Europa League - Play-offs Saint-Gilloise - Ajax
 acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Boston Celtics - San Antonio Spurs
-acestream://dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 03:00 NBA - Liga Regular Utah Jazz - Los Angeles Lakers
-acestream://dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs Molde - Shamrock Rovers
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs Molde - Shamrock Rovers
+acestream://834ffb208d132aeb78c4b13209af71be7ec578c6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs NK Celje - APOEL FC
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs NK Celje - APOEL FC
+acestream://1987ec4c561f7e47a1d02a8de1665f71934406b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs Víkingur R - Panathinaikos
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs Víkingur R - Panathinaikos
+acestream://a5fab130ebf491c04d8c0dcd2adce9babcd39e69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs TSC Bačka Topola - Jagiellonia Bialystok
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Conference - Play-offs TSC Bačka Topola - Jagiellonia Bialystok
+acestream://6d69b67507dda888dadb5ea9df951249b73ca00c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Liga Femenina - Liga Regular Kutxabank Araski - Spar Gran Canaria
+acestream://2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 19:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
+acestream://43931a2672086891ce4f6d6b4128e005e8038959
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 19:00 Riyadh Open -  1/4 de final masculino Premier Padel Tour
+acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:00 Abierto de Gales -  Tercera ronda
+acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:00 Abierto de Gales -  Tercera ronda
+acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs AZ Alkmaar - Galatasaray
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs AZ Alkmaar - Galatasaray
+acestream://01152274037c5f7155489e0a977cbde71a61290c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs Twente - Bodø/Glimt
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs Twente - Bodø/Glimt
+acestream://a5fab130ebf491c04d8c0dcd2adce9babcd39e69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs FC Porto - AS Roma
+acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs FC Porto - AS Roma
+acestream://8e4ab34c7fe491831734bc677b7bf91555653eb3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs FC Porto - AS Roma
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs PAOK FC - FCSB
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Europa League - Play-offs PAOK FC - FCSB
+acestream://cc910aee690f70190b04920d61e39da5a6d0a057
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Gent - Real Betis
+acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Gent - Real Betis
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Gent - Real Betis
+acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Gent - Real Betis
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Gent - Real Betis
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Gent - Real Betis
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs København - Heidenheim
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs København - Heidenheim
+acestream://1987ec4c561f7e47a1d02a8de1665f71934406b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs AC Omonia - Pafos FC
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs AC Omonia - Pafos FC
+acestream://6d69b67507dda888dadb5ea9df951249b73ca00c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Borac Banja Luka - NK Olimpija
+acestream://e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Conference - Play-offs Borac Banja Luka - NK Olimpija
+acestream://834ffb208d132aeb78c4b13209af71be7ec578c6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Copa de la Reina - 1/4 de Final Real Madrid Femenino - Real Sociedad Femenino
+acestream://2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 Copa - 1/4 de Final La Laguna Tenerife - Barça Basket
+acestream://682579275d24fa95964f99f3778bdd22c211c6b9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 Copa - 1/4 de Final La Laguna Tenerife - Barça Basket
+acestream://ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:00 NBA - Liga Regular Houston Rockets - Golden State Warriors
+acestream://ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 03:13 LIV Golf -  Jornada 1
+acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 07:55 LIV Golf -  Sapporo - QUA M Trampolín Largo 1
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:15 LIV Golf -  Eslalon gigante M
+acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 09:15 LIV Golf -  Eslalon gigante M
+acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
