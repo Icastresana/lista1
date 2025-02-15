@@ -15,6 +15,14 @@ acestream://8677d339ecddd75165c0015025f598b6215974cf
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
 acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080 by Tronoss
+acestream://b05e54ad63a1df17a75366f21284d96baa697998
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080 by Tronoss
+acestream://0908f5dd264ded10b638636cb7479409cfee0813
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080 by Adrián
+acestream://eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR 2", La Liga BAR 2 1080 by Tronoss
+acestream://17dc260a6b6c176183807e659817b647ddca465b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080P
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080 Multiaudio
@@ -68,13 +76,13 @@ acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 720
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 Multiaudio
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 by Tronoss
 acestream://31fe946682dfc753edeabe8f3f7117fd774530cc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 by Tronoss
-acestream://c79b272e20f31d1be9103f582e87209a06a63927
+acestream://c79b272e20f31d1be9103f582e87209a06a63927  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720
-acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpMTXFw/daznliga3.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3", DAZN LaLiga 3
 #acestream://3d0b2395098452617097896abb38956965b8a396
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJDC35p/daznliga4.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4", DAZN LaLiga 4
@@ -237,18 +245,15 @@ acestream://834ffb208d132aeb78c4b13209af71be7ec578c6
 
 
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Tronoss
-acestream://b05e54ad63a1df17a75366f21284d96baa697998
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Tronoss
-acestream://0908f5dd264ded10b638636cb7479409cfee0813
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Tronoss
 acestream://03de691c3fea9ea7b6abefdc88a86f3a47b455f4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Tronoss
 acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Adrián
+acestream://4397faf316e52508dd2f0db6f1d5cbab432f46a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Tronoss
 acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 by Tronoss
-acestream://17dc260a6b6c176183807e659817b647ddca465b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 by Tronoss
 acestream://90c50f925b84b6dfd0827861c492ab42c3f1703d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 by Tronoss
@@ -288,8 +293,6 @@ acestream://2c3e87e1aed5285c9a06d74cd29132c0f7520c09
 acestream://505c4130005386ca0854500fab2bae25ca6aa53f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 by Tronoss 
 acestream://37875b8c4e71b3daca16e03070968e0f6344ba4c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 by Adrián
-acestream://1b8069f8c8cb18d565c1c776b6620bbed32b789c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 by Tronoss
 acestream://e41352c657506cfe6eecc4f17982f69275f1660b
 
@@ -308,8 +311,6 @@ acestream://e41352c657506cfe6eecc4f17982f69275f1660b
 acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Eurosport" tvg-id="EUROSPORT 1 HD", EuroSport 1 by Tronoss
 acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Eurosport" tvg-id="EUROSPORT 1 HD", EuroSport 1 by Adrián
-acestream://5b213b5f7d21f8f2c69c54e9ccf9a78ba5a18e71
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="Eurosport" tvg-id="EUROSPORT 2", EuroSport 2 by Tronoss
 acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 
