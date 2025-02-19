@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:45 EHF European League -  Limoges Hand 87 - Bidasoa Irún
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off FC Bayern - Celtic FC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Real Madrid - Manchester City
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off FC Bayern - Celtic FC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off Real Madrid - Manchester City
 acestream://94d34491106e00394835c8cb68aa94481339b53f
