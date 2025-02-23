@@ -65,11 +65,11 @@ acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 acestream://23a4937f1484b435af132dbfb3e8fd3aefc9baad
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 15:50 Mexico Open -  15km salida en masa M
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 16:00 6 Naciones -  Italia - Francia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:00 6 Naciones -  Italia - Francia
 acestream://a55df9a3db614b4e92ea7f8612a9624e7a9f226d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 16:00 6 Naciones -  Italia - Francia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:00 6 Naciones -  Italia - Francia
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 16:00 6 Naciones -  Italia - Francia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:00 6 Naciones -  Italia - Francia
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Madrid - Girona
 acestream://110d441ddc9713a7452588770d2bc85504672f47
@@ -177,13 +177,13 @@ acestream://121f719ebb94193c6086ef92865cf9b197750980
 acestream://9d0e983a628a79ec63ae599d2abc8b787e43aa68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  Cádiz CF - CD Castellón
 acestream://994c4ab30f6ea98f8199a583fa1049d51ea136af
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
 acestream://d08f78bd69c9c5cd927c4431632660bb9994727c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z8WyV2/rugby.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 21:05 Top 14 -  Bordeaux Bègles - Clermont Auvergne
 acestream://3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Golden State Warriors - Dallas Mavericks
 acestream://a55df9a3db614b4e92ea7f8612a9624e7a9f226d
@@ -191,7 +191,7 @@ acestream://a55df9a3db614b4e92ea7f8612a9624e7a9f226d
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:30 NBA - Liga Regular Golden State Warriors - Dallas Mavericks
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:30 Nascar -  Final ATP 500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:30 Nascar -  A. Muller - S. Báez
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 07:00 World Open -  Primera ronda
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
