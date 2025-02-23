@@ -193,9 +193,17 @@ acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:30 Nascar -  A. Muller - S. Báez
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 07:00 World Open -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 07:00 World Open -  Primera ronda
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 07:00 World Open -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 07:00 World Open -  Primera ronda
 acestream://23a4937f1484b435af132dbfb3e8fd3aefc9baad
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 07:00 World Open -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 07:00 World Open -  Primera ronda
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Torneo de Dubai - 1ª Ronda D. Evans - K. Khachanov
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Torneo de Dubai - 1ª Ronda S. Tsitsipas - L. Sonego
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Torneo de Dubai - 1ª Ronda A. Popyrin - H. Habib
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Torneo de Dubai - 1ª Ronda G. Mpetshi Perricard - Zh. Zhang
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
