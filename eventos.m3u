@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Torneo de Dubai - 1ª Ronda A. Popyrin - H. Habib
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:10 Torneo de Dubai - 1ª Ronda A. Popyrin - H. Habib
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 World Open -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:25 World Open -  Primera ronda
 acestream://23a4937f1484b435af132dbfb3e8fd3aefc9baad
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 World Open -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:25 World Open -  Primera ronda
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 Torneo de Dubai - 1ª Ronda D. Evans - K. Khachanov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:10 Torneo de Dubai - 1ª Ronda D. Evans - K. Khachanov
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Dubai - 1ª Ronda S. Tsitsipas - L. Sonego
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:40 Torneo de Dubai - 1ª Ronda S. Tsitsipas - L. Sonego
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Torneo de Dubai - 1ª Ronda G. Mpetshi Perricard - Zh. Zhang
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Torneo de Dubai - 1ª Ronda G. Mpetshi Perricard - Zh. Zhang
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Sevilla FC - Mallorca
 acestream://110d441ddc9713a7452588770d2bc85504672f47
@@ -29,6 +29,12 @@ acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Sevilla FC - Mallorca
 acestream://94423f1646ded48f1125a7395815e1a52539c187
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Torneo de Acapulco - 1ª Ronda A. Rinderknech - C. Ruud
+acestream://a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Torneo de Acapulco - 1ª Ronda A. Rinderknech - C. Ruud
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Torneo de Acapulco - 1ª Ronda A. Rinderknech - C. Ruud
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Torneo de Acapulco - 1ª Ronda A. Rinderknech - C. Ruud
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Atlanta Hawks - Miami Heat
