@@ -29,7 +29,7 @@ acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Sevilla FC - Mallorca
 acestream://94423f1646ded48f1125a7395815e1a52539c187
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Torneo de Acapulco -  1ª Ronda ATP 500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Torneo de Acapulco - 1ª Ronda A. Rinderknech - C. Ruud
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Atlanta Hawks - Miami Heat
 acestream://d08f78bd69c9c5cd927c4431632660bb9994727c
@@ -39,6 +39,10 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Atlanta Hawks - Miami Heat
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Torneo de Acapulco - 1ª Ronda F. Cobolli - B. Shelton
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 04:00 Torneo de Acapulco - 1ª Ronda G. Diallo - T. Paul
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 07:00 World Open -  Segunda ronda
 acestream://23a4937f1484b435af132dbfb3e8fd3aefc9baad
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 07:00 World Open -  Segunda ronda
