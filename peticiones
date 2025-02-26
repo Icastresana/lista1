@@ -31,8 +31,6 @@ acestream://86541e760681d3f51b4e9f7b4b3997beb38307b0
 acestream://6e7ac91952e5c8f45d38c4b1669221bed4800813
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", M+ LaLiga FHD --> NEW ERA
 acestream://e954376315de5608543ff24982af6e682e669af2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", M+ LALIGA --> NEW ERA III
-acestream://7c70daff87373a903d92490ad3dc811723969e08
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="Liga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 1080 ELCANO
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="Liga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 720 ELCANO
@@ -66,8 +64,6 @@ acestream://b2aaaa6957acd2fac4184cf44821bb27eeb61b70
 acestream://711e971c2c5fafc8a95f4a70ea16c0cb7da955d9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LA LIGA FHD (*) --> NEW ERA
 acestream://c7e5f55d71e02b43f18b22b07a294bdf87822aa4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LALIGA --> NEW ERA III
-acestream://a5144874f66a0872fd0b5a484cd426eb7d8eaa26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 MultiAudio ELCANO
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720 MultiAudio ELCANO
@@ -199,6 +195,8 @@ acestream://20e01f934e60fe20feac8e14806cce08a2a2bf43
 acestream://3709d3c2005ba9b407c8babbdaa2439cbe8242ed
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 FHD (*) --> NEW ERA
 acestream://719df957aad6dac822ba53a65dd8f78e10faef9a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1* --> NEW ERA III
+acestream://44c12ecb7b00a961f3c3f80f1edea7f8feedec59
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN BAR 2 FHD --> NEW ERA
 acestream://d59ad07b387faf6fbb16f17f44cd80ec8f16e96b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 FHD --> NEW ERA
@@ -219,8 +217,6 @@ acestream://b30a0318f531cae1233a11e8cda12f4cc39941c3
 acestream://bed372c0cfd3c24090bf8c479719b5765d74be6d
 #EXTINF:-1 tvg-logo="" group-title="Dazn" tvg-id="", DAZN EVENTOS 3 --> NEW ERA
 acestream://5b5e0a59ea2c0ab00189def5927d66d709835d15
-#EXTINF:-1 tvg-logo="" group-title="Dazn" tvg-id="", DAZN FORMULA 1* --> NEW ERA III
-acestream://073d33a5e5270399154bb251fcc95f99c0741264
 
 
 
@@ -242,6 +238,12 @@ acestream://dea87ce042a085fb892c12d1bf3be428e824237d
 acestream://b2543904857ebc4689f1b6659c09a94c6f661c41
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 FHD (*) --> NEW ERA
 acestream://16d0bc18559f9bf853010c654080123109e4044f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN FORMULA 1* --> NEW ERA III
+acestream://073d33a5e5270399154bb251fcc95f99c0741264
+#EXTINF:-1 tvg-logo="" group-title="F1" tvg-id="", F1 TEST 1 --> NEW ERA
+acestream://b2543904857ebc4689f1b6659c09a94c6f661c41
+#EXTINF:-1 tvg-logo="" group-title="F1" tvg-id="", F1 TEST 2 --> NEW ERA
+acestream://21511645a5f014cb64f85d445482a8a14bba9e62
 #EXTINF:-1 tvg-logo="" group-title="F1" tvg-id="", F1 TV 14 | Fernando Alonso | Aston Martin --> NEW ERA
 acestream://f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
 #EXTINF:-1 tvg-logo="" group-title="F1" tvg-id="", F1 TV 55 | Carlos Sainz | Williams --> NEW ERA
@@ -264,8 +266,8 @@ acestream://87100f6c8f6ffaf78eeb9b7eef0e9b382ffe61ff
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="Otros" tvg-id="DE | Rally TV", RALLY TV --> NEW ERA III (Solo eventos)
-acestream://1a9085a7b8aa402f317fb86f7243f3736770b325
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="Otros" tvg-id="DE | Rally TV", RALLY TV* --> NEW ERA III
+acestream://4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="Otros" tvg-id="GOL PLAY", Gol Play FHD --> NEW ERA
 acestream://74398fdfd56c2d440d53206cd1a4d0549a13aa6b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="Otros" tvg-id="M+ Copa del Rey", M+ Super Copa (SAT) --> NEW ERA
