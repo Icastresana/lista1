@@ -83,9 +83,9 @@ acestream://95120cee8223e9af839994ecc2b96aef05f8a151
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Rugby Europe Championships - Final Georgia - España
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:05 MotoGP - G.P. Argentina (Termas Río Hondo) Etapa 7 Porto Potenza Picena › San Benedetto del Tronto (147 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:05 Masters Indian Wells - Final Etapa 7 Porto Potenza Picena › San Benedetto del Tronto (147 km)
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:05 MotoGP - G.P. Argentina (Termas Río Hondo) Etapa 7 Porto Potenza Picena › San Benedetto del Tronto (147 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:05 Masters Indian Wells - Final Etapa 7 Porto Potenza Picena › San Benedetto del Tronto (147 km)
 acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:30 1RFEF Futsal -  Oslo - 10km Libre M
 acestream://6579c8a3441b6c27caf0508b33fd571b76bac538
@@ -151,9 +151,9 @@ acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:45 1RFEF Futsal -  Pokljuka - Relevo mixto
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:20 MotoGP - G.P. Argentina (Termas Río Hondo) Etapa 8 Nice › Nice (119,9 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:20 Masters Indian Wells - Final Etapa 8 Nice › Nice (119,9 km)
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:20 MotoGP - G.P. Argentina (Termas Río Hondo) Etapa 8 Nice › Nice (119,9 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:20 Masters Indian Wells - Final Etapa 8 Nice › Nice (119,9 km)
 acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  Madrid CFF - Granada Femenino
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
@@ -345,6 +345,12 @@ acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  At. Madrid - FC Barcelona
 acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:00 Masters Indian Wells - Final H. Rune - J. Draper
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:00 Masters Indian Wells - Final H. Rune - J. Draper
+acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:00 Masters Indian Wells - Final H. Rune - J. Draper
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 22:00 SailGP -  Los Ángeles. Carrera 2
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 22:00 SailGP -  Los Ángeles. Carrera 2
