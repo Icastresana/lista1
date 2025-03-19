@@ -1,97 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
-acestream://6579c8a3441b6c27caf0508b33fd571b76bac538
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:20 Nokere Koerse -  Baches - Clasificación
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
-acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
-acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
-acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Players Championship -  Primera ronda
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Real Madrid Femenino - Arsenal Femenino
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:20 Nokere Koerse -  Baches - Clasificación
 acestream://6579c8a3441b6c27caf0508b33fd571b76bac538
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:20 Nokere Koerse -  Baches - Clasificación
 acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:20 Nokere Koerse -  Baches - Clasificación
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:20 Nokere Koerse -  Baches - Clasificación
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
-acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Players Championship -  Primera ronda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 11:20 Nokere Koerse -  Baches - Clasificación
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - AX Olimpia Milano
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - AX Olimpia Milano
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - AX Olimpia Milano
-acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - AX Olimpia Milano
-acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - AX Olimpia Milano
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Paris Basketball - AX Olimpia Milano
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 12:15 Nokere Koerse -  Carrera Femenina Deinze › Nokere (132 km)
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 12:15 Nokere Koerse -  Carrera Femenina Deinze › Nokere (132 km)
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:00 Players Championship -  Primera ronda
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:00 Players Championship -  Primera ronda
+acestream://6579c8a3441b6c27caf0508b33fd571b76bac538
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:00 Players Championship -  Primera ronda
+acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:00 Players Championship -  Primera ronda
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:00 Players Championship -  Primera ronda
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:00 Players Championship -  Primera ronda
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:20 Nokere Koerse -  UCI ProSeries Rho › Torino (Superga) (174 km)
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:20 Nokere Koerse -  UCI ProSeries Rho › Torino (Superga) (174 km)
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:00 Nokere Koerse -  UCI ProSeries Deinze › Nokere (188,1 km)
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:00 Nokere Koerse -  UCI ProSeries Deinze › Nokere (188,1 km)
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 17:50 Nokere Koerse -  Tallin - Esprín Libre
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 17:50 Nokere Koerse -  Tallin - Esprín Libre
+acestream://6579c8a3441b6c27caf0508b33fd571b76bac538
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 17:50 Nokere Koerse -  Tallin - Esprín Libre
+acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 17:50 Nokere Koerse -  Tallin - Esprín Libre
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 17:50 Nokere Koerse -  Tallin - Esprín Libre
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 17:50 Nokere Koerse -  Tallin - Esprín Libre
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 18:00 Europeo de Powerlifting Open Classic -  Día 2
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 18:00 Europeo de Powerlifting Open Classic -  Día 2
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final FC Bayern Femenino - O. Lyonnais Femenino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 Champions Femenina - 1/4 de Final Wolfsburg Femenino - FC Barcelona Femenino
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Charlotte Hornets - Atlanta Hawks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Liga Femenina - Liga Regular Cadi La Seu - IDK Euskotren
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 20:00 Players Championship -  Cuartos de final
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 20:00 Players Championship -  Cuartos de final
+acestream://6579c8a3441b6c27caf0508b33fd571b76bac538
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 20:00 Players Championship -  Cuartos de final
+acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 20:00 Players Championship -  Cuartos de final
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 20:00 Players Championship -  Cuartos de final
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 20:00 Players Championship -  Cuartos de final
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 20:00 Liga Europea Masculina -  RN Savona - CN At. Barceloneta
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://57e38ef7eaab5596559415bdf96926ee4115c5ce
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions Femenina - 1/4 de Final Man City Femenino - Chelsea Femenino
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Oklahoma C. Thunder - Philadelphia 76ers
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Charlotte Hornets - Atlanta Hawks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Oklahoma C. Thunder - Philadelphia 76ers
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Charlotte Hornets - Atlanta Hawks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Oklahoma C. Thunder - Philadelphia 76ers
 acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Charlotte Hornets - Atlanta Hawks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Oklahoma C. Thunder - Philadelphia 76ers
 acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Charlotte Hornets - Atlanta Hawks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Oklahoma C. Thunder - Philadelphia 76ers
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 00:00 NBA - Liga Regular Charlotte Hornets - Atlanta Hawks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 NBA - Liga Regular Oklahoma C. Thunder - Philadelphia 76ers
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 06:00 Singapore Classic -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 06:00 Singapore Classic -  Jornada 1
+acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 06:30 International Series Macau -  Jornada 1
+acestream://d41f974884746560213e68519e5f6b9d51f37470
