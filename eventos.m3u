@@ -55,6 +55,14 @@ acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 15:00 Miami Open -  1/4 de Final Femenino Premier Padel Tour
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Masters Miami - 2ª Ronda G. Dimitrov - F. Cina
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Masters Miami - 2ª Ronda C. Ruud - M. Kecmanovic
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Masters Miami - 2ª Ronda C. Ruud - M. Kecmanovic
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Masters Miami - 2ª Ronda T. Schoolkate - F. Auger-Aliassime
+acestream://985896872c52d04030c112ca99584046d022a349
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Miami Open -  1/4 de Final Masculino Premier Padel Tour
 acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Miami Open -  1/4 de Final Masculino Premier Padel Tour
@@ -77,12 +85,24 @@ acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:30 Copa de la Reina - 1/4 de Final Perfumerías Avenida - Movistar Estudiantes
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Masters Miami - 2ª Ronda N. Kyrgios - K. Khachanov
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Masters Miami - 2ª Ronda N. Kyrgios - K. Khachanov
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Masters Miami - 2ª Ronda N. Kyrgios - K. Khachanov
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:30 Copa del mundo de snowboard -  Lahti - Esprín Libre M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:30 Copa del mundo de snowboard -  Lahti - Esprín Libre M
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:30 Copa del mundo de snowboard -  Lahti - Esprín Libre M
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Miami - 2ª Ronda D. Medvedev - J. Munar
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Miami - 2ª Ronda D. Medvedev - J. Munar
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Masters Miami - 2ª Ronda C. Tseng - S. Tsitsipas
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 19:00 Valspar Championship -  Servigroup Peñiscola FS - Jimbee Cartagena FS
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 19:00 Miami Open -  1/4 de Final Femenino Premier Padel Tour
@@ -95,6 +115,10 @@ acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:30 Segunda -  España - República Checa
 acestream://56d98cef21d9e242a8c32f36259c850c467e9748
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:00 Masters Miami - 2ª Ronda R. Hijikata - N. Djokovic
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:00 Masters Miami - 2ª Ronda R. Hijikata - N. Djokovic
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:00 Players Championship -  Semifinales
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:00 Players Championship -  Semifinales
@@ -159,10 +183,18 @@ acestream://0adc3b525508b4a74ce65685870894a77401afb7
 acestream://f7fa79fdad436e969a82389a062a74564e91b10e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 22:00 FIFA Copa Mundial 2026 - Eliminatorias Sudamericanas Ecuador - Venezuela
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:00 Masters Miami - 2ª Ronda S. Korda - E. Spizzirri
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 23:00 Miami Open -  1/4 de Final Masculino Premier Padel Tour
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 23:00 Miami Open -  1/4 de Final Masculino Premier Padel Tour
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Masters Miami - 2ª Ronda A. Bublik - T. Paul
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Masters Miami - 2ª Ronda A. Bublik - T. Paul
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Masters Miami - 2ª Ronda A. Bublik - T. Paul
+acestream://985896872c52d04030c112ca99584046d022a349
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:30 FIFA Copa Mundial 2026 - Eliminatorias Sudamericanas Uruguay - Argentina
 acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:30 FIFA Copa Mundial 2026 - Eliminatorias Sudamericanas Uruguay - Argentina
@@ -203,6 +235,14 @@ acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:30 NBA - Liga Regular Dallas Mavericks - Detroit Pistons
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Masters Miami - 2ª Ronda D. Goffin - C. Alcaraz
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Masters Miami - 2ª Ronda D. Goffin - C. Alcaraz
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Masters Miami - 2ª Ronda D. Goffin - C. Alcaraz
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Masters Miami - 2ª Ronda D. Goffin - C. Alcaraz
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 03:00 Velada - Peso Superligero Sesión Matinal Nanjing (China)
 acestream://56d98cef21d9e242a8c32f36259c850c467e9748
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 03:00 Velada - Peso Superligero Sesión Matinal Nanjing (China)
