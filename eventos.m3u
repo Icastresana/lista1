@@ -105,8 +105,12 @@ acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  Real Sociedad Femenino - At. Madrid Femenino
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 16:00 Copa de la Reina -  Final
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 16:00 Copa de la Reina - Final CB Jairis - Perfumerías Avenida
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Masters Miami - 3ª Ronda G. Dimitrov - K. Khachanov
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Masters Miami - 3ª Ronda G. Dimitrov - K. Khachanov
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 16:00 6 Naciones Femenino -  Inglaterra - Italia
 acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 16:00 6 Naciones Femenino -  Inglaterra - Italia
@@ -151,6 +155,12 @@ acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Miami Open -  Final Femenina Premier Padel Tour
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Masters Miami - 3ª Ronda L. Musetti - F. Auger-Aliassime
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Masters Miami - 3ª Ronda L. Musetti - F. Auger-Aliassime
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Masters Miami - 3ª Ronda L. Musetti - F. Auger-Aliassime
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:45 Miami Open -  Sun Valley - Supergigante F
 acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:45 Miami Open -  Sun Valley - Supergigante F
@@ -189,7 +199,7 @@ acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 Liga Guerreras -  BM Bera Bera - HSG Blomberg-Lippe
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 18:00 Valspar Championship -  Final
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 18:00 Valspar Championship -  Palma Futsal - Servigroup Peñiscola FS
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  Deportivo - FC Cartagena
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
@@ -219,6 +229,12 @@ acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:30 ACB - Liga Regular Unicaja Málaga - Real Madrid Baloncesto
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Miami - 3ª Ronda S. Korda - S. Tsitsipas
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Miami - 3ª Ronda S. Korda - S. Tsitsipas
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Masters Miami - 3ª Ronda B. Nakashima - D. Goffin
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 19:00 Miami Open -  Final Masculina Premier Padel Tour
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 19:15 Miami Open -  Sun Valley - Supergigante M
@@ -241,6 +257,10 @@ acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 20:00 IndyCar -  Thermal Club ($1 Million Challenge) Carrera
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:00 Masters Miami - 3ª Ronda C. Ugo Carabelli - N. Djokovic
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:00 Masters Miami - 3ª Ronda C. Ugo Carabelli - N. Djokovic
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:00 Asobal -  Bada Huesca - BM Cangas
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 NBA - Liga Regular Utah Jazz - Cleveland Cavaliers
@@ -249,6 +269,12 @@ acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 NBA - Liga Regular Utah Jazz - Cleveland Cavaliers
 acestream://985896872c52d04030c112ca99584046d022a349
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Miami - 3ª Ronda J. Munar - G. Monfils
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Miami - 3ª Ronda J. Munar - G. Monfils
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Miami - 3ª Ronda J. Munar - G. Monfils
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:30 Players Championship -  Final
 acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 20:30 Players Championship -  Final
@@ -277,6 +303,18 @@ acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 22:30 SailGP -  San Francisco. Carrera 2
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Masters Miami - 3ª Ronda C. Ruud - A. Tabilo
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Masters Miami - 3ª Ronda C. Ruud - A. Tabilo
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Masters Miami - 3ª Ronda C. Ruud - A. Tabilo
+acestream://985896872c52d04030c112ca99584046d022a349
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Masters Miami - 3ª Ronda F. Cerúndolo - T. Paul
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Masters Miami - 3ª Ronda F. Cerúndolo - T. Paul
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Masters Miami - 3ª Ronda F. Cerúndolo - T. Paul
+acestream://985896872c52d04030c112ca99584046d022a349
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 09:00 Francia Gran Master -  2ª Ronda A1 Padel
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 09:00 Francia Gran Master -  2ª Ronda A1 Padel
