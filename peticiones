@@ -154,8 +154,10 @@ acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
 acestream://a9025d4e168764248d33129c30940502cea0e1c2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES FHD --> NEW ERA
 acestream://47223e64a576c21bd61e818a42397a753d34fba5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES UHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HDR.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HDR", LIGA DE CAMPEONES 4K --> NEW ERA
 acestream://152169ce99e1fd27f2249c18384a121079cdef29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HDR.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HDR", LIGA DE CAMPEONES 4K --> NEW ERA
+acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 1080 Elcano Antiguas
 acestream://c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 720 Elcano Antiguas
