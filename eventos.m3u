@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Torneo de Hamburgo - 1/4 de Final TM. Etcheverry - J. Lehecka
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:10 Torneo de Hamburgo - 1/4 de Final TM. Etcheverry - J. Lehecka
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Torneo de Hamburgo - 1/4 de Final TM. Etcheverry - J. Lehecka
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:10 Torneo de Hamburgo - 1/4 de Final TM. Etcheverry - J. Lehecka
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:00 Giro de Italia -  Etapa 12 Modena › Viadana (Oglio-Po) (172 km)
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
@@ -11,14 +11,6 @@ acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:00 Giro de Italia -  Etapa 12 Modena › Viadana (Oglio-Po) (172 km)
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
-acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 Soudal Open -  Jornada 1
 acestream://f41f1096862767289620be5bd85727f946a434db
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 Soudal Open -  Jornada 1
@@ -27,13 +19,21 @@ acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 Soudal Open -  Jornada 1
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:25 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:25 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
+acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:25 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:25 Torneo de Hamburgo - 1/4 de Final F. Cobolli - R. Bautista-Agut
+acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:30 Vuelta a Burgos Femenina -  Etapa 1 Burgos › Poza de la Sal (125 km)
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:30 Vuelta a Burgos Femenina -  Etapa 1 Burgos › Poza de la Sal (125 km)
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Hamburgo - 1/4 de Final A. Rublev - L. Darderi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:10 Torneo de Hamburgo - 1/4 de Final A. Rublev - L. Darderi
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Hamburgo - 1/4 de Final A. Rublev - L. Darderi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:10 Torneo de Hamburgo - 1/4 de Final A. Rublev - L. Darderi
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 LPGA Riviera Maya Open -  Jornada 1
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
