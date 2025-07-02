@@ -1,189 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) A. De Miñaur - R. Carballés
-acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) A. De Miñaur - R. Carballés
-acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) A. De Miñaur - R. Carballés
-acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) E. Cocciaretto - J. Pegula
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) E. Cocciaretto - J. Pegula
-acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) E. Cocciaretto - J. Pegula
-acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) J. Monday - T. Paul
-acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Wimbledon - 1ª Ronda (Pista 18) J. Monday - T. Paul
-acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Wimbledon - 1ª Ronda (Pista 18) N. Basilashvili - L. Musetti
-acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Wimbledon - 1ª Ronda (Pista 18) N. Basilashvili - L. Musetti
-acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Wimbledon - 1ª Ronda (Pista 18) J. Sinner - L. Nardi
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Wimbledon - 1ª Ronda (Pista 18) J. Sinner - L. Nardi
-acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Wimbledon - 1ª Ronda (Pista 18) J. Sinner - L. Nardi
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Wimbledon - 1ª Ronda (Pista 18) J. Sinner - L. Nardi
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Wimbledon - 1ª Ronda (Pista 18) J. Sinner - L. Nardi
-acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Wimbledon - 1ª Ronda (Pista 18) J. Sinner - L. Nardi
-acestream://4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Wimbledon - 1ª Ronda (Pista 18) M. Joint - L. Samsonova
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 1ª Ronda (Pista 18) B. Krejcikova - A. Eala
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 2ª Ronda (Pista Central) A. Sabalenka - M. Bouzkova
+acestream://92adffb05fbd616bc9ab8e71665be05952880cdf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 2ª Ronda (Pista Central) A. Sabalenka - M. Bouzkova
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 2ª Ronda (Pista Central) A. Sabalenka - M. Bouzkova
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 2ª Ronda (Pista Central) A. Sabalenka - M. Bouzkova
+acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 2ª Ronda (Pista Central) O. Tarvet - C. Alcaraz
+acestream://92adffb05fbd616bc9ab8e71665be05952880cdf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 2ª Ronda (Pista Central) O. Tarvet - C. Alcaraz
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 1ª Ronda (Pista 18) B. Krejcikova - A. Eala
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 2ª Ronda (Pista Central) O. Tarvet - C. Alcaraz
 acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 1ª Ronda (Pista 18) B. Krejcikova - A. Eala
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 2ª Ronda (Pista Central) O. Tarvet - C. Alcaraz
 acestream://e2bc4aee95306b8897d15b01cc64b239dd1b8a1f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 1ª Ronda (Pista 18) B. Krejcikova - A. Eala
-acestream://92adffb05fbd616bc9ab8e71665be05952880cdf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 1ª Ronda (Pista 18) B. Krejcikova - A. Eala
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 2ª Ronda (Pista Central) O. Tarvet - C. Alcaraz
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 1ª Ronda (Pista 18) B. Krejcikova - A. Eala
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 2ª Ronda (Pista Central) O. Tarvet - C. Alcaraz
 acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Wimbledon - 1ª Ronda (Pista 18) B. Krejcikova - A. Eala
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 2ª Ronda (Pista Central) O. Tarvet - C. Alcaraz
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Wimbledon - 1ª Ronda (Pista 18) I. Swiatek - P. Kudermetova
-acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Wimbledon - 1ª Ronda (Pista 18) I. Swiatek - P. Kudermetova
-acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Wimbledon - 1ª Ronda (Pista 18) M. Andreeva - M. Sherif
-acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Wimbledon - 1ª Ronda (Pista 18) M. Andreeva - M. Sherif
-acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) T. Fritz - G. Mpetshi Perricard
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) T. Fritz - G. Mpetshi Perricard
-acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) T. Fritz - G. Mpetshi Perricard
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) T. Fritz - G. Mpetshi Perricard
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) T. Fritz - G. Mpetshi Perricard
-acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) T. Fritz - G. Mpetshi Perricard
-acestream://4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) M. Sakkari - A. Blinkova
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) M. Sakkari - A. Blinkova
-acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) M. Sakkari - A. Blinkova
-acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) M. Sakkari - A. Blinkova
-acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) A. Rinderknech - A. Zverev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Eurocopa Femenina - Fase de grupos Islandia - Finlandia
+acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Eurocopa Femenina - Fase de grupos Islandia - Finlandia
+acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Wimbledon - 2ª Ronda (Pista Central) E. Raducanu - M. Vondrousova
 acestream://92adffb05fbd616bc9ab8e71665be05952880cdf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) A. Rinderknech - A. Zverev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Wimbledon - 2ª Ronda (Pista Central) E. Raducanu - M. Vondrousova
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) A. Rinderknech - A. Zverev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Wimbledon - 2ª Ronda (Pista Central) E. Raducanu - M. Vondrousova
 acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Wimbledon - 1ª Ronda (Pista 18) A. Rinderknech - A. Zverev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Wimbledon - 2ª Ronda (Pista Central) E. Raducanu - M. Vondrousova
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) G. Dimitrov - Y. Nishioka
-acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) G. Dimitrov - Y. Nishioka
-acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) P. Kvitova - E. Navarro
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) P. Kvitova - E. Navarro
-acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) P. Kvitova - E. Navarro
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) P. Kvitova - E. Navarro
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) P. Kvitova - E. Navarro
-acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) P. Kvitova - E. Navarro
-acestream://4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) B. Shelton - A. Bolt
-acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Wimbledon - 1ª Ronda (Pista 18) B. Shelton - A. Bolt
-acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) A. Muller - N. Djokovic
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) A. Muller - N. Djokovic
-acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) A. Muller - N. Djokovic
-acestream://e2bc4aee95306b8897d15b01cc64b239dd1b8a1f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) A. Muller - N. Djokovic
-acestream://92adffb05fbd616bc9ab8e71665be05952880cdf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) A. Muller - N. Djokovic
-acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) A. Muller - N. Djokovic
-acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) A. Muller - N. Djokovic
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) J. Bouzas - E. Seidel
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) J. Bouzas - E. Seidel
-acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) J. Bouzas - E. Seidel
-acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 Wimbledon - 1ª Ronda (Pista 18) J. Bouzas - E. Seidel
-acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Wimbledon - 1ª Ronda (Pista 18) J. Draper - S. Báez
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Wimbledon - 1ª Ronda (Pista 18) J. Draper - S. Báez
-acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Wimbledon - 1ª Ronda (Pista 18) J. Draper - S. Báez
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Wimbledon - 1ª Ronda (Pista 18) J. Draper - S. Báez
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Wimbledon - 1ª Ronda (Pista 18) J. Draper - S. Báez
-acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Wimbledon - 1ª Ronda (Pista 18) J. Draper - S. Báez
-acestream://4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Wimbledon - 1ª Ronda (Pista 18) E. Avanesyan - E. Rybakina
-acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Wimbledon - 1ª Ronda (Pista 18) E. Avanesyan - E. Rybakina
-acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://e2bc4aee95306b8897d15b01cc64b239dd1b8a1f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://92adffb05fbd616bc9ab8e71665be05952880cdf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:30 Wimbledon - 1ª Ronda (Pista 18) D. Yastremska - C. Gauff
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Primera -  Sorteo Calendario 2025/2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Eurocopa Femenina - Fase de grupos Suiza - Noruega
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Primera -  Sorteo Calendario 2025/2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Eurocopa Femenina - Fase de grupos Suiza - Noruega
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Segunda -  Sorteo Calendario 2025/2026
-acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Segunda -  Sorteo Calendario 2025/2026
-acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Liga Femenina -  Sorteo Calendario 2025/2026
-acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Liga Femenina -  Sorteo Calendario 2025/2026
-acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Liga Femenina -  Sorteo Calendario 2025/2026
-acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Liga Femenina -  Sorteo Calendario 2025/2026
-acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 20:00 1RFEF Futsal -  Sorteo Calendario 2025/2026
-acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 20:00 1RFEF Futsal -  Sorteo Calendario 2025/2026
-acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 20:00 1RFEF Femenina -  Sorteo Calendario 2025/2026
-acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 20:00 1RFEF Femenina -  Sorteo Calendario 2025/2026
-acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 FIFA Copa Mundial de Clubes - 1/8 de final Real Madrid - Juventus
-acestream://3d376333ee90d6db3d413fc5764ef635882076f5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 FIFA Copa Mundial de Clubes - 1/8 de final Real Madrid - Juventus
-acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 FIFA Copa Mundial de Clubes - 1/8 de final Real Madrid - Juventus
-acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 04:00 CONCACAF Copa Oro - Semifinales México - Honduras
+acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
