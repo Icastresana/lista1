@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:25  -  10km M
+acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:25  -  10km M
+acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 01:30 MLB -  All Star Game
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 01:30 MLB -  All Star Game
@@ -13,9 +17,9 @@ acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
 acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 01:30 MLB -  All Star Game
 acestream://7d46a219b666be4d4a814a1acfe2bd61c037d771
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 01:55 MLB -  10km M
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:00 Campeonato del Mundo -  Aguas Abiertas 10km Masculinos
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 01:55 MLB -  10km M
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:00 Campeonato del Mundo -  Aguas Abiertas 10km Masculinos
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 02:00 MLB -  American League - National League
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
@@ -31,7 +35,7 @@ acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
 acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 02:00 MLB -  American League - National League
 acestream://7d46a219b666be4d4a814a1acfe2bd61c037d771
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 02:00 Campeonato del Mundo -  Aguas Abiertas 10km Masculinos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 04:25  -  10km F
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSmPRrx/pelota.png", 02:00 Campeonato del Mundo -  Aguas Abiertas 10km Masculinos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 04:25  -  10km F
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
