@@ -169,14 +169,6 @@ acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
 acestream://8a86cd6152154a25ad4b76523160552a40313b28
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Premier -  Wolverhampton - Everton
 acestream://6fb944e8985881ae6db89667aca6362e746255b6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Rafa Nadal Open -  Semifinal 1 ATP Challenger Tour
-acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Rafa Nadal Open -  Semifinal 1 ATP Challenger Tour
-acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Rafa Nadal Open -  Semifinal 1 ATP Challenger Tour
-acestream://3f97bafa133b10cfe5c62311e11501326d886a53
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:00 Rafa Nadal Open -  Semifinal 1 ATP Challenger Tour
-acestream://ebf3f251c1e119aefc6a1efc95c9b5d1909249e2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:15 US Open WTA -  Etapa 8 Monzón Templario › Zaragoza (187 km)
 acestream://9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:15 US Open WTA -  Etapa 8 Monzón Templario › Zaragoza (187 km)
@@ -197,6 +189,14 @@ acestream://704e51760a644bc90aa22269bf84139947a0414a
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 16:15 Liga Guerreras - Liga Regular BM Granollers - Rocasa Gran Canaria
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:20 Rafa Nadal Open - Semifinal 1 J. Rodionov - E. Butvilas
+acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:20 Rafa Nadal Open - Semifinal 1 J. Rodionov - E. Butvilas
+acestream://58a4c880ab18486d914751db32a12760e74b75a4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:20 Rafa Nadal Open - Semifinal 1 J. Rodionov - E. Butvilas
+acestream://3f97bafa133b10cfe5c62311e11501326d886a53
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 16:20 Rafa Nadal Open - Semifinal 1 J. Rodionov - E. Butvilas
+acestream://ebf3f251c1e119aefc6a1efc95c9b5d1909249e2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:30 Eredivisie -  Volendam - Ajax
 acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:30 Eredivisie -  Volendam - Ajax
@@ -269,13 +269,13 @@ acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 17:30 US Open WTA -  Sporting CP HB - Ademar León
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Rafa Nadal Open -  Semifinal 2 ATP Challenger Tour
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:50 Rafa Nadal Open - Semifinal 1 D. Rincón - H. Mayot
 acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Rafa Nadal Open -  Semifinal 2 ATP Challenger Tour
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:50 Rafa Nadal Open - Semifinal 1 D. Rincón - H. Mayot
 acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Rafa Nadal Open -  Semifinal 2 ATP Challenger Tour
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:50 Rafa Nadal Open - Semifinal 1 D. Rincón - H. Mayot
 acestream://3f97bafa133b10cfe5c62311e11501326d886a53
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 Rafa Nadal Open -  Semifinal 2 ATP Challenger Tour
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:50 Rafa Nadal Open - Semifinal 1 D. Rincón - H. Mayot
 acestream://ebf3f251c1e119aefc6a1efc95c9b5d1909249e2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 18:00 Copa Mundial Femenina - Fase de grupos Inglaterra - Samoa
 acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
@@ -356,7 +356,7 @@ acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Eurobasket - Fase de grupos España - Bosnia
 acestream://9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 20:30 Copa Mundial Femenina - Fase de grupos Estados Unidos - Australia
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
+acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 21:00 LPGA FM Championship -  Jornada 3
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 21:00 LPGA FM Championship -  Jornada 3
