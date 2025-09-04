@@ -37,11 +37,11 @@ acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 Irish Open -  Jornada 1
 acestream://76a69812c66bfc4899e89df498220588a56e6064
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Sevilla -  1/4 de Final ATP Challenger Tour
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Sevilla - 1/4 de Final D. Lajovic - P. Carreño
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Sevilla -  1/4 de Final ATP Challenger Tour
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Sevilla - 1/4 de Final D. Lajovic - P. Carreño
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Sevilla -  1/4 de Final ATP Challenger Tour
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Sevilla - 1/4 de Final D. Lajovic - P. Carreño
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Mundial Clubes Juvenil - Fase de grupos FC Barcelona Academy - River Plate Academy
 acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
@@ -51,28 +51,30 @@ acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Eurobasket - Fase de grupos Joventut Badalona - Força Lleida
 acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Torneo de Sevilla - 1/4 de Final GA. Olivieri - V. Gaubas
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Torneo de Sevilla - 1/4 de Final GA. Olivieri - V. Gaubas
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Torneo de Sevilla - 1/4 de Final GA. Olivieri - V. Gaubas
+acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:45 FIFA Copa Mundial 2026 - Eliminatorias Europeas Bulgaria - España
 acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:45 FIFA Copa Mundial 2026 - Eliminatorias Europeas Bulgaria - España
 acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Torneo de Sevilla -  1/4 de Final ATP Challenger Tour
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Torneo de Sevilla -  1/4 de Final ATP Challenger Tour
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Torneo de Sevilla -  1/4 de Final ATP Challenger Tour
-acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 21:37 Transmissions esportives -  Joventut - Lleida / Torneig Sant Julià de Vilatorta
 acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 US Open WTA - Semifinales A. Sabalenka - J. Pegula
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 US Open WTA - Semifinales A. Sabalenka - J. Pegula
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 US Open WTA - Semifinales A. Sabalenka - J. Pegula
-acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 US Open WTA - Semifinales A. Sabalenka - J. Pegula
-acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
+acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 US Open WTA - Semifinales A. Sabalenka - J. Pegula
-acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a
+acestream://6e212a916c83638268047dd2757c95b14f7d25a3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 US Open WTA - Semifinales A. Sabalenka - J. Pegula
+acestream://438991226c3bc6a06e7bfda9bea9f769957dc366
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 01:30 FIFA Copa Mundial 2026 - Eliminatorias Sudamericanas Uruguay - Perú
 acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 01:30 FIFA Copa Mundial 2026 - Eliminatorias Sudamericanas Argentina - Venezuela
@@ -116,15 +118,17 @@ acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 FIFA Copa Mundial 2026 - Eliminatorias Sudamericanas Brasil - Chile
 acestream://33c009a025508cb2186b9ce36279640bb2507bdf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 US Open WTA - Semifinales N. Osaka - A. Anisimova
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 US Open WTA - Semifinales N. Osaka - A. Anisimova
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 US Open WTA - Semifinales N. Osaka - A. Anisimova
-acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 US Open WTA - Semifinales N. Osaka - A. Anisimova
-acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
+acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 US Open WTA - Semifinales N. Osaka - A. Anisimova
-acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a
+acestream://6e212a916c83638268047dd2757c95b14f7d25a3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 US Open WTA - Semifinales N. Osaka - A. Anisimova
+acestream://438991226c3bc6a06e7bfda9bea9f769957dc366
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 09:00 Madrid Open -  1/4 de final femenino Premier Padel Tour
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 09:00 Madrid Open -  1/4 de final femenino Premier Padel Tour
