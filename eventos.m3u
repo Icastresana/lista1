@@ -5,9 +5,9 @@ acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:00 WTA Torneo de Sao Paulo - 1ª Ronda A. Tomljanovic - V. Rodríguez
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:00 Mundial Clubes Juvenil -  Semifinales
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:00 Mundial Clubes Juvenil - Semifinales Racing Avellaneda Academy - Real Madrid Academy
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:00 Mundial Clubes Juvenil -  Semifinales
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 19:00 Mundial Clubes Juvenil - Semifinales Racing Avellaneda Academy - Real Madrid Academy
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 19:00 Campeonato del Mundo WBC -  Día 5 Liverpool 2025
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
@@ -33,19 +33,39 @@ acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Eibar - FC Andorra
 acestream://70f22be1286ef224b5e4e9451d9a42468152cda4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Mundial Clubes Juvenil -  Semifinales
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Mundial Clubes Juvenil - Semifinales FC Barcelona Academy - Palmeiras Academy
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Mundial Clubes Juvenil -  Semifinales
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Mundial Clubes Juvenil - Semifinales FC Barcelona Academy - Palmeiras Academy
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 WTA Torneo de Guadalajara -  1ª Ronda WTA 500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Mundial Clubes Juvenil - Semifinales FC Barcelona Academy - Palmeiras Academy
+acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:00 WTA Torneo de Guadalajara - 1ª Ronda A. Parks - D. Vidmanova
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 WTA Torneo de Guadalajara -  1ª Ronda WTA 500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:00 WTA Torneo de Guadalajara - 1ª Ronda A. Parks - D. Vidmanova
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 WTA Torneo de Guadalajara -  1ª Ronda WTA 500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:00 WTA Torneo de Guadalajara - 1ª Ronda A. Parks - D. Vidmanova
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 WTA Torneo de Sao Paulo - 1ª Ronda VL Barros - W. Osuigwe
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 WTA Torneo de Sao Paulo - 1ª Ronda VL Barros - W. Osuigwe
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 WTA Torneo de Sao Paulo - 1ª Ronda VL Barros - W. Osuigwe
+acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 23:30 WTA Torneo de Guadalajara - 1ª Ronda K. Kawa - I. Jovic
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 23:30 WTA Torneo de Guadalajara - 1ª Ronda K. Kawa - I. Jovic
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 23:30 WTA Torneo de Guadalajara - 1ª Ronda K. Kawa - I. Jovic
+acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:00 WTA Torneo de Guadalajara - 1ª Ronda M. Sakkari - E. Jacquemot
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:00 WTA Torneo de Guadalajara - 1ª Ronda M. Sakkari - E. Jacquemot
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:00 WTA Torneo de Guadalajara - 1ª Ronda M. Sakkari - E. Jacquemot
+acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:30 WTA Torneo de Guadalajara - 1ª Ronda M. Trevisan - R. Marino
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:30 WTA Torneo de Guadalajara - 1ª Ronda M. Trevisan - R. Marino
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 03:30 WTA Torneo de Guadalajara - 1ª Ronda M. Trevisan - R. Marino
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
