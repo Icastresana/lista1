@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Liga Catalana ACB -  K. Siniakova - D. Kasatkina
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Liga Catalana ACB -  K. Siniakova - D. Kasatkina
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Liga Catalana ACB -  K. Siniakova - D. Kasatkina
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Liga Catalana ACB -  K. Siniakova - D. Kasatkina
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
 acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:20 Billie Jean King Cup - 1/4 de Final K. Siniakova - D. Kasatkina
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:20 Billie Jean King Cup - 1/4 de Final K. Siniakova - D. Kasatkina
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:20 Billie Jean King Cup - 1/4 de Final K. Siniakova - D. Kasatkina
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:20 Billie Jean King Cup - 1/4 de Final K. Siniakova - D. Kasatkina
 acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 12:05 Campeonato del Mundo -  Sesión Vespertina Tokio 2025
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -33,14 +33,6 @@ acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 12:05 Campeonato del Mundo -  Sesión Vespertina Tokio 2025
 acestream://ef2abf419586d9876370be127ad592dbb41b126a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 Liga Catalana ACB -  B. Krejcikova - E. Raducanu
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 Liga Catalana ACB -  B. Krejcikova - E. Raducanu
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 Liga Catalana ACB -  B. Krejcikova - E. Raducanu
-acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 Liga Catalana ACB -  B. Krejcikova - E. Raducanu
-acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:30 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
@@ -67,6 +59,14 @@ acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 Open de France -  Jornada 1
 acestream://9ed46050217ee6ed8236a64b72d7992f7b3b37f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:35 Billie Jean King Cup - 1/4 de Final B. Krejcikova - E. Raducanu
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:35 Billie Jean King Cup - 1/4 de Final B. Krejcikova - E. Raducanu
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:35 Billie Jean King Cup - 1/4 de Final B. Krejcikova - E. Raducanu
+acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:35 Billie Jean King Cup - 1/4 de Final B. Krejcikova - E. Raducanu
+acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Billie Jean King Cup - 1/4 de Final Japón - Gran Bretaña
