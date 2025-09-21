@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:00 Nascar -  I. Swiatek - E. Alexandrova
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:00 Nascar -  I. Swiatek - E. Alexandrova
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:00 Nascar -  I. Swiatek - E. Alexandrova
-acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:00 Nascar -  I. Swiatek - E. Alexandrova
-acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 10:00 Mundial de Ciclismo en Ruta -  Contrarreloj Femenina Kigali › Kigali (31,2 km)
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 10:00 Mundial de Ciclismo en Ruta -  Contrarreloj Femenina Kigali › Kigali (31,2 km)
@@ -17,6 +9,14 @@ acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 10:00 Mundial de Ciclismo en Ruta -  Contrarreloj Femenina Kigali › Kigali (31,2 km)
 acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:10 Nascar -  I. Swiatek - E. Alexandrova
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:10 Nascar -  I. Swiatek - E. Alexandrova
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:10 Nascar -  I. Swiatek - E. Alexandrova
+acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:10 Nascar -  I. Swiatek - E. Alexandrova
+acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 10:35 Campeonato del Mundo -  Sesión Vespertina Tokio 2025
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 10:35 Campeonato del Mundo -  Sesión Vespertina Tokio 2025
@@ -461,15 +461,15 @@ acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 acestream://c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  FC Barcelona - Getafe
 acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup -  Partido 9 (Dobles)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup - Partido 9 (Dobles) C. Alcaraz | C. Ruud - A. Michelsen | R. Opelka
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup -  Partido 9 (Dobles)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup - Partido 9 (Dobles) C. Alcaraz | C. Ruud - A. Michelsen | R. Opelka
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup -  Partido 9 (Dobles)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup - Partido 9 (Dobles) C. Alcaraz | C. Ruud - A. Michelsen | R. Opelka
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup -  Partido 9 (Dobles)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup - Partido 9 (Dobles) C. Alcaraz | C. Ruud - A. Michelsen | R. Opelka
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup -  Partido 9 (Dobles)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Laver Cup - Partido 9 (Dobles) C. Alcaraz | C. Ruud - A. Michelsen | R. Opelka
 acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 21:05 Top 14 -  RC Toulon - La Rochelle
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
@@ -517,33 +517,33 @@ acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
 acestream://0f7842f8b6c26571e5a974407b61623e56e6a052
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 22:30 Serie A Brasil -  Internacional - Grêmio
 acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup -  Partido 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup - Partido 10 J. Mensik - A. De Miñaur
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup -  Partido 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup - Partido 10 J. Mensik - A. De Miñaur
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup -  Partido 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup - Partido 10 J. Mensik - A. De Miñaur
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup -  Partido 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup - Partido 10 J. Mensik - A. De Miñaur
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup -  Partido 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 22:30 Laver Cup - Partido 10 J. Mensik - A. De Miñaur
 acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup -  Partido 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup - Partido 11 C. Alcaraz - F. Cerúndolo
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup -  Partido 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup - Partido 11 C. Alcaraz - F. Cerúndolo
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup -  Partido 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup - Partido 11 C. Alcaraz - F. Cerúndolo
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup -  Partido 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup - Partido 11 C. Alcaraz - F. Cerúndolo
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup -  Partido 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 00:00 Laver Cup - Partido 11 C. Alcaraz - F. Cerúndolo
 acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup -  Partido 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup - Partido 12 A. Zverev - T. Fritz
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup -  Partido 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup - Partido 12 A. Zverev - T. Fritz
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup -  Partido 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup - Partido 12 A. Zverev - T. Fritz
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup -  Partido 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup - Partido 12 A. Zverev - T. Fritz
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup -  Partido 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:30 Laver Cup - Partido 12 A. Zverev - T. Fritz
 acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
