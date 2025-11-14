@@ -76,8 +76,6 @@ acestream://621f7215bb1f5593aa118e8540a1bb3aac11ffe4
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="", LIGA ENDESA HD --> NEW ERA
-acestream://fe28a08985bb5410ee6da29eb728651f2e83db75
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="Liga" tvg-id="M+ LaLiga HD", M. LaLiga 1080P ELCANO
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="Liga" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio ELCANO
@@ -89,7 +87,7 @@ acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="Liga" tvg-id="M+ LaLiga HD", M+ LALIGA FHD --> NEW ERA VI
 acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="Liga" tvg-id="M+ LaLiga HD", M+ LALIGA FHD --> NEW ERA VI
-acestream://d2ddf9802ccfdc456f872eea4d24596880a638a0
+acestream://8c30b600cc48899991b452805df48b68d998e61c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" group-title="Liga" tvg-id="M+ LaLiga 2 HD", M. LaLiga 2 1080 ELCANO
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" group-title="Liga" tvg-id="M+ LaLiga 2 HD", M. LaLiga 2 720 ELCANO
@@ -115,8 +113,6 @@ acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 720 ELCANO
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LA LIGA 1 FHD --> NEW ERA
-acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LA LIGA 1 FHD --> NEW ERA VI
 acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LA LIGA 1 FHD --> NEW ERA VI
@@ -125,8 +121,6 @@ acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720 MultiAudio ELCANO
 acestream://c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LA LIGA 2 FHD --> NEW ERA
-acestream://635b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LA LIGA 2 FHD --> NEW ERA VI
 acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 
@@ -178,6 +172,8 @@ acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", MOVISTAR DEPORTES FHD --> NEW ERA VI
 acestream://5d3f582738467aaf213e408601aca5cc13fa9359
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", MOVISTAR DEPORTES FHD --> NEW ERA VI
@@ -294,18 +290,20 @@ acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 acestream://6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 FHD --> NEW ERA
 acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 BAR FHD --> NEW ERA
+acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 FHD --> NEW ERA
 acestream://4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 HD --> NEW ERA
 acestream://5b776533534b767a84dfda263825ad10f30a8ec7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 BAR FHD --> NEW ERA
-acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 FHD --> NEW ERA VI
 acestream://b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 FHD --> NEW ERA VI
 acestream://36394be1db2e20b5997d987c32fd38c7f0f194b7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn" tvg-id="DAZN 2 HD", Dazn 2 1080 ELCANO
 acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 FHD --> NEW ERA
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 FHD --> NEW ERA
 acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 FHD --> NEW ERA VI
@@ -424,9 +422,9 @@ acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 acestream://9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="Otros M" tvg-id="M+ Golf 2 HD", MOVISTAR GOLF 2 FHD --> NEW ERA
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="Otros M" tvg-id="Movistar Plus+ 2 HD", MOVISTAR PLUS 2 FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="" group-title="Otros M" tvg-id="", MOVISTAR PLUS 2 FHD --> NEW ERA
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="Otros M" tvg-id="Movistar Plus+ 2 HD", MOVISTAR PLUS 2 FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="" group-title="Otros M" tvg-id="", MOVISTAR PLUS 2 FHD --> NEW ERA VI
 acestream://e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
 
 
@@ -462,10 +460,10 @@ acestream://56457cde219abe22cdc3f6c2083a37b0324b3b0c
 
 
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Latam" tvg-id="I289.110964.schedulesdirect.org", ESPN ARGENTINA --> NEW ERA
-acestream://4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Latam" tvg-id="I289.110964.schedulesdirect.org", ESSPN MX SD --> NEW ERA
 acestream://648b6c7d1b1800b6d224f22e26694f4d59ad217d
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Latam" tvg-id="I289.110964.schedulesdirect.org", ESPN ARGENTINA --> NEW ERA
+acestream://4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Latam" tvg-id="I293.96876.schedulesdirect.org", ESPN ARGENTINA 2 HD --> NEW ERA
 acestream://ab7f9cc29ad09ee9575fed758ab317c818fdc491
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Latam" tvg-id="I295.79042.schedulesdirect.org", ESPN ARGENTINA 3 HD --> NEW ERA
@@ -497,10 +495,10 @@ acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", LA 1 4K --> NEW ERA
-acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", LA 1 FHD --> NEW ERA
 acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", LA 1 4K --> NEW ERA
+acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", LA 1 FHD --> NEW ERA
 acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="TDT" tvg-id="La 2", LA 2 FHD --> NEW ERA
@@ -570,7 +568,7 @@ acestream://50553edb5e8c54d15e0d43161369b3b4cef95065
 acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine y documentales" tvg-id="M+ Originales HD", MOVISTAR ORIGINALES FHD --> NEW ERA VI
 acestream://096b817fcc836535f608facb15fca6408fae3162
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png" group-title="Cine y documentales" tvg-id="M+ Romance", MOVISTAR ROMANCE FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="" group-title="Cine y documentales" tvg-id="", MOVISTAR ROMANCE FHD --> NEW ERA VI
 acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-logo="" group-title="Cine y documentales" tvg-id="", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD --> NEW ERA VI
 acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7
@@ -631,9 +629,9 @@ acestream://96537527b2d5e858b2e6c863a00dec304254091d
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", ESPORT 3 FHD --> NEW ERA
-acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", ESPORT 3 FHD --> NEW ERA
 acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", ESPORT 3 FHD --> NEW ERA
+acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
 
 
 
@@ -816,8 +814,12 @@ acestream://2ce58af4ffe0cf0e52980db8f2e73ad962d9d9b4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgC56qF/ESPN.png" group-title="PaísesBajos" tvg-id="ESPN.1.nl", ESPN 1	
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgC56qF/ESPN.png" group-title="PaísesBajos" tvg-id="ESPN.1.nl", ESPN 1	
+acestream://6a9ab96694a0828d9431722e6fcc20653ff35d1d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3CBVFyf/ESPN-2.png" group-title="PaísesBajos" tvg-id="ESPN.2.nl", ESPN 2	
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CBVFyf/ESPN-2.png" group-title="PaísesBajos" tvg-id="ESPN.2.nl", ESPN 2
+acestream://d508048726e066b93f210fdcf10325db15f46d82
 #EXTINF:-1 tvg-logo="https://i.ibb.co/42N00FS/ESPN-3.png" group-title="PaísesBajos" tvg-id="ESPN.3.nl", ESPN 3	
 acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0KqZsX/ESPN-4.png" group-title="PaísesBajos" tvg-id="ESPN.4.nl", ESPN 4	
@@ -896,11 +898,10 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyjDf7B/Digi1.png" group-title="Rumania" tvg-id="Digi.Sport.1.HD.ro", DIGI Sport 1 HD
 acestream://83671b11f6dc071feb5769f6646cfc439c18989d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyjDf7B/Digi1.png" group-title="Rumania" tvg-id="Digi.Sport.1.HD.ro", DIGI Sport 1 HD
-acestream://3005a16671e5a9c5b7f7c7ef24973c77267c8d03
+acestream://40dcf66ccd1948bc2769a4bd07af62be72b99041
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFYg6hr/digi2.png" group-title="Rumania" tvg-id="Digi.Sport.2.HD.ro", DIGI Sport 2 HD
 acestream://4d96d3cac0691714bf60e97832a7ea1fd632d412
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk0Jkd/digi3.png" group-title="Rumania" tvg-id="Digi.Sport.3.HD.ro", DIGI Sport 3 HD
