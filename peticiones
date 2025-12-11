@@ -322,14 +322,14 @@ http://127.0.0.1:6878/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", MIXED TV (solo eventos) --> NEW ERA III
-http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", DAZN EVENTOS 2 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", MIXED TV 2(solo eventos) --> NEW ERA III
-http://127.0.0.1:6878/ace/getstream?id=aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
-#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", DAZN EVENTOS 3 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto", DAZN BALONCESTO 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto", DAZN BALONCESTO FHD --> NEW ERA VI
+http://127.0.0.1:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto 2", DAZN BALONCESTO 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto 3", DAZN BALONCESTO 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
 
 
@@ -433,27 +433,27 @@ http://127.0.0.1:6878/ace/getstream?id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", ESPN ARGENTINA --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Latam" tvg-id="I289.110964.schedulesdirect.org", ESPN ARGENTINA --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", ESSPN MX SD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Latam" tvg-id="I289.110964.schedulesdirect.org", ESSPN MX SD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=648b6c7d1b1800b6d224f22e26694f4d59ad217d
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", ESPN ARGENTINA 2 HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Latam" tvg-id="I293.96876.schedulesdirect.org", ESPN ARGENTINA 2 HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", ESPN ARGENTINA 3 HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Latam" tvg-id="I295.79042.schedulesdirect.org", ESPN ARGENTINA 3 HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=d872a44653bf2ad232d5f8476597754b69e3d56c
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", ESSPN MX 3 HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Latam" tvg-id="I295.79042.schedulesdirect.org", ESSPN MX 3 HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=fbc9b6650b886ba0b25c0b9468b625aa6d4a2042
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", ESPN ARGENTINA 4 HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Latam" tvg-id="I297.65930.schedulesdirect.org", ESPN ARGENTINA 4 HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=216d20acdaf01a196eda71c81a7a7d5bcbe5ed58
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", ESSPN MX 4 SD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Latam" tvg-id="I297.65930.schedulesdirect.org", ESSPN MX 4 SD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=93953cc10405f53e1d4ea2c30f1aad25e28a59f0
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", Fox Sports 2 ARG HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="Latam" tvg-id="I342.66365.schedulesdirect.org", Fox Sports 2 ARG HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=0b48cd93de3c714e36961a93805798307a5608ac
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", Fox Sports 2 COL HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="Latam" tvg-id="I342.66365.schedulesdirect.org", Fox Sports 2 COL HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", FOX PREMIUM UFC --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="Latam" tvg-id="I346.123582.schedulesdirect.org", FOX PREMIUM UFC --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
-#EXTINF:-1 tvg-logo="" group-title="Latam" tvg-id="", TNT SPORTS HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Latam" tvg-id="I702.89899.schedulesdirect.org", TNT SPORTS HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 
 
@@ -490,6 +490,32 @@ http://127.0.0.1:6878/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
 http://127.0.0.1:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="TDT" tvg-id="24 Horas", 24 HORAS HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png" group-title="Autonómicos" tvg-id="Aragón TV", ARAGON TV HD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png" group-title="Autonómicos" tvg-id="TVG Europa HD", TVG EUROPA HD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", ESPORT 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", ESPORT 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", MIXED TV (solo eventos) --> NEW ERA III
+http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
+#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", DAZN EVENTOS 2 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", MIXED TV 2(solo eventos) --> NEW ERA III
+http://127.0.0.1:6878/ace/getstream?id=aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
+#EXTINF:-1 tvg-logo="" group-title="Dazn eventos" tvg-id="", DAZN EVENTOS 3 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 
 
 
@@ -546,22 +572,6 @@ http://127.0.0.1:6878/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png" group-title="Autonómicos" tvg-id="Aragón TV", ARAGON TV HD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto", DAZN BALONCESTO 1 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto", DAZN BALONCESTO FHD --> NEW ERA VI
-http://127.0.0.1:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="UFC-NBA-RALLY" tvg-id="DE | Rally TV", RALLY TV FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="UFC-NBA-RALLY" tvg-id="DE | Rally TV", RALLY TV --> NEW ERA III
@@ -583,31 +593,6 @@ http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 http://127.0.0.1:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" group-title="1RFEF" tvg-id="Primera Federación", PRIMERA FEDERACIÓN FHD --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png" group-title="Autonómicos" tvg-id="TVG Europa HD", TVG EUROPA HD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto 2", DAZN BALONCESTO 2 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" group-title="DAZN Baloncesto" tvg-id="DAZN Baloncesto 3", DAZN BALONCESTO 3 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", ESPORT 3 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", ESPORT 3 FHD --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
 
 
 
