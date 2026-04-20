@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://xmltv.info/de/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://iptvx.one/EPG, https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://iptv-epg.org/files/epg-de.xml, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://iptvx.one/EPG, https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz"
 
 
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 1", Canal 1 ...37d
@@ -23,14 +23,8 @@ acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España-NEWLOOP" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 ...370
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España-NEWLOOP" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 ...8cb
-acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="España-NEWLOOP" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 ...eea
 acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="España-NEWLOOP" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 ...81f
-acestream://f00b018faa7d17cc2fb27f34f567a69ca0d1081f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="España-NEWLOOP" tvg-id="M+ Liga de Campeones 3 HD", M.L. Campeones 3 ...ce8
-acestream://a9d68301596739a6659873bed3f55802cf744ce8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="España-NEWLOOP" tvg-id="M+ Liga de Campeones 3 HD", M.L. Campeones 3 ...373
 acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="España-NEWLOOP" tvg-id="M+ Liga de Campeones 4", M.L. Campeones 4 ...661
