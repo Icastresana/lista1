@@ -301,18 +301,18 @@ acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
 acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 16:00 Corales Puntacana Championship -  Semifinal Masculina - Premier Padel Tour
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 WTA Torneo de Iasi - Semifinal 2 P. Badosa - T. Zidansek
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:30 WTA Torneo de Iasi - Semifinal 2 P. Badosa - T. Zidansek
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:45 FIFA Copa Mundial 2026 - 3er Puesto Australia - España
+acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:45 FIFA Copa Mundial 2026 - 3er Puesto Australia - España
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:45 FIFA Copa Mundial 2026 - 3er Puesto Australia - España
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:45 FIFA Copa Mundial 2026 - 3er Puesto Australia - España
+acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Amistoso -  Girona - Al Qadisiya
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Amistoso -  Girona - Al Qadisiya
@@ -331,14 +331,6 @@ acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
 acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 18:00 Corales Puntacana Championship -  Semifinal Masculina - Premier Padel Tour
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 FIFA Copa Mundial 2026 - 3er Puesto Semifinales
-acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Umag - Final D. Mérida Aguilar - D. Dzumhur
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 Torneo de Umag - Final D. Mérida Aguilar - D. Dzumhur
@@ -379,6 +371,14 @@ acestream://21bc11d195f5753c396e390c215952d21541d04d
 acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Amistoso -  UE Olot - Espanyol
 acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 FIFA Copa Mundial 2026 - 3er Puesto Estados Unidos - Canadá
+acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 FIFA Copa Mundial 2026 - 3er Puesto Estados Unidos - Canadá
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 FIFA Copa Mundial 2026 - 3er Puesto Estados Unidos - Canadá
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:45 FIFA Copa Mundial 2026 - 3er Puesto Estados Unidos - Canadá
+acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 21:00 IndyCar -  Nashville Grand Prix - Clasificación
 acestream://15ec214bb10925dadd16a1716bb2042af6008a93
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 21:00 IndyCar -  Nashville Grand Prix - Clasificación
