@@ -61,19 +61,19 @@ acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
 acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 12:00 Torneo de Gstaad - Final M. Kubka - J. Mikulskyte
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15 - Champagnole › Plateau de Solaison (184 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15 - Champagnole › Plateau de Solaison (184 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15 - Champagnole › Plateau de Solaison (184 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15
 acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15 - Champagnole › Plateau de Solaison (184 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15 - Champagnole › Plateau de Solaison (184 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15 - Champagnole › Plateau de Solaison (184 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15 - Champagnole › Plateau de Solaison (184 km)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:20 Tour de Francia -  Etapa 15
 acestream://314eb626864faf52e01624361bd6906b5406127f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 Torneo de Bastad - Final A. Rublev - L. Darderi
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
@@ -225,6 +225,14 @@ acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:00 Corales Puntacana Championship -  MX2 - Segunda carrera
 acestream://f5908690485ae2facecf3074446ba4315f07a193
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:15 FIFA Copa Mundial 2026 - Final Canadá - Australia
+acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:15 FIFA Copa Mundial 2026 - Final Canadá - Australia
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:15 FIFA Copa Mundial 2026 - Final Canadá - Australia
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 17:15 FIFA Copa Mundial 2026 - Final Canadá - Australia
+acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:15 Las Carreras -  Hipódromo de San Sebastián 19/07/2026
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 17:15 Las Carreras -  Hipódromo de San Sebastián 19/07/2026
@@ -310,6 +318,14 @@ acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 FIFA Copa Mundial 2026 - Final Final
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 FIFA Copa Mundial 2026 - Final Final
+acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:15 FIFA Copa Mundial 2026 - Final Estados Unidos - España
+acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:15 FIFA Copa Mundial 2026 - Final Estados Unidos - España
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:15 FIFA Copa Mundial 2026 - Final Estados Unidos - España
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:15 FIFA Copa Mundial 2026 - Final Estados Unidos - España
 acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 FIFA Copa Mundial 2026 - Final España - Argentina
 acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418
