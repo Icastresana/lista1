@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://iptvx.one/EPG_LITE, https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://iptvx.one/EPG_LITE, https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz"
 
 
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 1", Canal 1 ...37d
@@ -101,6 +100,8 @@ acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Movistar Vamos 2 --> New Loop ...1a8
 acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", M+ Vamos 1080p * --> ELCANO ...6f9
+acestream://6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", M+ Vamos 1080p ** --> ELCANO ...d16
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", M+ Vamos 1080p ** --> ELCANO ...7fc
@@ -119,6 +120,8 @@ acestream://86262568aa72b956b06ac67b1c310a32248a0e98
 acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" group-title="Vamos" tvg-id="M+ Vamos 2", M+ VAMOS 2 1080p ** --> ELCANO ...07c
 acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" group-title="Vamos" tvg-id="M+ Vamos 2", M+ VAMOS 2 720p * --> ELCANO ...879
+acestream://c8c172886e466fbe443433f8e95d201e34edd879
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" group-title="Vamos" tvg-id="M+ Vamos 2", M+ VAMOS 2 720p ** --> ELCANO ...7ca
 acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" group-title="Vamos" tvg-id="M+ Vamos 3", M+ VAMOS 3 1080p ** --> ELCANO ...e96
@@ -311,7 +314,7 @@ acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" group-title="Motor" tvg-id="DAZN MotoGP", Dazn MotoGP 720p ** --> ELCANO ...137
 acestream://ac33342ccf7d40d46174229085461d95000b9137
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" group-title="Motor" tvg-id="DAZN MotoGP", DAZN MOTO GP --> NEW ERA III ...b32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" group-title="Motor" tvg-id="DAZN MotoGP", DAZN MOTO GP (SOLO EVENTOS) --> NEW ERA III ...b32
 acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" group-title="Motor" tvg-id="DAZN MotoGP", DAZN MOTOGP --> NEW ERA VI ...b36
 acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
@@ -339,7 +342,7 @@ acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a
 acestream://20086a76248efe8d5230c15d41c69bae8fa6381c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 720p ** --> ELCANO ...247
 acestream://27d11bbeb3026231d52de16b1fac48da7a099247
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Motor" tvg-id="DAZN F1 HD", Dazn F1 --> NEW ERA III ...d19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Motor" tvg-id="DAZN F1 HD", Dazn F1 (SOLO EVENTOS) --> NEW ERA III ...d19
 acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 --> NEW ERA VI ...cde
 acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
@@ -362,7 +365,7 @@ acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
 acestream://3ebcfc00921a4a9307dec97e078f8dc12eee27e7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Eurosport" tvg-id="Eurosport 2", Eurosport 2 720p ** --> ELCANO ...6b2
 acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Eurosport" tvg-id="Eurosport 2", Eurosport 2 --> NEW ERA III ...9fd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Eurosport" tvg-id="Eurosport 2", Eurosport 2 (DETENIDO) --> NEW ERA III ...9fd
 acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
 
 
@@ -371,6 +374,14 @@ acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", MOVISTAR PLUS 1080p * --> ELCANO ...5bb
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", MOVISTAR PLUS 1080p ** --> ELCANO ...b78
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", MOVISTAR PLUS 720p * --> ELCANO ...336
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", MOVISTAR + --> NEW ERA VI ...ec9
+acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", Movistar+ --> NEW ERA III ...056
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="Otros M" tvg-id="M+ Golf HD", M. Golf HD --> New Loop ...afb
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="Otros M" tvg-id="M+ Golf HD", M+ Golf 1080p * --> ELCANO ...530
@@ -383,22 +394,14 @@ acestream://f60535a458b3c114283e2f433379144345beddd6
 acestream://882074140fca664e119a43294afa2fb4a64917ef
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="Otros M" tvg-id="M+ Golf 2 HD", M+ Golf 2 1080p ** --> ELCANO ...714
 acestream://597cca4ef375529aaca0608b43187d99d26ca714
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", MOVISTAR PLUS 1080p ** --> ELCANO ...b78
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", MOVISTAR PLUS 720p * --> ELCANO ...336
-acestream://d23497596720b47b096ec0f850d6d26a19d1a336
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", MOVISTAR + --> NEW ERA VI ...ec9
-acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", Movistar+ --> NEW ERA III ...056
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" group-title="Otros" tvg-id="GOL", Gol TV 1080p ** --> ELCANO ...ec1
+#EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id="", Gol TV 1080p ** --> ELCANO ...ec1
 acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Otros" tvg-id="Onetoro", Onetoro --> NEW ERA III ...216
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Otros" tvg-id="Onetoro", Onetoro (SOLO EVENTOS) --> NEW ERA III ...216
 acestream://889db6c87a28fd5b3092333b63bcdddf05d26216
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Otros" tvg-id="Real Madrid TV", Real Madrid TV 1080p * --> ELCANO ...f0a
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
@@ -427,6 +430,8 @@ acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", LA 1 Spain --> New Loop ...6dd
 acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", La 1 TVE 1080p ** --> ELCANO ...4ef
+acestream://9707e15881a29adc795ebdc12862289860edd4ef
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", La 1 TVE 4K ** --> ELCANO ...0c3
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", La 1 TVE 720p * --> ELCANO ...8a8
@@ -435,6 +440,8 @@ acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
 acestream://e4414e69ccd4cd97f8662e69736c4027e9182e72
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="TDT" tvg-id="La 2", La 2 Canarias --> New Loop ...508
 acestream://b59f6b82ea4dc175e90799461b4c1b6f49fbe508
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="TDT" tvg-id="La 2", La 2 Catalunya --> New Loop ...cbc
+acestream://633d597e71431fb2971e3fd20e7e626d55374cbc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="TDT" tvg-id="La 2", La 2 TVE 1080p ** --> ELCANO ...dc7
 acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="TDT" tvg-id="La 2", La 2 TVE 1080p ** --> ELCANO ...98b
@@ -455,13 +462,11 @@ acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
 acestream://9a84a44833e4b8dc39a296584d4f587b7ae3163c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="TDT" tvg-id="Neox", neox Spain --> New Loop ...542
 acestream://5a7c41f2a3d22446cb80dc9c9f9d1f26867bc542
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" group-title="TDT" tvg-id="Nickelodeon HD", Nickelodeon --> NEW ERA III ...20e
-acestream://3f2b6ac892758f5f3574f649ba9c486b341ca20e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="TDT" tvg-id="Nova", NOVA Spain --> New Loop ...efe
 acestream://d88f53277cbff8bca0d63d17502d72746b115efe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" group-title="TDT" tvg-id="SkyShowtime", SkyShowtime 1 Spain --> New Loop ...bcf
 acestream://d98f8926ec3c7c403cec32530f2ab7725cf88bcf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="TDT" tvg-id="SyFy HD", SYFY HD Spain --> New Loop ...463
+#EXTINF:-1 tvg-logo="" group-title="TDT" tvg-id="", SYFY HD Spain --> New Loop ...463
 acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="TDT" tvg-id="Calle 13 HD", CALLE 13 HD Spain --> New Loop ...613
 acestream://91d38e143c3495dabf3ddf0497af98a227aeb613
@@ -482,6 +487,8 @@ acestream://26048cc1e19bb507b3e12a82ca19134d4694b039
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", Esport3 1080p ** --> ELCANO ...04d
 acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", Esport3 720p * --> ELCANO ...23c
+acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="Autonómicos" tvg-id="Esport 3", Esport3 720p ** --> ELCANO ...2e3
 acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 
@@ -502,7 +509,7 @@ acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
 acestream://8269d72f3338c6b4ef7752732adaa9f62d4c09e4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="Cine y documentales" tvg-id="AXN HD", AXN HD --> New Loop ...983
 acestream://bec9f6119618624d5a8b0702816c6bcce1f4f983
-#EXTINF:-1 tvg-logo="" group-title="Cine y documentales" tvg-id="", AXN Movies Spain --> New Loop ...57c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine y documentales" tvg-id="AXN Movies HD", AXN Movies Spain --> New Loop ...57c
 acestream://6b4acf7cab48967eccea5c3e89b1e945ceab457c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="Cine y documentales" tvg-id="DARK", Dark --> NEW ERA III ...e5d
 acestream://fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d
@@ -536,6 +543,8 @@ acestream://fe6dead974cebbb7626458a763ff0e2150dffbe0
 acestream://0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine y documentales" tvg-id="M+ Originales HD", Movistar Originales --> NEW ERA III ...1ce
 acestream://60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png" group-title="Cine y documentales" tvg-id="M+ Romance", Movistar Romance --> NEW ERA III ...bc7
+acestream://9ebc9eed6bd8d8a278b7aaab1513dd9ad2299bc7
 
 
 
@@ -571,7 +580,7 @@ acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
 acestream://854ff9c607101791346111cd2366a392c3b8c351
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" group-title="1RFEF" tvg-id="Primera Federación", RFEF TV 1080p ** --> ELCANO ...cfc
 acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" group-title="1RFEF" tvg-id="Primera Federación", 1 Federacion --> NEW ERA III ...ac1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" group-title="1RFEF" tvg-id="Primera Federación", 1 Federacion (SOLO EVENTOS) --> NEW ERA III ...ac1
 acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
 
 
@@ -584,6 +593,8 @@ acestream://853129258a5cb51f27829eddb934e58b45978344
 acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png" group-title="Baloncesto" tvg-id="M+ Baloncesto 2", M+ Baloncesto 2 1080p * --> ELCANO ...1f1
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png" group-title="Baloncesto" tvg-id="M+ Baloncesto 2", M+ Baloncesto 2 1080p * --> ELCANO ...535
+acestream://c8c33b2673efe7f386790c5966643820578f3535
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3", DAZN Baloncesto 3 1080p * --> ELCANO ...b91
 acestream://13d68ecb392251a81489ce75be90388498ecfb91
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3", DAZN Baloncesto 3 720p ** --> ELCANO ...fea
@@ -661,21 +672,21 @@ acestream://ce4ae0c3491acd4272340029139ba25642e2516b
 acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.10.de",RTL+ 10 ...b7e
 acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 1",Eurosport 360 1 ...00c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Alemania" tvg-id="FR · Eurosport 1",Eurosport 360 1 ...00c
 acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 2",Eurosport 360 2 ...28c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Alemania" tvg-id="FR · Eurosport 2",Eurosport 360 2 ...28c
 acestream://57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 3",Eurosport 360 3 ...e0c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%203.png" group-title="Alemania" tvg-id="FR · Eurosport 3",Eurosport 360 3 ...e0c
 acestream://7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 4",Eurosport 360 4 ...f64
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204.png" group-title="Alemania" tvg-id="FR · Eurosport 4",Eurosport 360 4 ...f64
 acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 5",Eurosport 360 5 ...809
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%205.png" group-title="Alemania" tvg-id="FR · Eurosport 5",Eurosport 360 5 ...809
 acestream://148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 6",Eurosport 360 6 ...c3f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%206.png" group-title="Alemania" tvg-id="FR · Eurosport 6",Eurosport 360 6 ...c3f
 acestream://005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 7",Eurosport 360 7 ...791
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%207.png" group-title="Alemania" tvg-id="FR · Eurosport 7",Eurosport 360 7 ...791
 acestream://b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="FR · Eurosport 8",Eurosport 360 8 ...5fe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%208.png" group-title="Alemania" tvg-id="FR · Eurosport 8",Eurosport 360 8 ...5fe
 acestream://8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.1.-.myTeamTV.de",Magenta Sport 1 ...072
 acestream://501141c649a2b78c4965cbf3257224181cc55072
@@ -705,11 +716,11 @@ acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Chequia" tvg-id="Canal+.Sport.cz",Canal+ Sport 1 ...b69
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport.png" group-title="Chequia" tvg-id="Canal+.Sport.cz",Canal+ Sport 1 ...b69
 acestream://fc702b72e42792a13c1f531004c2df2ac8242b69
-#EXTINF:-1 tvg-logo="" group-title="Chequia" tvg-id="Canal+.Sport.2.cz",Canal+ Sport 2 ...61a
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport2.png" group-title="Chequia" tvg-id="Canal+.Sport.2.cz",Canal+ Sport 2 ...61a
 acestream://bfc8eb5d8ef61518f4b03c3a3c57f817b477d61a
-#EXTINF:-1 tvg-logo="" group-title="Chequia" tvg-id="Canal+.Sport.3.cz",Canal+ Sport  ...e2b
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport3.png" group-title="Chequia" tvg-id="Canal+.Sport.3.cz",Canal+ Sport 3 ...e2b
 acestream://3a4e20dae3ded815d8e005c493bbf0867324ae2b
 
 
@@ -719,9 +730,9 @@ acestream://3a4e20dae3ded815d8e005c493bbf0867324ae2b
 acestream://f8530bebe4cc2c28dd0df48834309298dd3a9c3b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gGcVcCN/kanal2.png" group-title="Eslovaquia" tvg-id="Arena.Sport.2.HD.sk",Arena Sport 2 ...ce7
 acestream://1c8aef8b36bb5ea8796b63644dd8ebcbcf5c9ce7
-#EXTINF:-1 tvg-logo="" group-title="Eslovaquia" tvg-id="JOJ.ŠPORT.HD.sk",JOJ Sport 1 ...7a6
+#EXTINF:-1 tvg-logo="https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png" group-title="Eslovaquia" tvg-id="JOJ.ŠPORT.HD.sk",JOJ Sport 1 ...7a6
 acestream://c4b4277061b1d2db78b6c6bb0713ca89dbed77a6
-#EXTINF:-1 tvg-logo="" group-title="Eslovaquia" tvg-id="JOJ.ŠPORT.2.sk",JOJ Sport 2 ...ee8
+#EXTINF:-1 tvg-logo="https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png" group-title="Eslovaquia" tvg-id="JOJ.ŠPORT.2.sk",JOJ Sport 2 ...ee8
 acestream://06c6acedf71f489ac9b28535ced923fc9ce91ee8
 
 
@@ -890,13 +901,13 @@ acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
 acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQRnPMY/Football.png" group-title="Rusia" tvg-id="football-ru",Футбол HD ...6dd
 acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 tvg-logo="" group-title="Rusia" tvg-id="1auto",Pershyi Avtomobilnyi ...f21
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1auto.png" group-title="Rusia" tvg-id="1auto",Pershyi Avtomobilnyi ...f21
 acestream://d099ad38ef4645ac48cb572207058b785a41df21
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Rusia" tvg-id="eurosport1",EuroSport 1 HD ...a62
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Rusia" tvg-id="eurosport2",EuroSport 2 HD ...8e0
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 tvg-logo="" group-title="Rusia" tvg-id="ufc",UFC HD ...b64
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ufc.png" group-title="Rusia" tvg-id="ufc",UFC HD ...b64
 acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
 
 
@@ -912,9 +923,9 @@ acestream://ed81c333815247536edfcdb2755147e8c4144d62
 acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvTFJQt/Bein-Haber.png" group-title="Turquía" tvg-id="Bein.Sports.Haber.tr",Bein Sports HABER ...5f3
 acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3
-#EXTINF:-1 tvg-logo="" group-title="Turquía" tvg-id="SSport.tr",S Sport ...042
+#EXTINF:-1 tvg-logo="https://ssport.tv//uploads/tv-logo/logo-1.svg" group-title="Turquía" tvg-id="SSport.tr",S Sport ...042
 acestream://4ee6d74475fa010c590eb228d66155bdc9c16042
-#EXTINF:-1 tvg-logo="" group-title="Turquía" tvg-id="SSport.2.tr",S Sport 2 ...e51
+#EXTINF:-1 tvg-logo="https://ssport.tv//uploads/tv-logo/logo-2.svg" group-title="Turquía" tvg-id="SSport.2.tr",S Sport 2 ...e51
 acestream://367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
 
 
@@ -924,7 +935,7 @@ acestream://367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4sWVG3/Setanta2.png" group-title="Ukrania" tvg-id="setanta-sports-plus",Setanta Sports 2 ...80c
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-logo="" group-title="Ukrania" tvg-id="maincast",Maincast sport ...c9d
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/maincast.png" group-title="Ukrania" tvg-id="maincast",Maincast sport ...c9d
 acestream://40f9a0993165b3c0f5bce84f69a0a0f2e205ac9d
 
 
@@ -938,7 +949,7 @@ acestream://664eb5fe460b96941aed633959a845b185cd8394
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cnVCwv/foxsports2.png" group-title="USA" tvg-id="FS2.Fox.Sports.2.HD.us2",Fox Sports 2 ...3b7
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-logo="" group-title="USA" tvg-id="beIN.Sports.En.EspaÃ±ol.HD.us2",Bein Sports Xtra Ñ ...8f9
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s76955_ll_h15_aa.png" group-title="USA" tvg-id="beIN.Sports.En.EspaÃ±ol.HD.us2",Bein Sports Xtra Ñ ...8f9
 acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n09HkMh/tenis.png" group-title="USA" tvg-id="Tennis.Channel.HD.us2",Tennis Channel ...3ac
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
