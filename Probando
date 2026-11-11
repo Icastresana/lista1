@@ -334,13 +334,6 @@ acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 
 
 
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport.png" group-title="Chequia" tvg-id="Canal+.Sport.cz",Canal+ Sport 1 ...b69
-acestream://fc702b72e42792a13c1f531004c2df2ac8242b69
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport2.png" group-title="Chequia" tvg-id="Canal+.Sport.2.cz",Canal+ Sport 2 ...61a
-acestream://bfc8eb5d8ef61518f4b03c3a3c57f817b477d61a
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport3.png" group-title="Chequia" tvg-id="Canal+.Sport.3.cz",Canal+ Sport 3 ...e2b
-acestream://3a4e20dae3ded815d8e005c493bbf0867324ae2b
-
 
 
 
@@ -480,8 +473,6 @@ acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wYSjdjR/Eleven3.png" group-title="Portugal" tvg-id="PT | DAZN 3",Eleven Sport 3 ...f1e
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4MHd5t/Eleven4.png" group-title="Portugal" tvg-id="PT | DAZN 4",Eleven Sport 4 ...b98
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5j1qB8/Eleven5.png" group-title="Portugal" tvg-id="PT | DAZN 5",Eleven Sport 5 ...08a
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zF8ZQTF/Eleven6.png" group-title="Portugal" tvg-id="PT | DAZN 6",Eleven Sport 6 ...a80
@@ -553,8 +544,6 @@ acestream://367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4sWVG3/Setanta2.png" group-title="Ukrania" tvg-id="setanta-sports-plus",Setanta Sports 2 ...80c
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/maincast.png" group-title="Ukrania" tvg-id="maincast",Maincast sport ...c9d
-acestream://40f9a0993165b3c0f5bce84f69a0a0f2e205ac9d
 
 
 
@@ -567,8 +556,6 @@ acestream://664eb5fe460b96941aed633959a845b185cd8394
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cnVCwv/foxsports2.png" group-title="USA" tvg-id="FS2.Fox.Sports.2.HD.us2",Fox Sports 2 ...3b7
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s76955_ll_h15_aa.png" group-title="USA" tvg-id="beIN.Sports.En.EspaÃ±ol.HD.us2",Bein Sports Xtra Ñ ...8f9
-acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n09HkMh/tenis.png" group-title="USA" tvg-id="Tennis.Channel.HD.us2",Tennis Channel ...3ac
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7x3fT2T/nba.png" group-title="USA" tvg-id="NBA.TV.HD.us2",NBA TV ...d95
