@@ -332,7 +332,12 @@ acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 
 
-
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport.png" group-title="Chequia" tvg-id="Canal+.Sport.cz",Canal+ Sport 1 ...b69
+acestream://fc702b72e42792a13c1f531004c2df2ac8242b69
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport2.png" group-title="Chequia" tvg-id="Canal+.Sport.2.cz",Canal+ Sport 2 ...61a
+acestream://bfc8eb5d8ef61518f4b03c3a3c57f817b477d61a
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport3.png" group-title="Chequia" tvg-id="Canal+.Sport.3.cz",Canal+ Sport 3 ...e2b
+acestream://3a4e20dae3ded815d8e005c493bbf0867324ae2b
 
 
 
