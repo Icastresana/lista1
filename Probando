@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://iptvx.one/EPG_LITE, https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://iptvx.one/EPG_LITE, https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz"
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gmMBFhz/elcano.jpg" group-title="Elcano" tvg-id="",ELCANO
@@ -36,6 +36,10 @@ acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga --> New Loop ...96a
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga --> New Loop ...13e
+acestream://45ee8e08bb341a56b2ed36da327e2e9fee54d13e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LALIGA --> NEW ERA VI ...1cb
 acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN liga --> NEW ERA III ...e61
@@ -45,13 +49,19 @@ acestream://f43ef903dc750610978b47df47a0cb389413fe61
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", M. LaLiga TV Hypermotion --> New Loop ...c0d
+acestream://568ac81baafba91dc9a28a7554a1dd790fdf0c0d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LALIGA HYPERMOTION --> NEW ERA VI ...27c
 acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2", M. LaLiga TV Hypermotion 2 --> New Loop ...f18
+acestream://cafdd40301fad92c6929960e98b1a6feefcf6f18
 
 
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", M+ Vamos --> New Loop ...c38
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Vamos --> NEW ERA III ...e98
 acestream://86262568aa72b956b06ac67b1c310a32248a0e98
 
@@ -59,6 +69,8 @@ acestream://86262568aa72b956b06ac67b1c310a32248a0e98
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes HD --> New Loop ...2b3
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", Movistar Deportes --> NEW ERA III ...b47
 acestream://af393f93814d03160d48d2730759593b7bea5b47
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M Deportes" tvg-id="M+ Deportes 2 HD", M. Deportes 2 HD --> New Loop ...2b5
@@ -84,6 +96,14 @@ acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M. Liga de Campeones 4 --> New Loop ...661
 acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", M. Liga de Campeones 5 --> New Loop ...076
+acestream://42464375d3070ef1cbba2e7b2106bf8c80037076
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 6", M. Liga de Campeones 6 --> New Loop ...beb
+acestream://062d160d570b01bcb2b3fb033a0ae5977bbb9beb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 7", M. Liga de Campeones 7 --> New Loop ...a8a
+acestream://57c6c8afe4ec1f7bd652c0ed0e6170c18826aa8a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 8", M. Liga de Campeones 8 --> New Loop ...990
+acestream://9732997a3f8e243f8a4b2bb780892909b32f9990
 
 
 
@@ -130,6 +150,8 @@ acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
 acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="Otros M" tvg-id="Movistar Plus HD", Movistar+ --> NEW ERA III ...056
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="Otros M" tvg-id="M+ Golf HD", M. Golf 2 HD --> New Loop ...ae9
+acestream://1735ff3141fa3820090fad58dc548a1390accae9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="Otros M" tvg-id="M+ Golf HD", M. Golf HD --> New Loop ...afb
 acestream://872608e734992db636eb79426802cd08f4029afb
 
@@ -146,26 +168,10 @@ acestream://4048be88f84250719e864868e537612f389df48e
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="TDT" tvg-id="La 1 HD", LA 1 Spain --> New Loop ...6dd
-acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png" group-title="TDT" tvg-id="Boing", BOING Spain --> New Loop ...710
-acestream://04dc4964d2bddf41da7da028397ed2a3feeea710
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="TDT" tvg-id="Comedy Central HD", Comedy Central --> NEW ERA III ...4ad
 acestream://e1c2c2a74a3688066526e5ff212e13d2101f44ad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" group-title="TDT" tvg-id="Disney Channel", Disney Channel --> NEW ERA III ...6cc
 acestream://94f87e54d3ad4660c800d2ec46b14ba29e0186cc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="TDT" tvg-id="La Sexta HD", laSexta HD Spain --> New Loop ...ecf
-acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" group-title="TDT" tvg-id="MTV España", MTV Spain --> New Loop ...63c
-acestream://9a84a44833e4b8dc39a296584d4f587b7ae3163c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="TDT" tvg-id="Nova", NOVA Spain --> New Loop ...efe
-acestream://d88f53277cbff8bca0d63d17502d72746b115efe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" group-title="TDT" tvg-id="SkyShowtime", SkyShowtime 1 Spain --> New Loop ...bcf
-acestream://d98f8926ec3c7c403cec32530f2ab7725cf88bcf
-#EXTINF:-1 tvg-logo="" group-title="TDT" tvg-id="", SYFY HD Spain --> New Loop ...463
-acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="TDT" tvg-id="Calle 13 HD", CALLE 13 HD Spain --> New Loop ...613
-acestream://91d38e143c3495dabf3ddf0497af98a227aeb613
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="TDT" tvg-id="Calle 13 HD", Calle 13 --> NEW ERA III ...fa0
 acestream://296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0
 
@@ -182,22 +188,8 @@ acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine y documentales" tvg-id="M+ Acción HD", Accion --> NEW ERA III ...05d
 acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine y documentales" tvg-id="AXN Movies HD", AXN Movies Spain --> New Loop ...57c
-acestream://6b4acf7cab48967eccea5c3e89b1e945ceab457c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="Cine y documentales" tvg-id="DARK", Dark --> NEW ERA III ...e5d
 acestream://fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine y documentales" tvg-id="M+ Cine Español", M+ CINE ESPAnOL HD Spain --> New Loop ...b72
-acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="Cine y documentales" tvg-id="M+ Documentales HD", M+ Documentales HD Spain --> New Loop ...216
-acestream://3c1b00267a398093848ded743cfdb547e2232216
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine y documentales" tvg-id="M+ Drama HD", M+ DRAMA HD Spain --> New Loop ...f7e
-acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="Cine y documentales" tvg-id="M+ Indie HD", M+ Indie HD Spain --> New Loop ...71f
-acestream://205cf36437bf4e0643398f62f212832d4b8e271f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine y documentales" tvg-id="M+ Originales HD", M+ Originales HD Spain --> New Loop ...8bc
-acestream://0364449064d322a1bc0f97d568452053810ef8bc
-#EXTINF:-1 tvg-logo="" group-title="Cine y documentales" tvg-id="", M+ Romance HD Spain --> New Loop ...d7a
-acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine y documentales" tvg-id="M+ Cine Español", Movistar Cine Español --> NEW ERA III ...eca
 acestream://f4e37b63fb042d90528585741a39851af543deca
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine y documentales" tvg-id="M+ Comedia HD", Movistar Comedia --> NEW ERA III ...fcb
@@ -210,9 +202,9 @@ acestream://fe6dead974cebbb7626458a763ff0e2150dffbe0
 acestream://0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine y documentales" tvg-id="M+ Originales HD", Movistar Originales --> NEW ERA III ...1ce
 acestream://60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png" group-title="Cine y documentales" tvg-id="M+ Romance", Movistar Romance --> NEW ERA III ...bc7
+#EXTINF:-1 tvg-logo="" group-title="Cine y documentales" tvg-id="", Movistar Romance --> NEW ERA III ...bc7
 acestream://9ebc9eed6bd8d8a278b7aaab1513dd9ad2299bc7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png" group-title="Cine y documentales" tvg-id="M+ Terror", Movistar Terror --> NEW ERA III ...c36
+#EXTINF:-1 tvg-logo="" group-title="Cine y documentales" tvg-id="", Movistar Terror --> NEW ERA III ...c36
 acestream://887ac58d9ede35d19364c1959d9e78a78f288c36
 
 
@@ -224,348 +216,319 @@ acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
 
 
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" group-title="Alemania" tvg-id="DAZN.1.de",DAZN 1 DE ...229
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/svg/12188.svg" group-title="Alemania" tvg-id="DAZN.1.de",DAZN 1 ...229
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania" tvg-id="DAZN.2.de",DAZN 2 DE ...865
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/svg/12189.svg" group-title="Alemania" tvg-id="DAZN.2.de",DAZN 2 ...865
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Alemania" tvg-id="Eurosport.1.de",Eurosport 1 ...766
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Alemania" tvg-id="Eurosport.1.de",Eurosport 1 ...766
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Alemania" tvg-id="Eurosport.2.de",Eurosport 2 ...2c6
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Alemania" tvg-id="Eurosport.2.de",Eurosport 2 ...2c6
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/znGYPyK/ORF.png" group-title="Alemania" tvg-id="ORF.SPORT.+.de",ORF Sport+ ...974
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/orf-sport-plus.png" group-title="Alemania" tvg-id="ORF.SPORT.+.de",ORF Sport+ ...974
 acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f1TTYBf/skysportb.png" group-title="Alemania" tvg-id="Sky.Sport.Bundesliga.de",Sky Bundesliga ...f3b
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sky-sport-bl1.png" group-title="Alemania" tvg-id="Sky.Sport.Bundesliga.de",Sky Bundesliga 1 ...f3b
 acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnBh97H/skysport1.png" group-title="Alemania" tvg-id="Sky.Sport.1.de",Sky Sport 1 ...65d
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FBQVR.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.1.de",Sky Sport 1 ...65d
 acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3TQ9r16/skysport2.png" group-title="Alemania" tvg-id="Sky.Sport.2.de",Sky Sport 2 ...f69
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FBEKP.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.2.de",Sky Sport 2 ...f69
 acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ncmvyPp/sportnew.png" group-title="Alemania" tvg-id="Sky.Sport.News.de",Sky Sport News ...6a8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sky-sport-news-de.png" group-title="Alemania" tvg-id="Sky.Sport.News.de",Sky Sport News ...6a8
 acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVWvv6x/SkyF1.png" group-title="Alemania" tvg-id="Sky.Sport.F1.de",Sky Sport F1 ...076
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sky-sport-f1-de.png" group-title="Alemania" tvg-id="Sky.Sport.F1.de",Sky Sport F1 ...076
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvXGRmY/sportdigital.webp" group-title="Alemania" tvg-id="sportdigital.Fussball.de",SPORTDIGITAL ...4e7
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sportdigital-fussball.png" group-title="Alemania" tvg-id="sportdigital.Fussball.de",SportDigital ...4e7
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMPxDXD/Sport1.png" group-title="Alemania" tvg-id="SPORT1.de",SPORT1 ...5ff
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sport1-de.png" group-title="Alemania" tvg-id="SPORT1.de",Sport1 ...5ff
 acestream://1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMPxDXD/Sport1.png" group-title="Alemania" tvg-id="SPORT1+.de",SPORT1+ ...c2b
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sport1-plus-de.png" group-title="Alemania" tvg-id="SPORT1+.de",Sport1+ ...c2b
 acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4fYChH8/Motorvision.webp" group-title="Alemania" tvg-id="Motorvision+.de",Motorvision ...37f
+#EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" group-title="Alemania" tvg-id="Motorvision+.de",Motorvision TV ...37f
 acestream://acd7e3ae185a376e6596e60a414bebbf3321b37f
-#EXTINF:-1 tvg-logo="https://ibb.co/RvfpGzW" group-title="Alemania" tvg-id="ProSieben.MAXX.de",ProSieben MAXX ...5f2
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/prosieben-maxx.png" group-title="Alemania" tvg-id="ProSieben.MAXX.de",Prosieben MAXX ...5f2
 acestream://40d73c46051360ce2ba7b329725440dc74d485f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvfW6wV/ZDF.png" group-title="Alemania" tvg-id="ZDF.de",ZDF ...316
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/zdf.png" group-title="Alemania" tvg-id="ZDF.de",ZDF ...316
 acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1 tvg-logo="https://i.ibb.co/znGYPyK/ORF.png" group-title="Alemania" tvg-id="ORF.1.de",ORF 1 ...363
 acestream://c9d6412050226de0968cea19a383b50dc1966363
 #EXTINF:-1 tvg-logo="https://i.ibb.co/znGYPyK/ORF.png" group-title="Alemania" tvg-id="ORF.2.de",ORF 2 ...edd
 acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/znGYPyK/ORF.png" group-title="Alemania" tvg-id="ORF.III.de",ORF 3 ...86a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znGYPyK/ORF.png" group-title="Alemania" tvg-id="ORF.III.de",ORF III ...86a
 acestream://41ac7892b8fde95d5110d83d7324044145c7f86a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k1r55Vz/ServusTV.png" group-title="Alemania" tvg-id="Servus.TV.Ã–sterreich.de",Servus TV ...115
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1r55Vz/ServusTV.png" group-title="Alemania" tvg-id="Servus.TV.Österreich.de",Servus TV ...115
 acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQm4m9db/rtl.png" group-title="Alemania" tvg-id="RTL.de",RTL HD ...ced
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rtl.png" group-title="Alemania" tvg-id="RTL.de",RTL 1 ...ced
 acestream://bc9610c2cb92a71a5c17f357d66719fa1c054ced
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6R93dcJ5/RTL2.png" group-title="Alemania" tvg-id="RTLZWEI.de",RTL 2 HD ...8de
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rtl2.png" group-title="Alemania" tvg-id="RTLZWEI.de",RTL 2 ...8de
 acestream://ece97e99e4272351c3656922509b138c760858de
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvNPBzhJ/RTLup.png" group-title="Alemania" tvg-id="RTLup.de",RTL UP ...55a
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rtlup-de.png" group-title="Alemania" tvg-id="RTLup.de",RTL UP ...55a
 acestream://e22dbfca8357e8026d2a273c610f14c2645e955a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6bqshkw/rtlsuper.png" group-title="Alemania" tvg-id="SUPER.RTL.de",Super RTL ...606
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/super-rtl-hd.png" group-title="Alemania" tvg-id="SUPER.RTL.de",Super RTL ...606
 acestream://f4529e3b6c56d925c52172202170bd6558674606
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.1.de",RTL+ 1 ...3d3
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FBQVR.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.1.de",RTL+ Sport Event 1 ...3d3
 acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.2.de",RTL+ 2 ...466
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FBEKP.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.2.de",RTL+ Sport Event 2 ...466
 acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.3.de",RTL+ 3 ...d5b
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FC2FX.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.3.de",RTL+ Sport Event 3 ...d5b
 acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.4.de",RTL+ 4 ...0a6
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCHBQ.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.4.de",RTL+ Sport Event 4 ...a92
+acestream://e5c48475c4c729b60a53ad15eeb25348f9ad5a92
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCHBQ.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.4.de",RTL+ Sport Event 4 ...0a6
 acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.5.de",RTL+ 5 ...fe5
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCHE8.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.5.de",RTL+ Sport Event 5 ...eda
+acestream://3ae5084d80298ef7a963aa71e6fada5cdeb0eeda
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCHE8.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.5.de",RTL+ Sport Event 5 ...fe5
 acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.6.de",RTL+ 6 ...e30
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCJQK.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.6.de",RTL+ Sport Event 6 ...e30
 acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.7.de",RTL+ 7 ...a3e
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCNL7.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.7.de",RTL+ Sport Event 7 ...a3e
 acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.8.de",RTL+ 8 ...16b
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCPZ9.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.8.de",RTL+ Sport Event 8 ...16b
 acestream://ce4ae0c3491acd4272340029139ba25642e2516b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.9.de",RTL+ 9 ...c2f
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FCV4Z.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.9.de",RTL+ Sport Event 9 ...c2f
 acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9BrNZg/rtl.webp" group-title="Alemania" tvg-id="Sky.Sport.10.de",RTL+ 10 ...b7e
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FBYXT.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.10.de",RTL+ Sport Event 10 ...a44
+acestream://26be32cee68bcfbba968f6887b94f66dbef86a44
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG003FBYXT.png?w=360&h=270" group-title="Alemania" tvg-id="Sky.Sport.10.de",RTL+ Sport Event 10 ...b7e
 acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Alemania" tvg-id="FR · Eurosport 1",Eurosport 360 1 ...00c
-acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Alemania" tvg-id="FR · Eurosport 2",Eurosport 360 2 ...28c
-acestream://57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%203.png" group-title="Alemania" tvg-id="FR · Eurosport 3",Eurosport 360 3 ...e0c
-acestream://7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204.png" group-title="Alemania" tvg-id="FR · Eurosport 4",Eurosport 360 4 ...f64
-acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%205.png" group-title="Alemania" tvg-id="FR · Eurosport 5",Eurosport 360 5 ...809
-acestream://148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%206.png" group-title="Alemania" tvg-id="FR · Eurosport 6",Eurosport 360 6 ...c3f
-acestream://005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%207.png" group-title="Alemania" tvg-id="FR · Eurosport 7",Eurosport 360 7 ...791
-acestream://b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%208.png" group-title="Alemania" tvg-id="FR · Eurosport 8",Eurosport 360 8 ...5fe
-acestream://8f4f572005ca2557743474087aa622693ba9b5fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.1.-.myTeamTV.de",Magenta Sport 1 ...072
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s102885_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.1.-.myTeamTV.de",Magenta Sport 1 ...072
 acestream://501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.2.-.myTeamTV.de",Magenta Sport 2 ...9ab
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s102886_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.2.-.myTeamTV.de",Magenta Sport 2 ...9ab
 acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.3.-.myTeamTV.de",Magenta Sport 3 ...5b8
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s102887_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.3.-.myTeamTV.de",Magenta Sport 3 ...5b8
 acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.4.-.myTeamTV.de",Magenta Sport 4 ...849
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s102888_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.4.-.myTeamTV.de",Magenta Sport 4 ...849
 acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.5.-.myTeamTV.de",Magenta Sport 5 ...730
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s102889_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.5.-.myTeamTV.de",Magenta Sport 5 HD ...730
 acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.6.-.myTeamTV.de",Magenta Sport 6 ...cd8
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s102890_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.6.-.myTeamTV.de",Magenta Sport 6 HD ...cd8
 acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.7.-.myTeamTV.de",Magenta Sport 7 ...9e4
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s102891_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.7.-.myTeamTV.de",Magenta Sport 7 HD ...9e4
 acestream://ac839cda9709255c21a98af455731f037e77a9e4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.8.-.myTeamTV.de",Magenta Sport 8 ...175
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s104797_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.8.-.myTeamTV.de",Magenta Sport 8 HD ...175
 acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.9.-.myTeamTV.de",Magenta Sport 9 ...7d1
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s104798_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.9.-.myTeamTV.de",Magenta Sport 9 HD ...7d1
 acestream://86495fe134ff065d5217497babe6be33f81d37d1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.10.-.myTeamTV.de",Magenta Sport 10 ...b29
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s104799_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.10.-.myTeamTV.de",Magenta Sport 10 HD ...b29
 acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="Sport.11.-.myTeamTV.de",Magenta Sport 11 ...cc6
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s104800_ll_h15_ac.png?w=360&h=270" group-title="Alemania" tvg-id="Sport.11.-.myTeamTV.de",Magenta Sport 11 HD ...cc6
 acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport.png" group-title="Chequia" tvg-id="Canal+.Sport.cz",Canal+ Sport 1 ...b69
 acestream://fc702b72e42792a13c1f531004c2df2ac8242b69
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport2.png" group-title="Chequia" tvg-id="Canal+.Sport.2.cz",Canal+ Sport 2 ...61a
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-sport2-cz.png" group-title="Chequia" tvg-id="canal-pl-sport2-cz",Canal+ Sport 2 ...61a
 acestream://bfc8eb5d8ef61518f4b03c3a3c57f817b477d61a
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport3.png" group-title="Chequia" tvg-id="Canal+.Sport.3.cz",Canal+ Sport 3 ...e2b
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-sport-3-cz.png" group-title="Chequia" tvg-id="canal-pl-sport-3-cz",Canal+ Sport 3 ...e2b
 acestream://3a4e20dae3ded815d8e005c493bbf0867324ae2b
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKMJznpc/Kanal1.png" group-title="Eslovaquia" tvg-id="Arena.Sport.1.HD.sk",Arena Sport 1 ...c3b
+#EXTINF:-1 tvg-logo="https://files.cdn.magio.tv/tv_logos/kanal1-sport-hd.png" group-title="Eslovaquia" tvg-id="Arena.Sport.1.HD.sk",Arena Sport 1 ...c3b
 acestream://f8530bebe4cc2c28dd0df48834309298dd3a9c3b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gGcVcCN/kanal2.png" group-title="Eslovaquia" tvg-id="Arena.Sport.2.HD.sk",Arena Sport 2 ...ce7
+#EXTINF:-1 tvg-logo="https://files.cdn.magio.tv/tv_logos/kanal1-xtra-hd.png" group-title="Eslovaquia" tvg-id="Arena.Sport.2.HD.sk",Arena Sport 2 ...ce7
 acestream://1c8aef8b36bb5ea8796b63644dd8ebcbcf5c9ce7
-#EXTINF:-1 tvg-logo="https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png" group-title="Eslovaquia" tvg-id="JOJ.ŠPORT.HD.sk",JOJ Sport 1 ...7a6
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/joj-sport-cz.png" group-title="Eslovaquia" tvg-id="joj-sport-cz",JOJ Sport 1 ...7a6
 acestream://c4b4277061b1d2db78b6c6bb0713ca89dbed77a6
-#EXTINF:-1 tvg-logo="https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png" group-title="Eslovaquia" tvg-id="JOJ.ŠPORT.2.sk",JOJ Sport 2 ...ee8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/joj-sport-2-cz.png" group-title="Eslovaquia" tvg-id="joj-sport-2-cz",JOJ Sport 2 ...ee8
 acestream://06c6acedf71f489ac9b28535ced923fc9ce91ee8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CQNdqNG/Bein1.png" group-title="Francia" tvg-id="FR · beIN SPORTS 1",Bein Sports 1 ...fe0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" group-title="Francia" tvg-id="FR · beIN SPORTS 1",BeIN Sports 1 ...fe0
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4KdLb6X/Bein2.png" group-title="Francia" tvg-id="FR · beIN SPORTS 2",Bein Sports 2 ...0bc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" group-title="Francia" tvg-id="FR · beIN SPORTS 2",BeIN Sports 2 ...0bc
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2XVS6h/Bein3.png" group-title="Francia" tvg-id="FR · beIN SPORTS 3",Bein Sports 3 ...cf8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" group-title="Francia" tvg-id="FR · beIN SPORTS 3",BeIN Sports 3 ...cf8
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Main Event",Sky Sport Main Event ...f5e
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/18efe60b-b0e4-5e7a-a303-ab7a9590f5fa.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Main Event",Sky Sports Main Event ...f5e
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Premier League",Sky Sport Premier League ...38e
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/35f899e9-4e5e-54c4-85ab-fed5beff7dc5.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Premier League",Sky Sport Premier League ...38e
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Football",Sky Sport Football ...26d
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/7562df2e-66f9-5f0e-9915-3668225921b6.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Football",Sky Sports Football ...26d
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fx1tbCQ/Skyarena.png" group-title="Inglaterra" tvg-id="UK | Sky Sports +",Sky Sport Arena ...79c
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/7b9aa7fb-3ec6-5ba6-94d6-9490bfecfc20.png" group-title="Inglaterra" tvg-id="UK | Sky Sports +",Sky Sports Arena ...79c
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3B7YKK/Sky-Cricket.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Cricket",Sky Sport Cricket ...ddd
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f8de69a5-4c3e-5836-b93e-aa7f71d073dc.png" group-title="Inglaterra" tvg-id="UK | Sky Sports Cricket",Sky Sports Cricket ...ddd
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 1",TNT Sport 1 1080 ...c5b
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 1",TNT Sports 1 ...c5b
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 2",TNT Sport 2 1080 ...801
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 2",TNT Sports 2 ...801
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M9VGB7X/TNT3.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 3",TNT Sport 3 1080 ...033
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 3",TNT Sports 3 ...033
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xjXMsJw/TNT4.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 4",TNT Sport 4 1080 ...bce
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 4",TNT Sports 4 ...bce
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" group-title="Inglaterra" tvg-id="UK | Premier Sports 1",Premier Sports 1 ...565
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/c45c421e-6415-5530-a3ae-9667368d1422.png" group-title="Inglaterra" tvg-id="UK | Premier Sports 1",Premier Sports 1 ...565
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbMRYqK/Premier2.png" group-title="Inglaterra" tvg-id="UK | Premier Sports 2",Premier Sports 2 ...537
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="Inglaterra" tvg-id="UK | Premier Sports 2",Premier Sports 2 ...537
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 
+#EXTINF:-1 tvg-logo="https://guidatv.sky.it/logo/5246supertennishd_Light_Fit.png?checksum=13f5cbb1646d848fde3af6fccba8dd4c?tr=n-logo_80" group-title="Italia" tvg-id="SuperTennis.HD.it",SuperTennis ...0ee
+acestream://b58dbf92765976b308695f62dea94b00b40730ee
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgC56qF/ESPN.png" group-title="PaísesBajos" tvg-id="ESPN.nl",ESPN 1 ...dab
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_900016_019441/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="ESPN.nl",ESPN ...dab
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgC56qF/ESPN.png" group-title="PaísesBajos" tvg-id="ESPN.nl",ESPN 1 ...d1d
-acestream://6a9ab96694a0828d9431722e6fcc20653ff35d1d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CBVFyf/ESPN-2.png" group-title="PaísesBajos" tvg-id="ESPN.2.nl",ESPN 2 ...e63
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200037_100000/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="ESPN.2.nl",ESPN 2 ...e63
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CBVFyf/ESPN-2.png" group-title="PaísesBajos" tvg-id="ESPN.2.nl",ESPN 2 ...d82
-acestream://d508048726e066b93f210fdcf10325db15f46d82
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42N00FS/ESPN-3.png" group-title="PaísesBajos" tvg-id="ESPN.3.nl",ESPN 3 ...40a
-acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0KqZsX/ESPN-4.png" group-title="PaísesBajos" tvg-id="ESPN.4.nl",ESPN 4 ...87a
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200039_100000/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="ESPN.4.nl",ESPN 4 ...87a
 acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hf8GnVzN/ziggo1.webp" group-title="PaísesBajos" tvg-id="Ziggo.Sport.1.nl",Ziggo Sport ...058
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000014_019661/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="Ziggo.Sport.1.nl",Ziggo Sport 1 ...058
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cchQwMxc/ziggo2.webp" group-title="PaísesBajos" tvg-id="Ziggo.Sport.2.nl",Ziggo Sport 2 ...027
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000095_019371/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="Ziggo.Sport.2.nl",Ziggo Sport 2 ...027
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLWc2NTF/ziggo3.webp" group-title="PaísesBajos" tvg-id="Ziggo.Sport.3.nl",Ziggo Sport 3 ...b2e
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000096_019382/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="Ziggo.Sport.3.nl",Ziggo Sport 3 ...b2e
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvxbSW4G/ziggo4.webp" group-title="PaísesBajos" tvg-id="Ziggo.Sport.4.nl",Ziggo Sport 4 ...93d
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000097_019370/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="Ziggo.Sport.4.nl",Ziggo Sport 4 ...93d
 acestream://36dfc36084b2138d3451c4700b462ac1094d693d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svkDWgdr/ziggo6.webp" group-title="PaísesBajos" tvg-id="Ziggo.Sport.6.nl",Ziggo Sport 6 ...6ed
+#EXTINF:-1 tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000099_019256/channelLogo?type=channel" group-title="PaísesBajos" tvg-id="Ziggo.Sport.6.nl",Ziggo Sport 6 ...6ed
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Polonia" tvg-id="Eurosport.1.pl",Eurosport 1 ...27f
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Polonia" tvg-id="Eurosport.1.pl",Eurosport 1 ...27f
 acestream://314eb626864faf52e01624361bd6906b5406127f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gck11Fx/TVPsport.png" group-title="Polonia" tvg-id="TVP.Sport.HD.pl",TVP Sport HD ...867
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Polonia" tvg-id="Eurosport.2.pl",Eurosport 2 ...6d8
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvp-sport.png" group-title="Polonia" tvg-id="TVP.Sport.HD.pl",TVP Sport ...867
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-logo="https://i.ibb.co/105yk9z/Eleven1.png" group-title="Polonia" tvg-id="Eleven.Sports.1.4K.pl",Eleven Sport 1 4k ...652
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eleven-sports-1.png" group-title="Polonia" tvg-id="Eleven.Sports.1.4K.pl",Eleven Sports 1 4k ...652
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-logo="https://i.ibb.co/105yk9z/Eleven1.png" group-title="Polonia" tvg-id="Eleven.Sports.1.HD.pl",Eleven Sport 1 ...f00
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eleven-sports-1.png" group-title="Polonia" tvg-id="Eleven.Sports.1.HD.pl",Eleven Sports 1 ...f00
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hd5r2GW/Eleven2.png" group-title="Polonia" tvg-id="Eleven.Sports.2.HD.pl",Eleven Sport 2 ...1f9
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eleven-sports-2.png" group-title="Polonia" tvg-id="Eleven.Sports.2.HD.pl",Eleven Sports 2 ...1f9
 acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1TmpGz3/Eleven3.png" group-title="Polonia" tvg-id="Eleven.Sports.3.HD.pl",Eleven Sport 3 ...212
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eleven-sports-3.png" group-title="Polonia" tvg-id="Eleven.Sports.3.HD.pl",Eleven Sports 3 ...212
 acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zP0LgCW/Eleven4.png" group-title="Polonia" tvg-id="Eleven.Sports.4.HD.pl",Eleven Sport 4 ...e09
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eleven-sports-4.png" group-title="Polonia" tvg-id="Eleven.Sports.4.HD.pl",Eleven Sports 4 ...e09
 acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dmyPsLC/Xtreme.png" group-title="Polonia" tvg-id="Extreme.Channel.HD.pl",Extreme Sports ...082
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/extreme-pl.png" group-title="Polonia" tvg-id="Extreme.Channel.HD.pl",Extreme Sports ...082
 acestream://73ff07648e367efebd94636047b07625f664a082
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HCsWQvw/Sport-Klub.png" group-title="Polonia" tvg-id="Sportklub.HD.pl",Sport Klub ...2ee
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sportklub-pl.png" group-title="Polonia" tvg-id="Sportklub.HD.pl",Sport Klub ...2ee
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TbVY69t/Polsat-Sport-Pr1.png" group-title="Polonia" tvg-id="Polsat.Sport.Premium.1.pl",Polsat Sport Premium 1 ...99f
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/polsat-sport-pr1.png" group-title="Polonia" tvg-id="Polsat.Sport.Premium.1.pl",Polsat Sport Premium 1 ...99f
 acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7460Stj/Polsat-Sport-Pr2.png" group-title="Polonia" tvg-id="Polsat.Sport.Premium.2.pl",Polsat Sport Premium 2 ...95f
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/polsat-sport-pr2.png" group-title="Polonia" tvg-id="Polsat.Sport.Premium.2.pl",Polsat Sport Premium 2 ...95f
 acestream://3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2PmP98N/Polsat-Sport.png" group-title="Polonia" tvg-id="Polsat.Sport.HD.pl",Polsat Sport ...0ee
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/polsat-sport.png" group-title="Polonia" tvg-id="Polsat.Sport.HD.pl",Polsat Sport ...0ee
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8GJm63/Polstat-Sport-Extra.png" group-title="Polonia" tvg-id="Polsat.Sport.Extra.HD.pl",Polsat Sport Extra ...22f
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/polsat-sport-extra.png" group-title="Polonia" tvg-id="Polsat.Sport.Extra.HD.pl",Polsat Sport Extra ...22f
 acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sjkkJhd/Polsat-Sport-Fight.png" group-title="Polonia" tvg-id="Polsat.Sport.Fight.HD.pl",Polsat Sport Fight ...b4b
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/polsat-sport-fight.png" group-title="Polonia" tvg-id="Polsat.Sport.Fight.HD.pl",Polsat Sport Fight ...b4b
 acestream://9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d7zXN9T/Canal.png" group-title="Polonia" tvg-id="CANAL+.Sport.HD.pl",Canal+ Sports 1 ...ed7
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-premium.png" group-title="Polonia" tvg-id="CANAL+.PREMIUM.HD.pl",Canal + ...08d
+acestream://7a2c53a15cbd5b694759bb107dd099db6f84808d
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-1.png" group-title="Polonia" tvg-id="CANAL+.1.HD.pl",CANAL+ 1 ...a4e
+acestream://9def614ad2e9dab30a710ecb6868b4ed3746ca4e
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-sport.png" group-title="Polonia" tvg-id="CANAL+.Sport.HD.pl",Canal+ Sport 1 ...ed7
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vv1cg5D/Canal-2.png" group-title="Polonia" tvg-id="CANAL+.Sport.2.HD.pl",Canal+ Sports 2 ...1d3
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-sport-2.png" group-title="Polonia" tvg-id="CANAL+.Sport.2.HD.pl",Canal+ Sport 2 ...1d3
 acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qB3B481/Canal-3.png" group-title="Polonia" tvg-id="CANAL+.Sport.3.HD.pl",Canal+ Sports 3 ...944
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-sport-3.png" group-title="Polonia" tvg-id="CANAL+.Sport.3.HD.pl",Canal+ Sport 3 ...944
 acestream://3e87464ed8c42ed14464461ea08860a3040a8944
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTMYzDx/Canal-4.png" group-title="Polonia" tvg-id="CANAL+.Sport.4.HD.pl",Canal+ Sports 4 ...bd7
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-sport-4.png" group-title="Polonia" tvg-id="CANAL+.Sport.4.HD.pl",Canal+ Sport 4 ...bd7
 acestream://04448c3ca0b7518819491e468adbabc8a2551bd7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/59jhh5Z/Canal-5.png" group-title="Polonia" tvg-id="CANAL+.Sport.5.HD.pl",Canal+ Sports 5 ...540
-acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvsgN0T/Motowizja.png" group-title="Polonia" tvg-id="Motowizja.HD.pl",Motowizja ...350
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/motowizja-pl.png" group-title="Polonia" tvg-id="Motowizja.HD.pl",Motowizja ...350
 acestream://8ef4e74336a0114d6def70de9d15cc4817d2f350
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RcQtWGG/Golf.png" group-title="Polonia" tvg-id="Golf.Channel.HD.pl",Golf Channel ...689
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/golf-cnl-us.png" group-title="Polonia" tvg-id="Golf.Channel.HD.pl",Golf Channel ...689
 acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/canal-pl-sport-5.png" group-title="Polonia" tvg-id="Sport.1.pl",nSport+ ...540
+acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fightbox-pl.png" group-title="Polonia" tvg-id="FightBox.HD.pl",FightBox ...17a
+acestream://d9e5e213121f3ea7fbcb216b48c306cd935b017a
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fightklub-pl.png" group-title="Polonia" tvg-id="Fightklub.HD.pl",Fightklub ...b29
+acestream://b73da828421018c98905ed05934b77ea35aa1b29
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RBPb12F/Eleven1.png" group-title="Portugal" tvg-id="PT | DAZN 1",Eleven Sport 1 ...51b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Portugal" tvg-id="PT | DAZN 1",DAZN 1 ...51b
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vddFjGL/Eleven2.png" group-title="Portugal" tvg-id="PT | DAZN 2",Eleven Sport 2 ...fce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Portugal" tvg-id="PT | DAZN 2",DAZN 2 ...fce
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wYSjdjR/Eleven3.png" group-title="Portugal" tvg-id="PT | DAZN 3",Eleven Sport 3 ...f1e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="Portugal" tvg-id="PT | DAZN 3",DAZN 3 ...f1e
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J5j1qB8/Eleven5.png" group-title="Portugal" tvg-id="PT | DAZN 5",Eleven Sport 5 ...08a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" group-title="Portugal" tvg-id="PT | DAZN 5",DAZN 5 ...08a
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zF8ZQTF/Eleven6.png" group-title="Portugal" tvg-id="PT | DAZN 6",Eleven Sport 6 ...a80
-acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NZQJc5R/MTV.png" group-title="Rusia" tvg-id="match-tv",MATCH! HD ...ef2
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Rusia" tvg-id="match-tv",Match! ...ef2
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZkdQg5/Mfootball1.png" group-title="Rusia" tvg-id="match-football1",MATCH! Football HD ...0a9
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Rusia" tvg-id="match-football1",Match! Futbol 1 ...0a9
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wzkyp7j/Mfootball2.png" group-title="Rusia" tvg-id="match-football2",MATCH! Football 2 ...f04
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Rusia" tvg-id="match-football2",Match! Futbol 2 ...f04
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KmzhVjp/Mfootball3.png" group-title="Rusia" tvg-id="match-football3",MATCH! Football 3 ...40e
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Rusia" tvg-id="match-football3",Match! Futbol 3 ...40e
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xmSHp48/Mprime.png" group-title="Rusia" tvg-id="match-premier",MATCH! Prime HD ...a12
-acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0YPbfm9/Mboets.png" group-title="Rusia" tvg-id="match-boets",MATCH! Boets ...bfa
-acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPBz7KW/Marena.png" group-title="Rusia" tvg-id="match-arena",MATCH! Arena HD ...ab5
-acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wwRj0sY/Mnash.png" group-title="Rusia" tvg-id="match-nash-sport",MATCH! Nash Sport HD ...771
-acestream://7b4362cb04a3df40bdfa3800af0cc78309a60771
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n3vxk93/Migra.png" group-title="Rusia" tvg-id="match-igra",MATCH! Igra HD ...73c
-acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R085W5P/Fightbox.png" group-title="Rusia" tvg-id="fightbox-hd",FightBox HD ...640
-acestream://49b734a5a3365674480089264be00ae28fabb640
-#EXTINF:-1 tvg-logo="https://i.ibb.co/prNxGrv2/fast.png" group-title="Rusia" tvg-id="fastfunbox-hd",Fast&funbox HD ...d18
-acestream://c811cde690d467a2e45d3c263c4f0960a3933d18
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KszV7nC/KHL.png" group-title="Rusia" tvg-id="kxl",KHL ...dc0
-acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VjG49Vk/KHLp.png" group-title="Rusia" tvg-id="kxl-hd",KHL Prime ...b3b
-acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2jr5k/Viasat.png" group-title="Rusia" tvg-id="viasat-sport",Viasat Sport ...a0b
-acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nQRnPMY/Football.png" group-title="Rusia" tvg-id="football-ru",Футбол HD ...6dd
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/football-ru.png" group-title="Rusia" tvg-id="football-ru",Futbol ...6dd
 acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1auto.png" group-title="Rusia" tvg-id="1auto",Pershyi Avtomobilnyi ...f21
-acestream://d099ad38ef4645ac48cb572207058b785a41df21
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Rusia" tvg-id="eurosport1",EuroSport 1 HD ...a62
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Rusia" tvg-id="match-tv",Match! TV ...a11
+acestream://f0c11e2b7663c084c37626f5696d09dab8fc6a11
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Rusia" tvg-id="match-premier",Match! Premier ...a12
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-boec.png" group-title="Rusia" tvg-id="match-boets",Match! Boyets ...bfa
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Rusia" tvg-id="match-arena",Match! Arena ...ab5
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="Rusia" tvg-id="match-nash-sport",Match! Strana ...2d1
+acestream://ef9c77bd94783448b8edb552109f5f15b2bd82d1
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fightbox-hd.png" group-title="Rusia" tvg-id="fightbox-hd",FightBox ...640
+acestream://49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fastfunbox-hd.png" group-title="Rusia" tvg-id="fastfunbox-hd",Fast&Funbox ...d18
+acestream://c811cde690d467a2e45d3c263c4f0960a3933d18
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kxl-hd.png" group-title="Rusia" tvg-id="kxl-hd",KHL HD ...b3b
+acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Rusia" tvg-id="kxl",KHL TV ...dc0
+acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Rusia" tvg-id="viasat-sport",Viasat Sport ...a0b
+acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Rusia" tvg-id="eurosport1",Eurosport 1 ...a62
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Rusia" tvg-id="eurosport2",EuroSport 2 HD ...8e0
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Rusia" tvg-id="eurosport2",Eurosport 2 ...8e0
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ufc.png" group-title="Rusia" tvg-id="ufc",UFC HD ...b64
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ufc.png" group-title="Rusia" tvg-id="ufc",UFC ...b64
 acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="Rusia" tvg-id="avto-plus",Auto Plus ...cb9
+acestream://c3ff9e5243014a19c3cee52159d68fd750eeecb9
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/avto24.png" group-title="Rusia" tvg-id="avto24",Avto24 ...780
+acestream://7e515477cf191b1e4e33c7151c7cf84925f16780
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-tv.png" group-title="Rusia" tvg-id="box-tv",Boks TV ...c3d
+acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fPVPLL/Bein1.png" group-title="Turquía" tvg-id="Beinsports.tr",Bein Sports 1 ...a52
+#EXTINF:-1 tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="Turquía" tvg-id="Beinsports.tr",beIN Sports 1 ...a52
 acestream://118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9VMNBsJ/Bein2.png" group-title="Turquía" tvg-id="Beinsports.2.tr",Bein Sports 2 ...a05
+#EXTINF:-1 tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" group-title="Turquía" tvg-id="Beinsports.2.tr",beIN Sports 2 ...a05
 acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkX99sd/Bein3.png" group-title="Turquía" tvg-id="Beinsports.3.tr",Bein Sports 3 ...d62
+#EXTINF:-1 tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports3.png" group-title="Turquía" tvg-id="Beinsports.3.tr",beIN Sports 3 ...d62
 acestream://ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swxDvMT/Bein4.png" group-title="Turquía" tvg-id="Beinsports.4.tr",Bein Sports 4 ...f9d
+#EXTINF:-1 tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" group-title="Turquía" tvg-id="Beinsports.4.tr",beIN Sports 4 ...f9d
 acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvTFJQt/Bein-Haber.png" group-title="Turquía" tvg-id="Bein.Sports.Haber.tr",Bein Sports HABER ...5f3
+#EXTINF:-1 tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" group-title="Turquía" tvg-id="Bein.Sports.Haber.tr",beIN Sports Haber ...5f3
 acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3
-#EXTINF:-1 tvg-logo="https://ssport.tv//uploads/tv-logo/logo-1.svg" group-title="Turquía" tvg-id="SSport.tr",S Sport ...042
-acestream://4ee6d74475fa010c590eb228d66155bdc9c16042
 #EXTINF:-1 tvg-logo="https://ssport.tv//uploads/tv-logo/logo-2.svg" group-title="Turquía" tvg-id="SSport.2.tr",S Sport 2 ...e51
 acestream://367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
+#EXTINF:-1 tvg-logo="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160121/001300/001300000000003512295/62f42a8d-b0c4-4367-b283-4e3a39e8da0a.png" group-title="Turquía" tvg-id="A.SPOR.HD.tr",A Spor ...892
+acestream://b2de6896bde31180ac213fce395c437fa3b2a892
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838378.png" group-title="Turquía" tvg-id="HT.SPOR.HD.tr",HT SPOR ...490
+acestream://ae2c0c878b2df3e0b908712592a9051b3f740490
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838378.png" group-title="Turquía" tvg-id="HT.SPOR.HD.tr",HT SPOR ...f99
+acestream://dca707f147a718f07b34b943d160e95e86c60f99
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f2vxWxj/Setanta1.png" group-title="Ukrania" tvg-id="setanta-sports",Setanta Sports 1 ...707
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Ukrania" tvg-id="setanta-sports",Setanta Live 1 ...707
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P4sWVG3/Setanta2.png" group-title="Ukrania" tvg-id="setanta-sports-plus",Setanta Sports 2 ...80c
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Ukrania" tvg-id="setanta-sports-plus",Setanta Live 2 ...80c
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ssj7ZBV/espn.png" group-title="USA" tvg-id="ESPN.HD.us2",ESPN 1 ...442
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" group-title="USA" tvg-id="ESPN.HD.us2",ESPN 1 ...442
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pdpg7bR/espn2.png" group-title="USA" tvg-id="ESPN2.HD.us2",ESPN 2 ...394
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" group-title="USA" tvg-id="ESPN2.HD.us2",ESPN 2 ...394
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fvG2stM/foxsports.png" group-title="USA" tvg-id="FS1.Fox.Sports.1.HD.us2",Fox Sports 1 ...898
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" group-title="USA" tvg-id="FS1.Fox.Sports.1.HD.us2",FOX Sports 1 ...898
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0cnVCwv/foxsports2.png" group-title="USA" tvg-id="FS2.Fox.Sports.2.HD.us2",Fox Sports 2 ...3b7
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&h=270" group-title="USA" tvg-id="FS2.Fox.Sports.2.HD.us2",FOX Sports 2 ...3b7
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n09HkMh/tenis.png" group-title="USA" tvg-id="Tennis.Channel.HD.us2",Tennis Channel ...3ac
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7x3fT2T/nba.png" group-title="USA" tvg-id="NBA.TV.HD.us2",NBA TV ...d95
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270" group-title="USA" tvg-id="NBA.TV.HD.us2",NBA TV ...d95
 acestream://e72d03fb9694164317260f684470be9ab781ed95
-
-
+#EXTINF:-1 tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" group-title="USA" tvg-id="Tennis.Channel.HD.us2",Tennis Channel ...3ac
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
